@@ -1,0 +1,154 @@
+id	ad	tur	ne_lazim	ana_malzemeler	sure	zahmet	maliyet	misafir	mevsim	mutfak	taban_kisi	saklama	uyari	sure_dk	kcal_porsiyon	aciklama
+1	Mercimek çorbası	çorba	çorba	57,6,10,9,26	orta	kolay	ucuz			Türk	4	dondurulur		40	280	Her evin klasiği, limonla servis
+2	Ezogelin çorbası	çorba	çorba	57,55,53,6,76,98,94	orta	kolay	ucuz			Türk	4	dondurulur		45	280	Naneli, bulgurlu, doyurucu
+3	Yayla çorbası	çorba	çorba	53,42,40,66,50,98	orta	normal	ucuz			Türk	4	buzdolabı		35	130	Yoğurtlu, naneli, pirinçli
+4	Domates çorbası	çorba	çorba	1,66,50,41,45	kısa	kolay	ucuz			Türk	4	buzdolabı		25	160	Üstüne rendelenmiş kaşarla
+5	Şehriye çorbası	çorba	çorba	63,76,26	kısa	kolay	ucuz			Türk	4	buzdolabı		20	150	Beş dakikada hazır, hasta çorbası
+6	Tavuk suyu çorba	çorba	çorba	33,63,10,26	orta	kolay	ucuz		kış	Türk	4	buzdolabı		50	160	Tavuklu, şehriyeli, içi ısıtan
+7	Terbiyeli tavuk çorbası	çorba	çorba	32,66,50,40,26	orta	normal	ucuz		kış	Türk	4	buzdolabı		45	140	Limonlu yumurtalı terbiyesiyle
+8	Mantar çorbası	çorba	çorba	25,66,50,41	kısa	kolay	normal			Türk	4	buzdolabı		25	140	Kremamsı, kaşıklık
+9	Brokoli çorbası	çorba	çorba	21,9,6,41	kısa	kolay	ucuz		kış	Türk	4	buzdolabı		30	170	Blenderdan geçmiş yeşil çorba
+10	Sebze çorbası	çorba	çorba	10,9,12,6,76	orta	kolay	ucuz			Türk	4	dondurulur		40	120	Dolaptaki sebzeleri değerlendirir
+11	Yeşil mercimek çorbası	çorba	çorba	58,6,76,98	orta	kolay	ucuz		kış	Türk	4	dondurulur		50	230	Tane tane, naneli
+12	Pırasa çorbası	çorba	çorba	22,9,41	orta	kolay	ucuz		kış	Türk	4	buzdolabı		35	230	Patatesle kıvam alan kış çorbası
+13	Kabak çorbası	çorba	çorba	12,9,6,41	kısa	kolay	ucuz		yaz	Türk	4	buzdolabı		30	150	Hafif, yaz akşamına
+14	Karnabahar çorbası	çorba	çorba	20,9,6,41	kısa	kolay	ucuz		kış	Türk	4	buzdolabı		30	160	Karnabahar sevmeyene bile
+15	Düğün çorbası	çorba	çorba	31,42,40,66,26,50,94	uzun	uğraştırır	normal	evet	kış	Türk	4	buzdolabı		90	280	Etli, terbiyeli, misafirlik
+16	Minestrone	çorba	çorba	10,12,9,1,6,62,91	orta	kolay	ucuz			Dünya	4	buzdolabı		40	170	İtalyan sebze çorbası, makarnalı
+17	Karnıyarık	ana yemek	ana yemek	11,30,6,1,3,76	uzun	uğraştırır	normal	evet	yaz	Türk	4	buzdolabı		75	310	Kızarmış patlıcan, kıymalı harç
+18	Patlıcan musakka	ana yemek	ana yemek	11,30,6,1,3,76	uzun	normal	normal		yaz	Türk	4	buzdolabı		70	290	Fırında kıymalı patlıcan
+19	Kıymalı patates yemeği	ana yemek	ana yemek	9,30,6,76	orta	kolay	ucuz			Türk	4	buzdolabı		40	350	Ay sonu kurtarıcısı
+20	Fırında köfte patates	ana yemek	ana yemek	30,70,6,102,9,1,3	orta	normal	normal	evet		Türk	4	dondurulur		60	590	Tek tepside akşam yemeği
+21	Tava köfte	ana yemek	ana yemek	30,70,6,102	kısa	kolay	normal			Türk	2	taze		25	500	Yanına pilav ya da piyaz
+22	İzmir köfte	ana yemek	ana yemek	30,70,6,102,9,1,3,76	uzun	normal	normal	evet		Türk	4	dondurulur		70	530	Fırında domates soslu köfte
+23	Sulu köfte	ana yemek	ana yemek	30,53,6,66,9,10,40,26	orta	normal	ucuz		kış	Türk	4	dondurulur		50	330	Terbiyeli, sulu, kaşıkla yenir
+24	Kadınbudu köfte	ana yemek	ana yemek	30,53,6,40,66	uzun	uğraştırır	normal	evet		Türk	4	dondurulur		70	450	Pirinçli, yumurtaya bulanmış
+25	Hasanpaşa köfte	ana yemek	ana yemek	30,70,6,102,9,41,50,45,76	uzun	uğraştırır	normal	evet		Türk	4	buzdolabı		75	480	Patates püreli, kaşarlı
+26	Dalyan köfte	ana yemek	ana yemek	30,70,6,40,10,88,102	uzun	normal	normal	evet		Türk	4	dondurulur		75	440	Dilim dilim, içi yumurtalı rulo köfte
+27	Dondurulmuş köfte + patates	ana yemek	ana yemek	39,89	kısa	kolay	normal			Türk	2	taze		25	700	Hiç enerji yoksa
+28	Kıymalı ıspanak	ana yemek	ana yemek	13,30,6,53,76	kısa	kolay	ucuz		kış	Türk	4	buzdolabı		30	280	Yoğurtla çok yakışır
+29	Kıymalı pırasa	ana yemek	ana yemek	22,30,6,10,53	orta	kolay	ucuz		kış	Türk	4	buzdolabı		45	380	Pirinçli, havuçlu kış yemeği
+30	Kıymalı kabak	ana yemek	ana yemek	12,30,6,1	orta	kolay	ucuz		yaz	Türk	4	buzdolabı		35	250	Yaz sofrasının hafifi
+31	Kıymalı karnabahar	ana yemek	ana yemek	20,30,6,76	orta	kolay	ucuz		kış	Türk	4	buzdolabı		40	260	Salçalı, tencerede
+32	Kapuska	ana yemek	ana yemek	19,30,6,53,76,94	orta	kolay	ucuz		kış	Türk	4	buzdolabı		45	290	Lahana yemeği, pul biberli
+33	Lahana sarması	ana yemek	ana yemek	19,30,53,6,76,98	uzun	uğraştırır	normal	evet	kış	Türk	4	dondurulur		90	530	Kıymalı sarma, yoğurtla
+34	Kabak dolması	ana yemek	ana yemek	12,30,53,1,6,76	uzun	uğraştırır	normal	evet	yaz	Türk	4	buzdolabı		75	320	Kıymalı, yoğurtlu
+35	Etli taze fasulye	ana yemek	ana yemek	24,31,6,1	orta	kolay	normal		yaz	Türk	4	buzdolabı		60	290	Etli, sulu, pilavla
+36	Etli kuru fasulye	ana yemek	ana yemek	60,31,6,76	uzun	kolay	normal		kış	Türk	4	dondurulur		120	540	Bir gece önceden ıslat; pilav şart
+37	Etli nohut	ana yemek	ana yemek	59,31,6,76	uzun	kolay	normal		kış	Türk	4	dondurulur		110	570	Bir gece önceden ıslat
+38	Et sote	ana yemek	ana yemek	31,6,1,3	orta	kolay	normal			Türk	2	buzdolabı		45	470	Tavada, biberli
+39	Tas kebabı	ana yemek	ana yemek	31,6,9,1,76	uzun	normal	normal	evet	kış	Türk	4	dondurulur		90	490	Yumuşacık et, patatesli
+40	Orman kebabı	ana yemek	ana yemek	31,9,10,88,6	uzun	normal	normal	evet	kış	Türk	4	dondurulur		90	510	Sebzeli et yemeği
+41	Güveç	ana yemek	ana yemek	31,11,9,1,3,6	uzun	normal	normal	evet		Türk	4	dondurulur		100	520	Fırında etli sebze
+42	Hünkar beğendi	ana yemek	ana yemek	31,6,1,11,41,66,49,45	uzun	uğraştırır	normal	evet		Türk	4	buzdolabı		100	610	Közlenmiş patlıcan beğendiyle
+43	Tavuk sote	ana yemek	ana yemek	32,6,3,1	kısa	kolay	normal			Türk	2	buzdolabı		25	290	Hızlı, biberli
+44	Fırında tavuk patates	ana yemek	ana yemek	33,9,6,76	orta	kolay	normal			Türk	4	buzdolabı		60	420	Tek tepside, fırına ver unut
+45	Tavuk şiş (tavada)	ana yemek	ana yemek	32,42,76,8	orta	kolay	normal			Türk	4	buzdolabı		50	260	Yoğurtlu marine, lavaşla
+46	Kremalı mantarlı tavuk	ana yemek	ana yemek	32,25,6,51	kısa	kolay	normal	evet		Türk	2	buzdolabı		25	480	Pilav ya da makarnayla
+47	Fırında bütün tavuk	ana yemek	ana yemek	34,9,26,8	uzun	kolay	normal	evet		Türk	4	buzdolabı		100	820	Pazar yemeği
+48	Tavuklu bezelye	ana yemek	ana yemek	32,88,10,9,6,76	orta	kolay	ucuz			Türk	4	buzdolabı		45	280	Sulu, sebzeli
+49	Fırında tavuk kanat	ana yemek	ana yemek	35,114,76,8	orta	kolay	ucuz			Türk	4	buzdolabı	bal	50	350	Ballı soslu, çocuklar bayılır
+50	Tavuk güveç	ana yemek	ana yemek	33,9,3,1,25	orta	kolay	normal			Türk	4	buzdolabı		60	420	Fırında tavuklu sebze
+51	Tavuk şinitzel	ana yemek	ana yemek	32,66,40,70	kısa	normal	normal			Dünya	2	taze		25	480	Pane tavuk; bayat ekmek rendesiyle
+52	Köri soslu tavuk	ana yemek	ana yemek	32,6,100,51	kısa	kolay	normal	evet		Dünya	2	buzdolabı		25	460	Pilavla, farklı bir tat
+53	Tavuk dürüm	ana yemek	ana yemek	72,32,14,1,85	kısa	kolay	normal			Dünya	2	taze		25	500	Lavaşa sarılı, elde yenir
+54	Dana stroganoff	ana yemek	ana yemek	31,25,6,51	orta	normal	normal	evet		Dünya	2	buzdolabı		45	670	Rus mutfağından kremalı et
+55	Gulaş	ana yemek	ana yemek	31,6,9,5,95,76	uzun	kolay	normal		kış	Dünya	4	dondurulur		100	490	Macar usulü etli yahni
+56	Chili con carne	ana yemek	ana yemek	30,60,6,5,1,96,94	uzun	kolay	normal		kış	Dünya	4	dondurulur		120	510	Meksika usulü acılı kıyma fasulye
+57	Çoban turtası	ana yemek	ana yemek	30,6,10,88,76,9,41,50	uzun	normal	normal	evet		Dünya	4	dondurulur		75	500	Kıymanın üstü patates püresi
+58	Ev yapımı hamburger	ana yemek	ana yemek	75,30,6,14,1,83	kısa	normal	normal			Dünya	2	taze		30	550	Dışarıdan söylemeye gerek yok
+59	Sosisli patates sote	ana yemek	kahvaltılık	37,9,5	kısa	kolay	ucuz			Türk	2	buzdolabı		25	560	Çocukların favorisi
+60	Sucuklu yumurta	ana yemek	kahvaltılık	36,40	kısa	kolay	ucuz			Türk	1	taze	az_pismis_yumurta	10	340	Beş dakikada akşam yemeği
+61	Menemen	ana yemek	kahvaltılık	1,3,40	kısa	kolay	ucuz			Türk	2	taze		20	230	Soğanlı mı soğansız mı, siz bilirsiniz
+62	Shakshuka	ana yemek	kahvaltılık	1,5,6,40,96,95,91	kısa	kolay	ucuz			Dünya	2	taze	az_pismis_yumurta	25	360	Kuzey Afrika usulü baharatlı menemen
+63	Çılbır	ana yemek	kahvaltılık	40,42,8,50,94,86	kısa	kolay	ucuz			Türk	1	taze	az_pismis_yumurta	15	330	Sarımsaklı yoğurtta yumurta
+64	Patatesli yumurta	ana yemek	kahvaltılık	9,40,6	kısa	kolay	ucuz			Türk	2	taze		25	440	Evde başka bir şey yoksa
+65	Ispanaklı yumurta	ana yemek	kahvaltılık	13,6,40	kısa	kolay	ucuz		kış	Türk	2	taze	az_pismis_yumurta	20	320	Hızlı ve hafif
+66	İmam bayıldı	ana yemek	ana yemek	11,6,1,8,91	uzun	uğraştırır	ucuz	evet	yaz	Türk	4	buzdolabı		80	310	Zeytinyağlı, soğuk yenir
+67	Zeytinyağlı taze fasulye	ana yemek	ana yemek	24,6,1,91	orta	kolay	ucuz		yaz	Türk	4	buzdolabı		60	180	Soğuk servis, yaz klasiği
+68	Türlü	ana yemek	ana yemek	11,12,9,3,1,6,24,76	uzun	kolay	ucuz		yaz	Türk	4	buzdolabı		70	230	Ne sebze varsa
+69	Ratatouille	ana yemek	ana yemek	11,12,5,1,8,6,91,97	orta	kolay	ucuz		yaz	Dünya	4	buzdolabı		55	180	Fransız usulü sebze yemeği
+70	Zeytinyağlı pırasa	ana yemek	ana yemek	22,10,53,26,91	orta	kolay	ucuz		kış	Türk	4	buzdolabı		50	290	Limonlu, soğuk servis
+71	Zeytinyağlı kereviz	ana yemek	ana yemek	23,10,9,28,26,91	orta	kolay	ucuz		kış	Türk	4	buzdolabı		50	270	Portakallı kış zeytinyağlısı
+72	Etsiz patates yemeği	ana yemek	ana yemek	9,6,76	orta	kolay	ucuz			Türk	4	buzdolabı		40	250	En ucuz sıcak yemek
+73	Kuru fasulye (etsiz)	ana yemek	ana yemek	60,6,76	uzun	kolay	ucuz		kış	Türk	4	dondurulur		120	410	Bir gece önceden ıslat
+74	Nohut yemeği (etsiz)	ana yemek	ana yemek	59,6,76	uzun	kolay	ucuz		kış	Türk	4	dondurulur		100	450	Bir gece önceden ıslat
+75	Yeşil mercimek yemeği	ana yemek	ana yemek	58,55,6,76	orta	kolay	ucuz		kış	Türk	4	buzdolabı		50	360	Bulgurlu, tek tencere
+76	Fasulye pilaki	ana yemek	ana yemek	60,10,9,6,26,91	uzun	kolay	ucuz			Türk	4	buzdolabı		110	460	Zeytinyağlı, soğuk
+77	Mücver	ana yemek	ana yemek	12,40,66,44,17,7	orta	normal	ucuz	evet	yaz	Türk	4	buzdolabı		40	220	Yoğurtla, kabak mevsiminde
+78	Karnabahar kızartması	ana yemek	ana yemek	20,40,66,42,8	orta	normal	ucuz		kış	Türk	4	taze		40	250	Sarımsaklı yoğurtla
+79	Şakşuka	ana yemek	meze	11,12,3,1,8	orta	normal	ucuz		yaz	Türk	4	buzdolabı		50	130	Kızarmış sebze, domates soslu
+80	Mantar sote	ana yemek	ana yemek	25,6,3	kısa	kolay	normal			Türk	2	buzdolabı		15	140	On dakikalık yan yemek
+81	Fırın sebze	ana yemek	ana yemek	9,10,12,21,91,97	orta	kolay	ucuz			Dünya	4	buzdolabı		50	260	Tepsiye diz, fırına ver
+82	Patates graten	ana yemek	ana yemek	9,41,51,45,8	orta	normal	normal	evet		Dünya	4	buzdolabı		60	360	Fransız usulü kremalı fırın patates
+83	Falafel	ana yemek	meze,atıştırmalık	59,6,8,16,96,110	uzun	normal	ucuz			Dünya	4	taze		40	420	Nohut köftesi; bir gece önceden ıslat
+84	Mercimek köftesi	salata-meze	meze,atıştırmalık	57,56,6,76,7,16,91,14,26	orta	normal	ucuz	evet		Türk	4	buzdolabı		45	440	Kabul günü klasiği
+85	Pirinç pilavı	pilav	pilav-makarna	54,63,50	orta	kolay	ucuz			Türk	4	buzdolabı		35	400	Şehriyeli, tane tane
+86	Bulgur pilavı	pilav	pilav-makarna	55,6,3,76	kısa	kolay	ucuz			Türk	4	buzdolabı		30	410	Salçalı, biberli
+87	Nohutlu pilav	pilav	pilav-makarna	54,59,50	uzun	kolay	ucuz			Türk	4	buzdolabı		90	460	Nohut bir gece önceden ıslanır
+88	Sebzeli pilav	pilav	pilav-makarna	54,10,88,78,50	orta	kolay	ucuz			Türk	4	buzdolabı		35	410	Renkli, çocuklar sever
+89	Tavuklu pilav	pilav	pilav-makarna	32,54,50,105	orta	kolay	normal			Türk	4	buzdolabı		55	480	Ayranla tek başına bir öğün
+90	Domatesli pilav	pilav	pilav-makarna	54,1,50	orta	kolay	ucuz		yaz	Türk	4	buzdolabı		35	400	Domates mevsiminde
+91	Mantarlı bulgur pilavı	pilav	pilav-makarna	55,25,6	orta	kolay	ucuz			Türk	4	buzdolabı		35	420	Bulgur pilavına farklı bir tat
+92	Yumurtalı kızarmış pilav	pilav	pilav-makarna	54,40,10,88,7	kısa	kolay	ucuz			Dünya	2	buzdolabı		30	580	Uzak Doğu usulü, dünden kalan pilavla
+93	Salçalı makarna	makarna	pilav-makarna	62,76	kısa	kolay	ucuz			Türk	2	buzdolabı		15	590	Ay sonu, on dakika
+94	Yoğurtlu makarna	makarna	pilav-makarna	62,42,8,50,94	kısa	kolay	ucuz			Türk	2	buzdolabı		15	580	Mantı tadında makarna
+95	Spagetti bolonez	makarna	pilav-makarna	61,30,6,10,1,91	orta	kolay	normal			Dünya	2	buzdolabı		40	850	Kıymalı domates soslu
+96	Ton balıklı makarna	makarna	pilav-makarna	62,80,1,8,91	kısa	kolay	normal			Dünya	2	buzdolabı		20	700	Konserveyle hızlı akşam
+97	Fırın makarna	makarna	pilav-makarna	62,41,66,49,40,45	orta	normal	ucuz	evet		Türk	4	buzdolabı		50	750	Beşamelli, kaşarlı
+98	Sucuklu carbonara	makarna	ana yemek,pilav-makarna	61,36,40,45	kısa	normal	normal			Dünya	2	buzdolabı	az_pismis_yumurta	20	780	İtalyan klasiğinin Türk usulü
+99	Kremalı mantarlı makarna	makarna	pilav-makarna	62,25,51	kısa	kolay	normal			Dünya	2	buzdolabı		20	740	Hızlı ve doyurucu
+100	Tavuklu kremalı makarna	makarna	pilav-makarna	62,32,25,51	kısa	kolay	normal			Dünya	2	buzdolabı		25	860	Tek tencerede
+101	Kaşarlı fırın makarna (mac and cheese)	makarna	pilav-makarna	62,41,66,49,45	kısa	kolay	ucuz			Dünya	4	buzdolabı		30	720	Amerikan usulü peynirli makarna
+102	Acılı domates soslu makarna	makarna	pilav-makarna	62,1,8,94,91	kısa	kolay	ucuz		yaz	Dünya	2	buzdolabı		20	630	İtalyan arrabbiata
+103	Sarımsaklı spagetti	makarna	pilav-makarna	61,8,94,91,16	kısa	kolay	ucuz			Dünya	2	buzdolabı		15	730	İtalyan aglio e olio, beş malzeme
+104	Mantı	makarna	ana yemek,hamur işi	65,42,8,50,94	kısa	kolay	normal			Türk	2	taze		20	580	Hazır mantıyla yirmi dakika
+105	Çoban salata	salata-meze	salata	1,2,3,6,16,91,26	kısa	kolay	ucuz		yaz	Türk	2	taze		10	200	Her yemeğin yanına
+106	Mevsim salata	salata-meze	salata	14,15,10,26,91	kısa	kolay	ucuz		kış	Türk	2	taze		10	180	Yeşillik
+107	Kısır	salata-meze	salata,atıştırmalık	56,76,7,16,18,87,26,91	kısa	normal	ucuz	evet		Türk	4	buzdolabı		25	410	Kabul günü klasiği
+108	Cacık	salata-meze	meze	42,2,8,98	kısa	kolay	ucuz		yaz	Türk	2	taze		10	80	Pilavın yanına
+109	Havuç tarator	salata-meze	meze	10,43,8,91	kısa	kolay	ucuz	evet		Türk	4	buzdolabı		20	140	Sarımsaklı yoğurtlu havuç
+110	Patates salatası	salata-meze	salata,atıştırmalık	9,7,16,26,91	kısa	kolay	ucuz			Türk	4	taze		30	250	Haşlanmış patatesle
+111	Rus salatası	salata-meze	salata,atıştırmalık	9,10,88,83,85,42	orta	normal	normal	evet		Türk	4	taze		40	220	Mayonezli, turşulu
+112	Ton balıklı makarna salatası	salata-meze	salata,atıştırmalık	62,80,78,85	kısa	kolay	normal			Türk	4	taze		25	410	Soğuk, doyurucu
+113	Humus	salata-meze	meze,atıştırmalık	59,116,26,8,96,91	uzun	normal	ucuz	evet		Dünya	4	buzdolabı		120	310	Nohudu bir gece önceden ıslat
+114	Patlıcan salatası	salata-meze	meze	11,1,3,8,26,91	orta	kolay	ucuz		yaz	Türk	4	buzdolabı		40	130	Közlenmiş patlıcanla
+115	Haydari	salata-meze	meze	43,44,8,17,91	kısa	kolay	ucuz	evet		Türk	4	buzdolabı		10	130	Süzme yoğurtlu meze
+116	Piyaz	salata-meze	salata	60,6,1,16,99,26,91	uzun	kolay	ucuz			Türk	4	buzdolabı		100	350	Köftenin yanına; fasulye bir gece önceden ıslanır
+117	Gavurdağı salatası	salata-meze	salata	1,6,3,16,119,87,91	kısa	normal	normal	evet	yaz	Türk	2	taze		15	370	Cevizli, nar ekşili
+118	Yeşil mercimek salatası	salata-meze	salata	58,1,7,16,26,91	orta	kolay	ucuz			Türk	4	buzdolabı		40	280	Haşlanmış mercimekle
+119	Lahana salatası	salata-meze	salata	19,10,26,91	kısa	kolay	ucuz		kış	Türk	4	taze		15	110	Kıtır kıtır
+120	Tavuklu salata	salata-meze	salata	32,14,78,1,91,26	kısa	kolay	normal			Dünya	2	taze		25	340	Hafif akşam yemeği
+121	Sigara böreği	hamur işi	kahvaltılık,hamur işi,atıştırmalık	73,44,16	orta	normal	ucuz	evet		Türk	4	dondurulur		40	380	Çay saatinin yıldızı
+122	Ispanaklı tepsi böreği	hamur işi	ana yemek,hamur işi,atıştırmalık	73,13,44,6,41,40	uzun	normal	normal	evet	kış	Türk	4	dondurulur		100	750	Yufkayla, fırında
+123	Kıymalı börek	hamur işi	ana yemek,hamur işi,atıştırmalık	73,30,6,41,40	uzun	normal	normal	evet		Türk	4	dondurulur		100	800	Fırında, dilim dilim
+124	Patatesli börek	hamur işi	ana yemek,hamur işi,atıştırmalık	73,9,6,41,40,94	uzun	normal	ucuz	evet		Türk	4	dondurulur		100	730	Ucuz ve doyurucu
+125	Yufkadan gözleme	hamur işi	kahvaltılık,hamur işi	73,44,13,50	kısa	kolay	ucuz			Türk	2	taze		20	630	Tavada, çayla
+126	Pişi	hamur işi	kahvaltılık,hamur işi	66,112,41,106	orta	normal	ucuz			Türk	4	taze		60	460	Kızarmış hamur, peynirle
+127	Poğaça	hamur işi	kahvaltılık,hamur işi,atıştırmalık	66,42,49,40,109,44	uzun	normal	ucuz	evet		Türk	8	dondurulur		60	400	Peynirli, yumuşacık
+128	Lavaş pizza	hamur işi	kahvaltılık,ana yemek,hamur işi,atıştırmalık	72,76,45,36,97	kısa	kolay	ucuz			Dünya	1	taze		15	480	On dakikada pizza
+129	Ev pizzası	hamur işi	kahvaltılık,ana yemek,hamur işi,atıştırmalık	66,112,91,106,76,45,36,25,5	uzun	normal	normal			Dünya	4	taze		90	600	Kendi hamurunla
+130	Kıymalı pide	hamur işi	ana yemek,hamur işi	66,112,106,30,6,1,3	uzun	uğraştırır	normal	evet		Türk	4	buzdolabı		100	580	Fırında, ev usulü
+131	Peynirli milföy	hamur işi	kahvaltılık,hamur işi,atıştırmalık	74,44,40	orta	kolay	normal	evet		Türk	4	buzdolabı		35	760	Hazır hamurla kolay börek
+132	Sucuklu kaşarlı tost	hamur işi	kahvaltılık	71,45,36,50	kısa	kolay	ucuz			Türk	1	taze		10	370	En tembel akşam yemeği
+133	Krep	hamur işi	kahvaltılık	66,41,40	kısa	kolay	ucuz			Dünya	2	taze		25	430	Tatlı ya da tuzlu
+134	Mısır ekmeği	hamur işi	kahvaltılık,hamur işi	67,66,42,40,109	orta	kolay	ucuz			Türk	8	dondurulur		45	290	Karadeniz usulü, çorbanın yanına
+135	Pankek	hamur işi	kahvaltılık	66,41,40,106,109,114	kısa	kolay	ucuz			Dünya	2	taze	bal	20	440	Balla ya da reçelle
+136	Sütlaç	tatlı	tatlı	53,41,106,69	orta	kolay	ucuz			Türk	4	buzdolabı		45	390	Fırında ya da tencerede
+137	Muhallebi	tatlı	tatlı	41,106,66,69,111,101	kısa	kolay	ucuz			Türk	4	buzdolabı		25	290	Tarçınla
+138	İrmik helvası	tatlı	tatlı	68,49,41,106	kısa	kolay	ucuz			Türk	4	buzdolabı		30	460	Dondurmayla ya da sade
+139	Un helvası	tatlı	tatlı	66,49,41,106	kısa	kolay	ucuz		kış	Türk	4	buzdolabı		30	370	Kış akşamlarının tatlısı
+140	Kakaolu kek	tatlı	atıştırmalık,tatlı	40,106,41,66,108,109,111	orta	kolay	ucuz			Türk	8	dondurulur		50	340	Çay saatine
+141	Mozaik pasta	tatlı	atıştırmalık,tatlı	123,108,41,49,106	kısa	kolay	ucuz			Türk	8	buzdolabı		20	270	Fırın yok, buzdolabında donar
+142	Revani	tatlı	atıştırmalık,tatlı	40,106,42,68,66,109	orta	normal	ucuz	evet		Türk	8	buzdolabı		60	430	Şerbetli irmik tatlısı
+143	Supangle	tatlı	tatlı	41,106,108,66,69,121	kısa	kolay	ucuz			Türk	4	buzdolabı		25	410	Çikolatalı puding
+144	Elmalı kurabiye	tatlı	atıştırmalık,tatlı	49,42,107,109,66,27,106,101	uzun	normal	ucuz	evet		Türk	8	dondurulur		70	350	Tarçınlı elma içli
+145	Un kurabiyesi	tatlı	atıştırmalık,tatlı	49,107,66,111	orta	kolay	ucuz	evet		Türk	8	dondurulur		45	240	Ağızda dağılan
+146	Brownie	tatlı	atıştırmalık,tatlı	121,49,106,40,66,108	orta	normal	normal	evet		Dünya	8	dondurulur		45	390	Amerikan usulü çikolatalı kek
+147	Muzlu magnolia	tatlı	tatlı	41,106,66,69,123,29	kısa	kolay	normal	evet		Dünya	4	buzdolabı		25	470	Kupta, fırın yok
+148	Kayısı tatlısı	tatlı	tatlı	124,106,119,52	orta	kolay	normal	evet		Türk	4	buzdolabı		60	400	Cevizli, kaymaklı
+149	Omlet	ana yemek	kahvaltılık	40,41,50	kısa	kolay	ucuz			Türk	1	taze		10	240	Beş dakikada, iki yumurtayla
+150	Patates kızartması	garnitür	kahvaltılık,atıştırmalık,garnitür	9	kısa	kolay	ucuz			Türk	2	taze		25	410	Kahvaltıya da köftenin yanına da
+151	Patates püresi	garnitür	garnitür	9,41,50	kısa	kolay	ucuz			Türk	4	buzdolabı		30	230	Köftenin, tavuğun yanına
+152	Şehriye pilavı	pilav	pilav-makarna	63,50	kısa	kolay	ucuz			Türk	4	buzdolabı		20	370	Pirinç yoksa arpa şehriyeyle
+153	Ekmek arası köfte	ana yemek	ana yemek	70,30,6,102,1,3	kısa	kolay	normal			Türk	2	taze		30	700	Köftecideki gibi, evde

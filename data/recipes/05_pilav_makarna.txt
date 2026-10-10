@@ -1,0 +1,335 @@
+# 85 Pirinç pilavı
+süre: 35
+malzemeler:
+- Osmancık pirinç | 2 su bardağı
+- Arpa şehriye | 2 yemek kaşığı
+- Kase margarin | 2 yemek kaşığı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Pirinci ılık suda 10 dakika beklet, suyu berraklaşana kadar yıka, süz.
+2. Margarini tencerede erit, şehriyeyi pembeleşene kadar kavur.
+3. Pirinci ekle, 2 dakika kavur.
+4. Sıcak suyu ve tuzu ekle. Kaynayınca kapağı kapat, kısık ateşte suyunu çekene kadar 12 dakika pişir.
+5. Ocağı kapat, kapağın altına kâğıt havlu koyup 10 dakika demlendir.
+
+# 86 Bulgur pilavı
+süre: 30
+malzemeler:
+- Pilavlık bulgur | 2 su bardağı
+- Kuru soğan | 1 adet
+- Sivri biber | 2 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı ve biberleri küçük doğra.
+2. Yağı tencerede ısıt, soğanı ve biberleri 4-5 dakika kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Bulguru ekle, 2 dakika kavur.
+5. Sıcak suyu, tuzu ve karabiberi ekle. Kaynayınca kapağı kapat, kısık ateşte 15 dakika pişir.
+6. Ocağı kapat, 10 dakika demlendir, karıştırıp servis et.
+
+# 87 Nohutlu pilav
+süre: 90
+malzemeler:
+- Osmancık pirinç | 2 su bardağı
+- Nohut | 1/2 su bardağı
+- Kase margarin | 2 yemek kaşığı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Nohudu bir gece önceden ıslat, yumuşayana kadar 1 saat haşla, süz.
+2. Pirinci ılık suda 10 dakika beklet, yıka, süz.
+3. Margarini erit, pirinci 2 dakika kavur.
+4. Nohudu, sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+5. Ocağı kapat, 10 dakika demlendir.
+
+# 88 Sebzeli pilav
+süre: 35
+malzemeler:
+- Osmancık pirinç | 2 su bardağı
+- Havuç | 1 adet
+- Dondurulmuş bezelye / garnitür | 1/2 su bardağı
+- Mısır konservesi | 1/2 su bardağı
+- Kase margarin | 2 yemek kaşığı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Pirinci ılık suda 10 dakika beklet, yıka, süz. Havucu küçük küp doğra.
+2. Margarini erit, havucu 3 dakika kavur.
+3. Pirinci ekle, 2 dakika kavur.
+4. Bezelyeyi, süzülmüş mısırı, sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+5. Ocağı kapat, 10 dakika demlendir.
+
+# 89 Tavuklu pilav
+süre: 55
+malzemeler:
+- Tavuk göğsü | 300 g
+- Osmancık pirinç | 2 su bardağı
+- Kase margarin | 2 yemek kaşığı
+- Et / tavuk bulyon | 1 tablet
+- Su | 5 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Tavuğu suyla 25 dakika haşla, çıkarıp didikle. Suyundan 3 su bardağı ayır.
+2. Pirinci ılık suda 10 dakika beklet, yıka, süz.
+3. Margarini erit, pirinci 2 dakika kavur.
+4. Tavuk suyunu, bulyonu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+5. Ocağı kapat, 10 dakika demlendir. Tavuğu ve karabiberi üstüne koyarak servis et.
+
+# 90 Domatesli pilav
+süre: 35
+malzemeler:
+- Osmancık pirinç | 2 su bardağı
+- Domates | 3 adet
+- Kase margarin | 2 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Pirinci ılık suda 10 dakika beklet, yıka, süz. Domatesleri rendele.
+2. Margarini erit, domatesi 5 dakika pişir.
+3. Pirinci ekle, 2 dakika karıştır.
+4. Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+5. Ocağı kapat, 10 dakika demlendir.
+
+# 91 Mantarlı bulgur pilavı
+süre: 35
+malzemeler:
+- Pilavlık bulgur | 2 su bardağı
+- Kültür mantarı | 250 g
+- Kuru soğan | 1 adet
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Mantarı ve soğanı doğra.
+2. Yağda soğanı 3 dakika kavur, mantarı ekleyip suyunu çekene kadar 5 dakika kavur.
+3. Bulguru ekle, 2 dakika kavur.
+4. Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 15 dakika pişir.
+5. Ocağı kapat, 10 dakika demlendir.
+
+# 92 Yumurtalı kızarmış pilav
+süre: 30
+malzemeler:
+- Osmancık pirinç | 1 su bardağı
+- Su | 1,5 su bardağı
+- Yumurta | 2 adet
+- Havuç | 1 adet
+- Dondurulmuş bezelye / garnitür | 1/2 su bardağı
+- Taze soğan | 2 sap
+- Ayçiçek yağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Pirinci suyla haşla, soğut. Dünden kalan pilav da olur.
+2. Havucu küçük küp, taze soğanı ince doğra.
+3. Geniş tavada yağı ısıt, havucu ve bezelyeyi 4 dakika kavur.
+4. Sebzeleri kenara it, yumurtaları kırıp karıştırarak pişir.
+5. Pirinci, taze soğanı ve tuzu ekle, yüksek ateşte 4-5 dakika karıştırarak kavur.
+
+# 93 Salçalı makarna
+süre: 15
+malzemeler:
+- Penne / burgu | 1/2 paket
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda paketteki süre kadar haşla, süz.
+2. Aynı tencerede yağı ısıt, salçayı 1 dakika kavur.
+3. Makarnayı ekle, sosla iyice karıştırıp servis et.
+
+# 94 Yoğurtlu makarna
+süre: 15
+malzemeler:
+- Penne / burgu | 1/2 paket
+- Yoğurt | 1 su bardağı
+- Sarımsak | 1 diş
+- Kase margarin | 1 yemek kaşığı
+- Pul biber | 1/2 çay kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda haşla, süz.
+2. Sarımsağı ezip yoğurtla karıştır.
+3. Makarnayı tabağa al, üstüne yoğurdu dök.
+4. Margarini erit, pul biberi ekle, yoğurdun üstüne gezdir.
+
+# 95 Spagetti bolonez
+süre: 40
+malzemeler:
+- Spagetti | 1/2 paket
+- Dana kıyma | 200 g
+- Kuru soğan | 1 adet
+- Havuç | 1 adet
+- Domates | 3 adet
+- Zeytinyağı | 1 yemek kaşığı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı ve havucu çok küçük doğra, domatesi rendele.
+2. Zeytinyağında soğanı ve havucu 3 dakika, sonra kıymayı suyunu çekene kadar kavur.
+3. Domatesi, tuzu ve karabiberi ekle. Kısık ateşte 20 dakika pişir.
+4. Spagettiyi tuzlu kaynar suda haşla, süz.
+5. Sosu makarnanın üstüne dökerek servis et.
+
+# 96 Ton balıklı makarna
+süre: 20
+malzemeler:
+- Penne / burgu | 1/2 paket
+- Ton balığı | 1 kutu
+- Domates | 2 adet
+- Sarımsak | 2 diş
+- Zeytinyağı | 1 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda haşla, süz.
+2. Domatesi rendele, sarımsağı ince doğra.
+3. Zeytinyağında sarımsağı 1 dakika çevir, domatesi ekleyip 8 dakika pişir.
+4. Ton balığının yağını süz, sosa ekle, 2 dakika karıştır.
+5. Makarnayı sosa ekleyip karıştır.
+
+# 97 Fırın makarna
+süre: 50
+malzemeler:
+- Penne / burgu | 1 paket
+- Süt | 3 su bardağı
+- Buğday unu | 3 yemek kaşığı
+- Kalıp margarin | 1/8 paket
+- Yumurta | 2 adet
+- Kaşar | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda 2 dakika eksik haşla, süz.
+2. Margarini erit, unu 2 dakika kavur. Sütü yavaşça ekleyip koyulaşana kadar karıştır.
+3. Ocaktan al, biraz ılıyınca yumurtaları ve tuzu ekleyip çırp.
+4. Makarnayı sosun yarısıyla karıştır, fırın kabına yay.
+5. Kalan sosu üstüne dök, rendelenmiş kaşarı serp.
+6. 200°C fırında üstü kızarana kadar 25 dakika pişir.
+
+# 98 Sucuklu carbonara
+süre: 20
+malzemeler:
+- Spagetti | 1/2 paket
+- Sucuk | 100 g
+- Yumurta | 2 adet
+- Kaşar | 1/2 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Spagettiyi tuzlu kaynar suda haşla. Süzmeden önce yarım su bardağı suyunu ayır.
+2. Yumurtaları, rendelenmiş kaşarı ve karabiberi bir kasede çırp.
+3. Sucuğu küçük doğra, yağsız tavada 3 dakika kavur.
+4. Ocağı kapat, makarnayı tavaya al.
+5. Yumurtalı karışımı ve ayırdığın suyu ekleyip hızlıca karıştır; sos kremamsı olsun.
+
+# 99 Kremalı mantarlı makarna
+süre: 20
+malzemeler:
+- Penne / burgu | 1/2 paket
+- Kültür mantarı | 200 g
+- Sıvı krema (pişirme kreması) | 1 paket
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda haşla, süz.
+2. Mantarları dilimle, yağda suyunu çekene kadar 6 dakika sotele.
+3. Kremayı ve karabiberi ekle, 3 dakika kaynat.
+4. Makarnayı sosa ekleyip karıştır.
+
+# 100 Tavuklu kremalı makarna
+süre: 25
+malzemeler:
+- Penne / burgu | 1/2 paket
+- Tavuk göğsü | 200 g
+- Kültür mantarı | 150 g
+- Sıvı krema (pişirme kreması) | 1 paket
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda haşla, süz.
+2. Tavuğu küçük küp, mantarı dilim doğra.
+3. Yağda tavuğu 6 dakika, sonra mantarı ekleyip 4 dakika kavur.
+4. Kremayı ve karabiberi ekle, 3 dakika kaynat.
+5. Makarnayı sosa ekleyip karıştır.
+
+# 101 Kaşarlı fırın makarna (mac and cheese)
+süre: 30
+malzemeler:
+- Penne / burgu | 1 paket
+- Süt | 2 su bardağı
+- Buğday unu | 2 yemek kaşığı
+- Kalıp margarin | 1/8 paket
+- Kaşar | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda haşla, süz.
+2. Margarini erit, unu 2 dakika kavur.
+3. Sütü yavaşça ekle, koyulaşana kadar karıştır.
+4. Kaşarın çoğunu ve tuzu ekle, eriyene kadar karıştır.
+5. Makarnayı sosla karıştırıp fırın kabına al, kalan kaşarı serp.
+6. 200°C fırında üstü kızarana kadar 10 dakika pişir.
+
+# 102 Acılı domates soslu makarna
+süre: 20
+malzemeler:
+- Penne / burgu | 1/2 paket
+- Domates | 3 adet
+- Sarımsak | 2 diş
+- Pul biber | 1 çay kaşığı
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda haşla, süz.
+2. Domatesleri rendele, sarımsağı ince doğra.
+3. Zeytinyağında sarımsağı ve pul biberi 1 dakika çevir.
+4. Domatesi ekle, koyulaşana kadar 10 dakika pişir.
+5. Makarnayı sosa ekleyip karıştır.
+
+# 103 Sarımsaklı spagetti
+süre: 15
+malzemeler:
+- Spagetti | 1/2 paket
+- Sarımsak | 4 diş
+- Pul biber | 1 çay kaşığı
+- Zeytinyağı | 4 yemek kaşığı
+- Maydanoz | 1/2 demet
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Spagettiyi tuzlu kaynar suda haşla. Süzmeden önce yarım su bardağı suyunu ayır.
+2. Sarımsağı ince dilimle, maydanozu ince doğra.
+3. Zeytinyağında sarımsağı kısık ateşte, yakmadan 2 dakika çevir. Pul biberi ekle.
+4. Spagettiyi ve ayırdığın suyu tavaya ekle, 1 dakika karıştır.
+5. Maydanozu serpip servis et.
+
+# 104 Mantı
+süre: 20
+malzemeler:
+- Mantı (kuru veya dondurulmuş) | 250 g
+- Yoğurt | 1 su bardağı
+- Sarımsak | 1 diş
+- Kase margarin | 1 yemek kaşığı
+- Pul biber | 1/2 çay kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Mantıyı tuzlu kaynar suda paketteki süre kadar haşla, süz.
+2. Sarımsağı ezip yoğurtla karıştır.
+3. Mantıyı tabağa al, üstüne yoğurdu dök.
+4. Margarini erit, pul biberi ekle, yoğurdun üstüne gezdir.
+
+# 152 Şehriye pilavı
+süre: 20
+malzemeler:
+- Arpa şehriye | 2 su bardağı
+- Kase margarin | 2 yemek kaşığı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Margarini tencerede erit.
+2. Şehriyeyi pembeleşene kadar 3-4 dakika kavur.
+3. Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte suyunu çekene kadar 10 dakika pişir.
+4. Ocağı kapat, 5 dakika demlendir.

@@ -1,0 +1,42 @@
+grup	pantry_id	malzeme	not
+gluten	66	Buğday unu	
+gluten	68	İrmik	
+gluten	55	Pilavlık bulgur	
+gluten	56	Köftelik bulgur	
+gluten	61	Spagetti	
+gluten	62	Penne / burgu	
+gluten	63	Arpa şehriye	
+gluten	64	Tel şehriye	
+gluten	65	Mantı (kuru veya dondurulmuş)	
+gluten	70	Ekmek	
+gluten	71	Tost ekmeği	
+gluten	72	Lavaş	
+gluten	73	Yufka	
+gluten	74	Dondurulmuş milföy	
+gluten	75	Hamburger ekmeği	
+gluten	123	Bisküvi (petibör)	
+gluten	39	Dondurulmuş köfte	genelde ekmek içerir
+gluten	105	Et / tavuk bulyon	çoğu içerir
+süt ürünleri	41	Süt	
+süt ürünleri	42	Yoğurt	
+süt ürünleri	43	Süzme yoğurt	
+süt ürünleri	44	Beyaz peynir	
+süt ürünleri	45	Kaşar	
+süt ürünleri	46	Lor	
+süt ürünleri	47	Labne	
+süt ürünleri	48	Krem peynir	
+süt ürünleri	51	Sıvı krema (pişirme kreması)	
+süt ürünleri	52	Kaymak	
+süt ürünleri	49	Kalıp margarin	çoğu süt tozu içerir
+süt ürünleri	50	Kase margarin	çoğu süt tozu içerir
+süt ürünleri	123	Bisküvi (petibör)	süt içerir
+süt ürünleri	122	Puding / krem şanti tozu	süt içerir
+yumurta	40	Yumurta	
+yumurta	85	Mayonez	
+yumurta	65	Mantı (kuru veya dondurulmuş)	hamurunda yumurta olabilir
+fındık-ceviz	118	Fındık	
+fındık-ceviz	119	Ceviz	
+fındık-ceviz	121	Bitter çikolata	iz miktarda içerebilir
+susam	104	Susam	
+susam	116	Tahin	
+balık	80	Ton balığı	

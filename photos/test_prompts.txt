@@ -1,0 +1,41 @@
+BUGÜN NE YEMEK YAPSAM — PHOTO TEST (4 soups)
+Compare Comfy Studio (RealVisXL V5) with Gemini on the same 4 dishes.
+Save as 002_ezogelin, 003_yayla, 004_domates, 009_brokoli (+ _comfy / _gemini).
+Output: ~/Pictures/AI_Generations/bugun-ne-yemek-yapsam/
+
+==================================================================
+COMFY STUDIO  —  model RealVisXL V5, 1:1 (1024 x 1024)
+If the settings are exposed: 30 steps, CFG 5.5, DPM++ 2M Karras.
+Make 2-3 images per dish.
+==================================================================
+
+NEGATIVE (same for all 4):
+text, watermark, logo, hands, people, spoon in bowl, parsley, herb garnish, cream swirl, croutons, bread, restaurant plating, fancy tableware, blurry, deformed bowl, oversaturated, cartoon, illustration
+
+--- 002 Ezogelin çorbası ---
+home-cooked food photography, a white ceramic bowl of thick orange-red Turkish lentil soup, visible small grains of bulgur and rice in the soup, dried mint and red pepper flakes sprinkled on top, one lemon wedge on a small plate beside the bowl, rustic wooden table, soft natural window light, 45 degree angle, shallow depth of field, realistic home portion, photorealistic
+
+--- 003 Yayla çorbası ---
+home-cooked food photography, a white ceramic bowl of creamy off-white Turkish yogurt soup with small cooked rice grains, a thin drizzle of melted fat with dried mint on top, rustic wooden table, soft natural window light, 45 degree angle, shallow depth of field, realistic home portion, photorealistic
+
+--- 004 Domates çorbası ---
+home-cooked food photography, a white ceramic bowl of smooth orange-red tomato soup, a small handful of grated yellow cheese melting on top, rustic wooden table, soft natural window light, 45 degree angle, shallow depth of field, realistic home portion, photorealistic
+
+--- 009 Brokoli çorbası ---
+home-cooked food photography, a white ceramic bowl of smooth blended pale green broccoli soup, plain surface with no toppings, rustic wooden table, soft natural window light, 45 degree angle, shallow depth of field, realistic home portion, photorealistic
+
+==================================================================
+GEMINI  —  same dishes, plain-language prompts, square image
+==================================================================
+
+--- 002 Ezogelin çorbası ---
+A photorealistic, home-cooked photo of Turkish ezogelin soup in a plain white ceramic bowl: thick, orange-red red-lentil soup with small grains of bulgur and rice visible, sprinkled with dried mint and red pepper flakes. One lemon wedge on a small plate beside it. Rustic wooden table, soft natural window light, 45-degree angle, shallow depth of field. A normal home portion. No text, no hands, no spoon, no parsley or other garnish. Square format.
+
+--- 003 Yayla çorbası ---
+A photorealistic, home-cooked photo of Turkish yayla soup in a plain white ceramic bowl: creamy off-white yogurt soup with small cooked rice grains, a thin drizzle of melted fat with dried mint on top. Rustic wooden table, soft natural window light, 45-degree angle, shallow depth of field. A normal home portion. No text, no hands, no spoon, no other garnish. Square format.
+
+--- 004 Domates çorbası ---
+A photorealistic, home-cooked photo of Turkish tomato soup in a plain white ceramic bowl: smooth, orange-red soup with a small handful of grated yellow kaşar cheese melting on top. Rustic wooden table, soft natural window light, 45-degree angle, shallow depth of field. A normal home portion. No text, no hands, no spoon, no cream swirl, no herbs, no bread. Square format.
+
+--- 009 Brokoli çorbası ---
+A photorealistic, home-cooked photo of broccoli soup in a plain white ceramic bowl: smooth, blended, pale green soup with a plain surface and no toppings. Rustic wooden table, soft natural window light, 45-degree angle, shallow depth of field. A normal home portion. No text, no hands, no spoon, no cream swirl, no croutons, no broccoli florets on top. Square format.

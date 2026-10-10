@@ -1,0 +1,178 @@
+# 43 Tavuk sote
+süre: 25
+malzemeler:
+- Tavuk göğsü | 300 g
+- Kuru soğan | 1 adet
+- Sivri biber | 3 adet
+- Domates | 1 adet
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Tavuğu kuşbaşı doğra; soğanı, biberleri ve domatesi doğra.
+2. Yağda tavuğu yüksek ateşte suyunu çekene kadar 6-7 dakika kavur.
+3. Soğanı ve biberleri ekle, 4 dakika kavur.
+4. Domatesi, tuzu ve karabiberi ekle, 5 dakika pişir.
+
+# 44 Fırında tavuk patates
+süre: 60
+malzemeler:
+- Tavuk but / baget | 6 adet
+- Patates | 4 adet
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 3 yemek kaşığı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Salçayı yağ, tuz ve karabiberle karıştır.
+2. Patatesleri elma dilimi, soğanı iri doğra.
+3. Tavukları, patatesi ve soğanı sosla iyice karıştırıp tepsiye yay.
+4. 200°C fırında, tavuğun içi pişene kadar 50 dakika pişir.
+
+# 45 Tavuk şiş (tavada)
+süre: 50
+malzemeler:
+- Tavuk göğsü | 600 g
+- Yoğurt | 3 yemek kaşığı
+- Domates salçası | 1 yemek kaşığı
+- Sarımsak | 2 diş
+- Ayçiçek yağı | 2 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Tavuğu küp doğra, sarımsağı ez.
+2. Yoğurt, salça, sarımsak, yağ ve tuzu karıştır. Tavuğu bu sosta en az 30 dakika beklet.
+3. İstersen tavuk parçalarını şişlere diz.
+4. Kızgın tavada her yüzü kızarana kadar, toplam 10-12 dakika pişir.
+
+# 46 Kremalı mantarlı tavuk
+süre: 25
+malzemeler:
+- Tavuk göğsü | 300 g
+- Kültür mantarı | 200 g
+- Kuru soğan | 1 adet
+- Sıvı krema (pişirme kreması) | 1 paket
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Tavuğu şerit doğra, mantarı ve soğanı doğra.
+2. Yağda tavuğu 6-7 dakika kavur.
+3. Soğanı ve mantarı ekle, 5 dakika kavur.
+4. Kremayı, tuzu ve karabiberi ekle, 5 dakika kaynat.
+
+# 47 Fırında bütün tavuk
+süre: 100
+malzemeler:
+- Bütün tavuk | 1500 g
+- Patates | 5 adet
+- Limon | 1 adet
+- Sarımsak | 4 diş
+- Ayçiçek yağı | 3 yemek kaşığı
+- Tuz | 2 çay kaşığı
+- Karabiber | 1 çay kaşığı
+yapılışı:
+1. Sarımsağı ez; yağ, limon suyu, tuz ve karabiberle karıştır.
+2. Tavuğu yıka, kurula, sosu her yanına sür.
+3. Patatesleri iri doğrayıp tepsiye yay, tavuğu ortaya koy.
+4. Üstünü folyoyla kapatıp 200°C fırında 1 saat pişir.
+5. Folyoyu aç, üstü kızarana kadar 20-30 dakika daha pişir.
+
+# 48 Tavuklu bezelye
+süre: 45
+malzemeler:
+- Tavuk göğsü | 300 g
+- Dondurulmuş bezelye / garnitür | 2 su bardağı
+- Havuç | 1 adet
+- Patates | 2 adet
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Tavuğu kuşbaşı; soğanı, havucu ve patatesi küp doğra.
+2. Yağda tavuğu ve soğanı 6-7 dakika kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Havucu, patatesi, sıcak suyu ve tuzu ekle, 15 dakika pişir.
+5. Bezelyeyi ekle, 10 dakika daha pişir.
+
+# 49 Fırında tavuk kanat
+süre: 50
+malzemeler:
+- Tavuk kanat | 16 adet
+- Bal | 2 yemek kaşığı
+- Domates salçası | 1 yemek kaşığı
+- Sarımsak | 2 diş
+- Ayçiçek yağı | 2 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Sarımsağı ez; bal, salça, yağ ve tuzla karıştır.
+2. Kanatları sosla iyice karıştırıp 15 dakika beklet.
+3. Yağlı kâğıt serili tepsiye diz.
+4. 200°C fırında, arada bir çevirerek 35 dakika pişir.
+
+# 50 Tavuk güveç
+süre: 60
+malzemeler:
+- Tavuk but / baget | 6 adet
+- Patates | 3 adet
+- Sivri biber | 4 adet
+- Domates | 3 adet
+- Kültür mantarı | 200 g
+- Ayçiçek yağı | 3 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patatesleri ve domatesi küp; biberi ve mantarı iri doğra.
+2. Tavuğu ve bütün sebzeleri geniş bir fırın kabında yağ ve tuzla karıştır.
+3. Kabın üstünü folyoyla kapat.
+4. 200°C fırında 40 dakika pişir, sonra folyoyu açıp 15 dakika daha pişir.
+
+# 51 Tavuk şinitzel
+süre: 25
+malzemeler:
+- Tavuk göğsü | 300 g
+- Buğday unu | 3 yemek kaşığı
+- Yumurta | 1 adet
+- Ekmek | 3 dilim
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Bayat ekmeği rendele ya da robottan geçir.
+2. Tavuğu ince dilimle, streç film arasında döverek incelt, tuzla.
+3. Dilimleri önce una, sonra çırpılmış yumurtaya, sonra ekmek kırıntısına bula.
+4. Tavada yağı ısıt, her yüzü kızarana kadar 3-4 dakika kızart.
+
+# 52 Köri soslu tavuk
+süre: 25
+malzemeler:
+- Tavuk göğsü | 300 g
+- Kuru soğan | 1 adet
+- Köri | 1 tatlı kaşığı
+- Sıvı krema (pişirme kreması) | 1 paket
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Tavuğu kuşbaşı, soğanı küçük doğra.
+2. Yağda tavuğu 6-7 dakika kavur.
+3. Soğanı ekle, 3 dakika kavur.
+4. Köriyi ekle, 1 dakika karıştır.
+5. Kremayı ve tuzu ekle, 5 dakika kaynat. Pilavla servis et.
+
+# 53 Tavuk dürüm
+süre: 25
+malzemeler:
+- Lavaş | 2 adet
+- Tavuk göğsü | 250 g
+- Marul | 60 g
+- Domates | 1 adet
+- Mayonez | 2 yemek kaşığı
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Tavuğu ince şerit doğra, tuz ve karabiberle tavada yağda 8 dakika pişir.
+2. Marulu ince kıy, domatesi doğra.
+3. Lavaşları tavada birkaç saniye ısıt.
+4. Lavaşa mayonez sür; tavuk, marul ve domatesi koy.
+5. Sıkıca sar, ikiye kesip servis et.

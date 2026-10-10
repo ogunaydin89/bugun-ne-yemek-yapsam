@@ -1,0 +1,125 @@
+id	grup	malzeme	not	g_su_bardagi	g_yemek_kasigi	g_cay_kasigi	birim	g_birim	kcal_100g	usda_id	usda_eslesme	yenen_oran
+1	Sebze & meyve	Domates					adet	125	18	170457	tam	
+2	Sebze & meyve	Salatalık					adet	150	15	168409	tam	
+3	Sebze & meyve	Sivri biber					adet	20	40	170497	yakın	
+4	Sebze & meyve	Çarliston biber					adet	25	20	170427	yakın	
+5	Sebze & meyve	Kapya biber					adet	150	26	170108	tam	
+6	Sebze & meyve	Kuru soğan					adet	100	40	170000	tam	
+7	Sebze & meyve	Taze soğan					sap	15	32	170005	tam	
+8	Sebze & meyve	Sarımsak					diş	5	149	169230	tam	
+9	Sebze & meyve	Patates					adet	150	77	170026	tam	
+10	Sebze & meyve	Havuç					adet	80	41	170393	tam	
+11	Sebze & meyve	Patlıcan					adet	250	25	169228	tam	
+12	Sebze & meyve	Kabak					adet	200	17	169291	tam	
+13	Sebze & meyve	Ispanak							23	168462	tam	
+14	Sebze & meyve	Marul					adet	400	15	169249	tam	
+15	Sebze & meyve	Roka					demet	100	25	169387	tam	
+16	Sebze & meyve	Maydanoz					demet	50	36	170416	tam	
+17	Sebze & meyve	Dereotu					demet	50	43	172233	tam	
+18	Sebze & meyve	Taze nane					demet	40	44	173475	tam	
+19	Sebze & meyve	Beyaz lahana					adet	1500	25	169975	tam	
+20	Sebze & meyve	Karnabahar					adet	1000	25	169986	tam	
+21	Sebze & meyve	Brokoli					adet	500	34	170379	tam	
+22	Sebze & meyve	Pırasa					sap	250	61	169246	tam	
+23	Sebze & meyve	Kereviz					adet	500	42	170400	tam	
+24	Sebze & meyve	Taze fasulye							31	169961	tam	
+25	Sebze & meyve	Kültür mantarı							22	169251	tam	
+26	Sebze & meyve	Limon					adet	100	29	167746	tam	
+27	Sebze & meyve	Elma					adet	180	52	171688	tam	
+28	Sebze & meyve	Portakal					adet	200	47	169097	tam	
+29	Sebze & meyve	Muz					adet	120	89	173944	tam	
+30	Et, tavuk, şarküteri	Dana kıyma							254	174036	tam	
+31	Et, tavuk, şarküteri	Dana kuşbaşı							244	169491	yakın	
+32	Et, tavuk, şarküteri	Tavuk göğsü							120	171077	tam	
+33	Et, tavuk, şarküteri	Tavuk but / baget					adet	120	161	172373	tam	0.7
+34	Et, tavuk, şarküteri	Bütün tavuk							215	171447	tam	0.7
+35	Et, tavuk, şarküteri	Tavuk kanat					adet	50	191	172390	tam	0.65
+36	Et, tavuk, şarküteri	Sucuk							312	170606	yakın	
+37	Et, tavuk, şarküteri	Sosis					adet	40	223	171624	yakın	
+38	Et, tavuk, şarküteri	Salam							299	172012	yakın	
+39	Et, tavuk, şarküteri	Dondurulmuş köfte					adet	30	295	169447	yakın	
+40	Süt ürünleri & yumurta	Yumurta					adet	55	143	171287	tam	
+41	Süt ürünleri & yumurta	Süt		205	15	5			61	172217	tam	
+42	Süt ürünleri & yumurta	Yoğurt		210	15	5			61	171284	tam	
+43	Süt ürünleri & yumurta	Süzme yoğurt		230	20				97	171304	tam	
+44	Süt ürünleri & yumurta	Beyaz peynir		120	10				265	173420	yakın	
+45	Süt ürünleri & yumurta	Kaşar		90	7				356	171241	yakın	
+46	Süt ürünleri & yumurta	Lor		120	12				138	171248	yakın	
+47	Süt ürünleri & yumurta	Labne			15				208	169079	yakın	
+48	Süt ürünleri & yumurta	Krem peynir			15				350	173418	tam	
+49	Süt ürünleri & yumurta	Kalıp margarin	Hamur işi ve fırın için; tereyağı yerine		14	5	paket	250	717	171435	tam	
+50	Süt ürünleri & yumurta	Kase margarin	Günlük pişirme ve sürmek için; tereyağı yerine		14	5			713	171436	tam	
+51	Süt ürünleri & yumurta	Sıvı krema (pişirme kreması)		200	15	5	paket	200	195	170857	yakın	
+52	Süt ürünleri & yumurta	Kaymak			15				340	170859	yakın	
+53	Bakliyat, tahıl, makarna	Baldo pirinç		180	12				360	168879	yakın	
+54	Bakliyat, tahıl, makarna	Osmancık pirinç		180	12				365	168877	yakın	
+55	Bakliyat, tahıl, makarna	Pilavlık bulgur		175	12				342	170688	tam	
+56	Bakliyat, tahıl, makarna	Köftelik bulgur		160	11				342	170688	tam	
+57	Bakliyat, tahıl, makarna	Kırmızı mercimek		180	12				358	174284	tam	
+58	Bakliyat, tahıl, makarna	Yeşil mercimek		180	12				352	172420	tam	
+59	Bakliyat, tahıl, makarna	Nohut		180	12				378	173756	tam	
+60	Bakliyat, tahıl, makarna	Kuru fasulye		180	12				339	175190	yakın	
+61	Bakliyat, tahıl, makarna	Spagetti					paket	500	371	169736	tam	
+62	Bakliyat, tahıl, makarna	Penne / burgu		90			paket	500	371	169736	tam	
+63	Bakliyat, tahıl, makarna	Arpa şehriye		170	12				371	169736	yakın	
+64	Bakliyat, tahıl, makarna	Tel şehriye		100	7				371	169736	yakın	
+65	Bakliyat, tahıl, makarna	Mantı (kuru veya dondurulmuş)					paket	500	371	169736	yakın	
+66	Bakliyat, tahıl, makarna	Buğday unu		110	8	3			364	168894	tam	
+67	Bakliyat, tahıl, makarna	Mısır unu		140	10	3			375	169695	yakın	
+68	Bakliyat, tahıl, makarna	İrmik		160	12	4			360	169715	tam	
+69	Bakliyat, tahıl, makarna	Mısır nişastası		120	8	3			381	169698	tam	
+70	Ekmek & hamur	Ekmek					dilim	25	272	172675	yakın	
+71	Ekmek & hamur	Tost ekmeği					dilim	25	266	174924	tam	
+72	Ekmek & hamur	Lavaş					adet	60	297	167535	yakın	
+73	Ekmek & hamur	Yufka					adet	160	299	172791	yakın	
+74	Ekmek & hamur	Dondurulmuş milföy					kare	60	551	172790	tam	
+75	Ekmek & hamur	Hamburger ekmeği					adet	70	279	172796	tam	
+76	Konserve, sos, hazır	Domates salçası			15	5			82	170459	tam	
+77	Konserve, sos, hazır	Biber salçası			15	5			82	170459	yakın	
+78	Konserve, sos, hazır	Mısır konservesi		160	12		kutu	200	67	169214	tam	
+79	Konserve, sos, hazır	Bezelye konservesi		150	12		kutu	250	71	170015	tam	
+80	Konserve, sos, hazır	Ton balığı					kutu	150	198	173708	tam	
+81	Konserve, sos, hazır	Siyah zeytin		140			adet	4	116	169094	tam	
+82	Konserve, sos, hazır	Yeşil zeytin		140			adet	5	145	169096	tam	
+83	Konserve, sos, hazır	Turşu					adet	30	12	168558	yakın	
+84	Konserve, sos, hazır	Ketçap			17	6			101	168556	tam	
+85	Konserve, sos, hazır	Mayonez			14	5			680	171009	tam	
+86	Konserve, sos, hazır	Üzüm / elma sirkesi		200	15	5			21	173469	tam	
+87	Konserve, sos, hazır	Nar ekşisi			18	6			290	168820	yakın	
+88	Konserve, sos, hazır	Dondurulmuş bezelye / garnitür		140	10				77	170016	tam	
+89	Konserve, sos, hazır	Dondurulmuş patates							147	170523	tam	
+90	Yağlar	Ayçiçek yağı		180	14	5			884	171025	tam	
+91	Yağlar	Zeytinyağı		180	14	5			884	171413	tam	
+92	Baharat & kuru ot	Tuz			18	6			0	173468	tam	
+93	Baharat & kuru ot	Karabiber			7	2			251	170931	tam	
+94	Baharat & kuru ot	Pul biber			6	2			318	170932	yakın	
+95	Baharat & kuru ot	Toz kırmızı biber (tatlı)			7	2			282	171329	tam	
+96	Baharat & kuru ot	Kimyon			6	2			375	170923	tam	
+97	Baharat & kuru ot	Kekik			3	1			276	170938	tam	
+98	Baharat & kuru ot	Kuru nane			3	1			285	172239	tam	
+99	Baharat & kuru ot	Sumak			7	2					yok	
+100	Baharat & kuru ot	Köri			6	2			325	170924	tam	
+101	Baharat & kuru ot	Tarçın			7	2			247	171320	tam	
+102	Baharat & kuru ot	Köftelik baharat			6	2			375	170923	yakın	
+103	Baharat & kuru ot	Çörek otu			8	3					yok	
+104	Baharat & kuru ot	Susam			8	3			573	170150	tam	
+105	Baharat & kuru ot	Et / tavuk bulyon					tablet	10	438	171613	yakın	
+106	Tatlı & fırın	Toz şeker		180	12	4			387	169655	tam	
+107	Tatlı & fırın	Pudra şekeri		120	8	3			389	169656	tam	
+108	Tatlı & fırın	Kakao		90	7	2			228	169593	tam	
+109	Tatlı & fırın	Kabartma tozu			12	4	paket	10	53	172803	yakın	
+110	Tatlı & fırın	Karbonat			15	5			0	175040	tam	
+111	Tatlı & fırın	Vanilin					paket	5	288	173471	yakın	
+112	Tatlı & fırın	Kuru maya			9	3	paket	10	325	175043	tam	
+113	Tatlı & fırın	Yaş maya					küp	42	105	175042	tam	
+114	Tatlı & fırın	Bal			21	7			304	169640	tam	
+115	Tatlı & fırın	Reçel			20	7			278	169641	tam	
+116	Tatlı & fırın	Tahin			15	5			595	170189	tam	
+117	Tatlı & fırın	Pekmez			20	7			290	168820	yakın	
+118	Tatlı & fırın	Fındık		130	9				628	170581	tam	
+119	Tatlı & fırın	Ceviz		100	7				654	170187	tam	
+120	Tatlı & fırın	Kuru üzüm		150	10				299	168165	tam	
+121	Tatlı & fırın	Bitter çikolata					tablet	80	598	170273	yakın	
+122	Tatlı & fırın	Puding / krem şanti tozu							379	169609	yakın	
+123	Tatlı & fırın	Bisküvi (petibör)					paket	175	467	174950	yakın	
+124	Tatlı & fırın	Kuru kayısı					adet	8	241	173941	tam	

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder icon: a cooking pot with steam. The real icon is decided with the app identity. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FFF8F0" android:pathData="M30,50h48v18a12,12 0,0 1,-12 12h-24a12,12 0,0 1,-12 -12z" />
+    <path android:fillColor="#FFF8F0" android:pathData="M26,46h56a3,3 0,0 1,0 6h-56a3,3 0,0 1,0 -6z" />
+    <path android:fillColor="#FFF8F0" android:pathData="M50,40h8a2,2 0,0 1,0 4h-8a2,2 0,0 1,0 -4z" />
+    <path android:strokeColor="#FFF8F0" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M44,34c-3,-4 3,-6 0,-10M54,34c-3,-4 3,-6 0,-10M64,34c-3,-4 3,-6 0,-10" />
+</vector>

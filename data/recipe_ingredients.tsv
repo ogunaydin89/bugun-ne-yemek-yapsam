@@ -1,0 +1,1070 @@
+dish_id	sira	pantry_id	malzeme	miktar	olcu	gram	kizartma
+1	1	57	Kırmızı mercimek	1	su bardağı	180	
+1	2	6	Kuru soğan	1	adet	100	
+1	3	10	Havuç	1	adet	80	
+1	4	9	Patates	1	adet	150	
+1	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+1	6		Su	7	su bardağı	1400	
+1	7	92	Tuz	1	çay kaşığı	6	
+1	8	26	Limon	1	adet	100	
+2	1	57	Kırmızı mercimek	1	su bardağı	180	
+2	2	55	Pilavlık bulgur	2	yemek kaşığı	24	
+2	3	53	Baldo pirinç	2	yemek kaşığı	24	
+2	4	6	Kuru soğan	1	adet	100	
+2	5	76	Domates salçası	1	yemek kaşığı	15	
+2	6	90	Ayçiçek yağı	2	yemek kaşığı	28	
+2	7	98	Kuru nane	1	çay kaşığı	1	
+2	8	94	Pul biber	1	çay kaşığı	2	
+2	9		Su	8	su bardağı	1600	
+2	10	92	Tuz	1	çay kaşığı	6	
+3	1	53	Baldo pirinç	1/2	çay bardağı	45	
+3	2	42	Yoğurt	1	su bardağı	210	
+3	3	40	Yumurta	1	adet	55	
+3	4	66	Buğday unu	1	yemek kaşığı	8	
+3	5	50	Kase margarin	1	yemek kaşığı	14	
+3	6	98	Kuru nane	1	tatlı kaşığı	2	
+3	7		Su	6	su bardağı	1200	
+3	8	92	Tuz	1	çay kaşığı	6	
+4	1	1	Domates	4	adet	500	
+4	2	66	Buğday unu	2	yemek kaşığı	16	
+4	3	50	Kase margarin	2	yemek kaşığı	28	
+4	4	41	Süt	1	su bardağı	205	
+4	5		Su	4	su bardağı	800	
+4	6	45	Kaşar	1/2	su bardağı	45	
+4	7	92	Tuz	1	çay kaşığı	6	
+5	1	63	Arpa şehriye	1/2	su bardağı	85	
+5	2	76	Domates salçası	1	yemek kaşığı	15	
+5	3	90	Ayçiçek yağı	2	yemek kaşığı	28	
+5	4		Su	7	su bardağı	1400	
+5	5	92	Tuz	1	çay kaşığı	6	
+5	6	26	Limon	1	adet	100	
+6	1	33	Tavuk but / baget	2	adet	240	
+6	2	63	Arpa şehriye	1/2	su bardağı	85	
+6	3	10	Havuç	1	adet	80	
+6	4		Su	8	su bardağı	1600	
+6	5	92	Tuz	1	çay kaşığı	6	
+6	6	93	Karabiber	1/2	çay kaşığı	1	
+6	7	26	Limon	1	adet	100	
+7	1	32	Tavuk göğsü	250	g	250	
+7	2	66	Buğday unu	2	yemek kaşığı	16	
+7	3	50	Kase margarin	1	yemek kaşığı	14	
+7	4	40	Yumurta	1	adet	55	
+7	5	26	Limon	1	adet	100	
+7	6		Su	8	su bardağı	1600	
+7	7	92	Tuz	1	çay kaşığı	6	
+7	8	93	Karabiber	1/2	çay kaşığı	1	
+8	1	25	Kültür mantarı	250	g	250	
+8	2	66	Buğday unu	2	yemek kaşığı	16	
+8	3	50	Kase margarin	2	yemek kaşığı	28	
+8	4	41	Süt	2	su bardağı	410	
+8	5		Su	3	su bardağı	600	
+8	6	92	Tuz	1	çay kaşığı	6	
+8	7	93	Karabiber	1/2	çay kaşığı	1	
+9	1	21	Brokoli	1	adet	500	
+9	2	9	Patates	1	adet	150	
+9	3	6	Kuru soğan	1	adet	100	
+9	4	90	Ayçiçek yağı	2	yemek kaşığı	28	
+9	5	41	Süt	1	su bardağı	205	
+9	6		Su	5	su bardağı	1000	
+9	7	92	Tuz	1	çay kaşığı	6	
+10	1	10	Havuç	1	adet	80	
+10	2	9	Patates	1	adet	150	
+10	3	12	Kabak	1	adet	200	
+10	4	6	Kuru soğan	1	adet	100	
+10	5	76	Domates salçası	1	yemek kaşığı	15	
+10	6	90	Ayçiçek yağı	2	yemek kaşığı	28	
+10	7		Su	7	su bardağı	1400	
+10	8	92	Tuz	1	çay kaşığı	6	
+11	1	58	Yeşil mercimek	1	su bardağı	180	
+11	2	6	Kuru soğan	1	adet	100	
+11	3	76	Domates salçası	1	yemek kaşığı	15	
+11	4	90	Ayçiçek yağı	2	yemek kaşığı	28	
+11	5	98	Kuru nane	1	çay kaşığı	1	
+11	6		Su	8	su bardağı	1600	
+11	7	92	Tuz	1	çay kaşığı	6	
+12	1	22	Pırasa	2	sap	500	
+12	2	9	Patates	2	adet	300	
+12	3	90	Ayçiçek yağı	2	yemek kaşığı	28	
+12	4	41	Süt	1	su bardağı	205	
+12	5		Su	5	su bardağı	1000	
+12	6	92	Tuz	1	çay kaşığı	6	
+13	1	12	Kabak	2	adet	400	
+13	2	9	Patates	1	adet	150	
+13	3	6	Kuru soğan	1	adet	100	
+13	4	90	Ayçiçek yağı	2	yemek kaşığı	28	
+13	5	41	Süt	1	su bardağı	205	
+13	6		Su	4	su bardağı	800	
+13	7	92	Tuz	1	çay kaşığı	6	
+14	1	20	Karnabahar	500	g	500	
+14	2	9	Patates	1	adet	150	
+14	3	6	Kuru soğan	1	adet	100	
+14	4	90	Ayçiçek yağı	2	yemek kaşığı	28	
+14	5	41	Süt	1	su bardağı	205	
+14	6		Su	5	su bardağı	1000	
+14	7	92	Tuz	1	çay kaşığı	6	
+15	1	31	Dana kuşbaşı	300	g	300	
+15	2	42	Yoğurt	1	su bardağı	210	
+15	3	40	Yumurta	1	adet	55	
+15	4	66	Buğday unu	2	yemek kaşığı	16	
+15	5	26	Limon	1	adet	100	
+15	6	50	Kase margarin	1	yemek kaşığı	14	
+15	7	94	Pul biber	1	çay kaşığı	2	
+15	8		Su	8	su bardağı	1600	
+15	9	92	Tuz	1	çay kaşığı	6	
+16	1	10	Havuç	1	adet	80	
+16	2	12	Kabak	1	adet	200	
+16	3	9	Patates	1	adet	150	
+16	4	1	Domates	2	adet	250	
+16	5	6	Kuru soğan	1	adet	100	
+16	6	62	Penne / burgu	1/2	su bardağı	45	
+16	7	91	Zeytinyağı	2	yemek kaşığı	28	
+16	8		Su	7	su bardağı	1400	
+16	9	92	Tuz	1	çay kaşığı	6	
+16	10	93	Karabiber	1/2	çay kaşığı	1	
+17	1	11	Patlıcan	4	adet	1000	
+17	2	30	Dana kıyma	250	g	250	
+17	3	6	Kuru soğan	1	adet	100	
+17	4	1	Domates	2	adet	250	
+17	5	3	Sivri biber	4	adet	80	
+17	6	76	Domates salçası	1	yemek kaşığı	15	
+17	7	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+17	8		Su	1	su bardağı	200	
+17	9	92	Tuz	1	çay kaşığı	6	
+17	10	93	Karabiber	1/2	çay kaşığı	1	
+18	1	11	Patlıcan	3	adet	750	
+18	2	30	Dana kıyma	250	g	250	
+18	3	6	Kuru soğan	1	adet	100	
+18	4	1	Domates	2	adet	250	
+18	5	3	Sivri biber	2	adet	40	
+18	6	76	Domates salçası	1	yemek kaşığı	15	
+18	7	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+18	8		Su	1	su bardağı	200	
+18	9	92	Tuz	1	çay kaşığı	6	
+18	10	93	Karabiber	1/2	çay kaşığı	1	
+19	1	9	Patates	5	adet	750	
+19	2	30	Dana kıyma	200	g	200	
+19	3	6	Kuru soğan	1	adet	100	
+19	4	76	Domates salçası	1	yemek kaşığı	15	
+19	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+19	6		Su	2	su bardağı	400	
+19	7	92	Tuz	1	çay kaşığı	6	
+19	8	93	Karabiber	1/2	çay kaşığı	1	
+20	1	30	Dana kıyma	500	g	500	
+20	2	70	Ekmek	2	dilim	50	
+20	3	6	Kuru soğan	1	adet	100	
+20	4	102	Köftelik baharat	1	çay kaşığı	2	
+20	5	9	Patates	4	adet	600	
+20	6	1	Domates	2	adet	250	
+20	7	3	Sivri biber	4	adet	80	
+20	8	90	Ayçiçek yağı	3	yemek kaşığı	42	
+20	9		Su	1	su bardağı	200	
+20	10	92	Tuz	1	çay kaşığı	6	
+21	1	30	Dana kıyma	250	g	250	
+21	2	70	Ekmek	1	dilim	25	
+21	3	6	Kuru soğan	1	adet	100	
+21	4	102	Köftelik baharat	1/2	çay kaşığı	1	
+21	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+21	6	92	Tuz	1/2	çay kaşığı	3	
+22	1	30	Dana kıyma	500	g	500	
+22	2	70	Ekmek	2	dilim	50	
+22	3	6	Kuru soğan	1	adet	100	
+22	4	102	Köftelik baharat	1	çay kaşığı	2	
+22	5	9	Patates	3	adet	450	
+22	6	1	Domates	2	adet	250	
+22	7	3	Sivri biber	4	adet	80	
+22	8	76	Domates salçası	1	yemek kaşığı	15	
+22	9	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+22	10		Su	1,5	su bardağı	300	
+22	11	92	Tuz	1	çay kaşığı	6	
+23	1	30	Dana kıyma	300	g	300	
+23	2	53	Baldo pirinç	2	yemek kaşığı	24	
+23	3	6	Kuru soğan	1	adet	100	
+23	4	66	Buğday unu	2	yemek kaşığı	16	
+23	5	9	Patates	2	adet	300	
+23	6	10	Havuç	1	adet	80	
+23	7	40	Yumurta	1	adet	55	
+23	8	26	Limon	1	adet	100	
+23	9		Su	7	su bardağı	1400	
+23	10	92	Tuz	1	çay kaşığı	6	
+24	1	30	Dana kıyma	400	g	400	
+24	2	53	Baldo pirinç	1/2	çay bardağı	45	
+24	3	6	Kuru soğan	1	adet	100	
+24	4	40	Yumurta	2	adet	110	
+24	5	66	Buğday unu	1/2	su bardağı	55	
+24	6	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+24	7	92	Tuz	1	çay kaşığı	6	
+24	8	93	Karabiber	1/2	çay kaşığı	1	
+25	1	30	Dana kıyma	400	g	400	
+25	2	70	Ekmek	1	dilim	25	
+25	3	6	Kuru soğan	1	adet	100	
+25	4	102	Köftelik baharat	1	çay kaşığı	2	
+25	5	9	Patates	4	adet	600	
+25	6	41	Süt	1/2	su bardağı	102	
+25	7	50	Kase margarin	1	yemek kaşığı	14	
+25	8	45	Kaşar	1/2	su bardağı	45	
+25	9	76	Domates salçası	1	yemek kaşığı	15	
+25	10		Su	1	su bardağı	200	
+25	11	92	Tuz	1	çay kaşığı	6	
+26	1	30	Dana kıyma	500	g	500	
+26	2	70	Ekmek	2	dilim	50	
+26	3	6	Kuru soğan	1	adet	100	
+26	4	40	Yumurta	3	adet	165	
+26	5	10	Havuç	1	adet	80	
+26	6	88	Dondurulmuş bezelye / garnitür	1/2	su bardağı	70	
+26	7	102	Köftelik baharat	1	çay kaşığı	2	
+26	8	92	Tuz	1	çay kaşığı	6	
+27	1	39	Dondurulmuş köfte	8	adet	240	
+27	2	89	Dondurulmuş patates	300	g	300	
+27	3	90	Ayçiçek yağı	2	yemek kaşığı	28	
+28	1	13	Ispanak	1000	g	1000	
+28	2	30	Dana kıyma	200	g	200	
+28	3	6	Kuru soğan	1	adet	100	
+28	4	53	Baldo pirinç	2	yemek kaşığı	24	
+28	5	76	Domates salçası	1	yemek kaşığı	15	
+28	6	90	Ayçiçek yağı	2	yemek kaşığı	28	
+28	7		Su	1	su bardağı	200	
+28	8	92	Tuz	1	çay kaşığı	6	
+29	1	22	Pırasa	4	sap	1000	
+29	2	30	Dana kıyma	200	g	200	
+29	3	6	Kuru soğan	1	adet	100	
+29	4	10	Havuç	1	adet	80	
+29	5	53	Baldo pirinç	2	yemek kaşığı	24	
+29	6	90	Ayçiçek yağı	2	yemek kaşığı	28	
+29	7		Su	1,5	su bardağı	300	
+29	8	92	Tuz	1	çay kaşığı	6	
+30	1	12	Kabak	5	adet	1000	
+30	2	30	Dana kıyma	200	g	200	
+30	3	6	Kuru soğan	1	adet	100	
+30	4	1	Domates	2	adet	250	
+30	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+30	6		Su	1/2	su bardağı	100	
+30	7	92	Tuz	1	çay kaşığı	6	
+31	1	20	Karnabahar	1000	g	1000	
+31	2	30	Dana kıyma	200	g	200	
+31	3	6	Kuru soğan	1	adet	100	
+31	4	76	Domates salçası	1	yemek kaşığı	15	
+31	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+31	6		Su	1,5	su bardağı	300	
+31	7	92	Tuz	1	çay kaşığı	6	
+32	1	19	Beyaz lahana	1000	g	1000	
+32	2	30	Dana kıyma	200	g	200	
+32	3	6	Kuru soğan	1	adet	100	
+32	4	53	Baldo pirinç	2	yemek kaşığı	24	
+32	5	76	Domates salçası	1	yemek kaşığı	15	
+32	6	94	Pul biber	1	çay kaşığı	2	
+32	7	90	Ayçiçek yağı	2	yemek kaşığı	28	
+32	8		Su	1,5	su bardağı	300	
+32	9	92	Tuz	1	çay kaşığı	6	
+33	1	19	Beyaz lahana	1	adet	1500	
+33	2	30	Dana kıyma	300	g	300	
+33	3	53	Baldo pirinç	1	su bardağı	180	
+33	4	6	Kuru soğan	1	adet	100	
+33	5	76	Domates salçası	2	yemek kaşığı	30	
+33	6	98	Kuru nane	1	tatlı kaşığı	2	
+33	7	90	Ayçiçek yağı	2	yemek kaşığı	28	
+33	8		Su	2	su bardağı	400	
+33	9	92	Tuz	1	çay kaşığı	6	
+33	10	93	Karabiber	1/2	çay kaşığı	1	
+34	1	12	Kabak	6	adet	1200	
+34	2	30	Dana kıyma	250	g	250	
+34	3	53	Baldo pirinç	1/2	su bardağı	90	
+34	4	1	Domates	2	adet	250	
+34	5	6	Kuru soğan	1	adet	100	
+34	6	76	Domates salçası	1	yemek kaşığı	15	
+34	7		Su	2	su bardağı	400	
+34	8	92	Tuz	1	çay kaşığı	6	
+35	1	24	Taze fasulye	750	g	750	
+35	2	31	Dana kuşbaşı	250	g	250	
+35	3	6	Kuru soğan	1	adet	100	
+35	4	1	Domates	2	adet	250	
+35	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+35	6		Su	1	su bardağı	200	
+35	7	92	Tuz	1	çay kaşığı	6	
+36	1	60	Kuru fasulye	2	su bardağı	360	
+36	2	31	Dana kuşbaşı	250	g	250	
+36	3	6	Kuru soğan	1	adet	100	
+36	4	76	Domates salçası	2	yemek kaşığı	30	
+36	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+36	6		Su	6	su bardağı	1200	
+36	7	92	Tuz	1	çay kaşığı	6	
+37	1	59	Nohut	2	su bardağı	360	
+37	2	31	Dana kuşbaşı	250	g	250	
+37	3	6	Kuru soğan	1	adet	100	
+37	4	76	Domates salçası	2	yemek kaşığı	30	
+37	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+37	6		Su	5	su bardağı	1000	
+37	7	92	Tuz	1	çay kaşığı	6	
+38	1	31	Dana kuşbaşı	300	g	300	
+38	2	6	Kuru soğan	1	adet	100	
+38	3	1	Domates	1	adet	125	
+38	4	3	Sivri biber	3	adet	60	
+38	5	90	Ayçiçek yağı	1	yemek kaşığı	14	
+38	6	92	Tuz	1/2	çay kaşığı	3	
+38	7	93	Karabiber	1/2	çay kaşığı	1	
+39	1	31	Dana kuşbaşı	500	g	500	
+39	2	6	Kuru soğan	2	adet	200	
+39	3	9	Patates	3	adet	450	
+39	4	1	Domates	2	adet	250	
+39	5	76	Domates salçası	1	yemek kaşığı	15	
+39	6	90	Ayçiçek yağı	2	yemek kaşığı	28	
+39	7		Su	2	su bardağı	400	
+39	8	92	Tuz	1	çay kaşığı	6	
+39	9	93	Karabiber	1/2	çay kaşığı	1	
+40	1	31	Dana kuşbaşı	500	g	500	
+40	2	9	Patates	3	adet	450	
+40	3	10	Havuç	2	adet	160	
+40	4	88	Dondurulmuş bezelye / garnitür	1	su bardağı	140	
+40	5	6	Kuru soğan	1	adet	100	
+40	6	90	Ayçiçek yağı	2	yemek kaşığı	28	
+40	7		Su	2	su bardağı	400	
+40	8	92	Tuz	1	çay kaşığı	6	
+40	9	93	Karabiber	1/2	çay kaşığı	1	
+41	1	31	Dana kuşbaşı	500	g	500	
+41	2	11	Patlıcan	2	adet	500	
+41	3	9	Patates	2	adet	300	
+41	4	1	Domates	3	adet	375	
+41	5	3	Sivri biber	4	adet	80	
+41	6	6	Kuru soğan	1	adet	100	
+41	7	90	Ayçiçek yağı	3	yemek kaşığı	42	
+41	8		Su	1	su bardağı	200	
+41	9	92	Tuz	1	çay kaşığı	6	
+42	1	31	Dana kuşbaşı	500	g	500	
+42	2	6	Kuru soğan	1	adet	100	
+42	3	1	Domates	2	adet	250	
+42	4	11	Patlıcan	4	adet	1000	
+42	5	41	Süt	1,5	su bardağı	308	
+42	6	66	Buğday unu	2	yemek kaşığı	16	
+42	7	49	Kalıp margarin	1/8	paket	31	
+42	8	45	Kaşar	1/2	su bardağı	45	
+42	9	90	Ayçiçek yağı	2	yemek kaşığı	28	
+42	10		Su	1,5	su bardağı	300	
+42	11	92	Tuz	1	çay kaşığı	6	
+54	1	31	Dana kuşbaşı	300	g	300	
+54	2	25	Kültür mantarı	200	g	200	
+54	3	6	Kuru soğan	1	adet	100	
+54	4	51	Sıvı krema (pişirme kreması)	1	paket	200	
+54	5	90	Ayçiçek yağı	1	yemek kaşığı	14	
+54	6	92	Tuz	1/2	çay kaşığı	3	
+54	7	93	Karabiber	1/2	çay kaşığı	1	
+55	1	31	Dana kuşbaşı	500	g	500	
+55	2	6	Kuru soğan	2	adet	200	
+55	3	9	Patates	3	adet	450	
+55	4	5	Kapya biber	1	adet	150	
+55	5	95	Toz kırmızı biber (tatlı)	1	yemek kaşığı	7	
+55	6	76	Domates salçası	1	yemek kaşığı	15	
+55	7	90	Ayçiçek yağı	2	yemek kaşığı	28	
+55	8		Su	4	su bardağı	800	
+55	9	92	Tuz	1	çay kaşığı	6	
+56	1	30	Dana kıyma	400	g	400	
+56	2	60	Kuru fasulye	1	su bardağı	180	
+56	3	6	Kuru soğan	1	adet	100	
+56	4	5	Kapya biber	1	adet	150	
+56	5	1	Domates	3	adet	375	
+56	6	96	Kimyon	1	çay kaşığı	2	
+56	7	94	Pul biber	1	çay kaşığı	2	
+56	8	90	Ayçiçek yağı	2	yemek kaşığı	28	
+56	9		Su	3	su bardağı	600	
+56	10	92	Tuz	1	çay kaşığı	6	
+57	1	30	Dana kıyma	400	g	400	
+57	2	6	Kuru soğan	1	adet	100	
+57	3	10	Havuç	1	adet	80	
+57	4	88	Dondurulmuş bezelye / garnitür	1/2	su bardağı	70	
+57	5	76	Domates salçası	1	yemek kaşığı	15	
+57	6	9	Patates	5	adet	750	
+57	7	41	Süt	1/2	su bardağı	102	
+57	8	50	Kase margarin	1	yemek kaşığı	14	
+57	9	90	Ayçiçek yağı	1	yemek kaşığı	14	
+57	10	92	Tuz	1	çay kaşığı	6	
+58	1	75	Hamburger ekmeği	2	adet	140	
+58	2	30	Dana kıyma	250	g	250	
+58	3	6	Kuru soğan	1	adet	100	
+58	4	14	Marul	60	g	60	
+58	5	1	Domates	1	adet	125	
+58	6	83	Turşu	2	adet	60	
+58	7	92	Tuz	1/2	çay kaşığı	3	
+58	8	93	Karabiber	1/2	çay kaşığı	1	
+59	1	37	Sosis	4	adet	160	
+59	2	9	Patates	3	adet	450	
+59	3	5	Kapya biber	1	adet	150	
+59	4	90	Ayçiçek yağı	3	yemek kaşığı	42	
+59	5	92	Tuz	1/2	çay kaşığı	3	
+60	1	36	Sucuk	60	g	60	
+60	2	40	Yumurta	2	adet	110	
+153	1	70	Ekmek	250	g	250	
+153	2	30	Dana kıyma	250	g	250	
+153	3	6	Kuru soğan	1	adet	100	
+153	4	102	Köftelik baharat	1/2	çay kaşığı	1	
+153	5	1	Domates	1	adet	125	
+153	6	3	Sivri biber	2	adet	40	
+153	7	92	Tuz	1/2	çay kaşığı	3	
+43	1	32	Tavuk göğsü	300	g	300	
+43	2	6	Kuru soğan	1	adet	100	
+43	3	3	Sivri biber	3	adet	60	
+43	4	1	Domates	1	adet	125	
+43	5	90	Ayçiçek yağı	1	yemek kaşığı	14	
+43	6	92	Tuz	1/2	çay kaşığı	3	
+43	7	93	Karabiber	1/2	çay kaşığı	1	
+44	1	33	Tavuk but / baget	6	adet	720	
+44	2	9	Patates	4	adet	600	
+44	3	6	Kuru soğan	1	adet	100	
+44	4	76	Domates salçası	1	yemek kaşığı	15	
+44	5	90	Ayçiçek yağı	3	yemek kaşığı	42	
+44	6	92	Tuz	1	çay kaşığı	6	
+44	7	93	Karabiber	1/2	çay kaşığı	1	
+45	1	32	Tavuk göğsü	600	g	600	
+45	2	42	Yoğurt	3	yemek kaşığı	45	
+45	3	76	Domates salçası	1	yemek kaşığı	15	
+45	4	8	Sarımsak	2	diş	10	
+45	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+45	6	92	Tuz	1	çay kaşığı	6	
+46	1	32	Tavuk göğsü	300	g	300	
+46	2	25	Kültür mantarı	200	g	200	
+46	3	6	Kuru soğan	1	adet	100	
+46	4	51	Sıvı krema (pişirme kreması)	1	paket	200	
+46	5	90	Ayçiçek yağı	1	yemek kaşığı	14	
+46	6	92	Tuz	1/2	çay kaşığı	3	
+46	7	93	Karabiber	1/2	çay kaşığı	1	
+47	1	34	Bütün tavuk	1500	g	1500	
+47	2	9	Patates	5	adet	750	
+47	3	26	Limon	1	adet	100	
+47	4	8	Sarımsak	4	diş	20	
+47	5	90	Ayçiçek yağı	3	yemek kaşığı	42	
+47	6	92	Tuz	2	çay kaşığı	12	
+47	7	93	Karabiber	1	çay kaşığı	2	
+48	1	32	Tavuk göğsü	300	g	300	
+48	2	88	Dondurulmuş bezelye / garnitür	2	su bardağı	280	
+48	3	10	Havuç	1	adet	80	
+48	4	9	Patates	2	adet	300	
+48	5	6	Kuru soğan	1	adet	100	
+48	6	76	Domates salçası	1	yemek kaşığı	15	
+48	7	90	Ayçiçek yağı	2	yemek kaşığı	28	
+48	8		Su	2	su bardağı	400	
+48	9	92	Tuz	1	çay kaşığı	6	
+49	1	35	Tavuk kanat	16	adet	800	
+49	2	114	Bal	2	yemek kaşığı	42	
+49	3	76	Domates salçası	1	yemek kaşığı	15	
+49	4	8	Sarımsak	2	diş	10	
+49	5	90	Ayçiçek yağı	2	yemek kaşığı	28	
+49	6	92	Tuz	1	çay kaşığı	6	
+50	1	33	Tavuk but / baget	6	adet	720	
+50	2	9	Patates	3	adet	450	
+50	3	3	Sivri biber	4	adet	80	
+50	4	1	Domates	3	adet	375	
+50	5	25	Kültür mantarı	200	g	200	
+50	6	90	Ayçiçek yağı	3	yemek kaşığı	42	
+50	7	92	Tuz	1	çay kaşığı	6	
+51	1	32	Tavuk göğsü	300	g	300	
+51	2	66	Buğday unu	3	yemek kaşığı	24	
+51	3	40	Yumurta	1	adet	55	
+51	4	70	Ekmek	3	dilim	75	
+51	5	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+51	6	92	Tuz	1/2	çay kaşığı	3	
+52	1	32	Tavuk göğsü	300	g	300	
+52	2	6	Kuru soğan	1	adet	100	
+52	3	100	Köri	1	tatlı kaşığı	4	
+52	4	51	Sıvı krema (pişirme kreması)	1	paket	200	
+52	5	90	Ayçiçek yağı	1	yemek kaşığı	14	
+52	6	92	Tuz	1/2	çay kaşığı	3	
+53	1	72	Lavaş	2	adet	120	
+53	2	32	Tavuk göğsü	250	g	250	
+53	3	14	Marul	60	g	60	
+53	4	1	Domates	1	adet	125	
+53	5	85	Mayonez	2	yemek kaşığı	28	
+53	6	90	Ayçiçek yağı	1	yemek kaşığı	14	
+53	7	92	Tuz	1/2	çay kaşığı	3	
+53	8	93	Karabiber	1/2	çay kaşığı	1	
+61	1	1	Domates	3	adet	375	
+61	2	3	Sivri biber	3	adet	60	
+61	3	40	Yumurta	3	adet	165	
+61	4	90	Ayçiçek yağı	1	yemek kaşığı	14	
+61	5	92	Tuz	1/2	çay kaşığı	3	
+62	1	1	Domates	3	adet	375	
+62	2	5	Kapya biber	1	adet	150	
+62	3	6	Kuru soğan	1	adet	100	
+62	4	40	Yumurta	4	adet	220	
+62	5	96	Kimyon	1/2	çay kaşığı	1	
+62	6	95	Toz kırmızı biber (tatlı)	1	çay kaşığı	2	
+62	7	91	Zeytinyağı	2	yemek kaşığı	28	
+62	8	92	Tuz	1/2	çay kaşığı	3	
+63	1	40	Yumurta	2	adet	110	
+63	2	42	Yoğurt	1/2	su bardağı	105	
+63	3	8	Sarımsak	1	diş	5	
+63	4	50	Kase margarin	1	yemek kaşığı	14	
+63	5	94	Pul biber	1/2	çay kaşığı	1	
+63	6	86	Üzüm / elma sirkesi	1	yemek kaşığı	15	
+63	7	92	Tuz	1/4	çay kaşığı	2	
+64	1	9	Patates	2	adet	300	
+64	2	40	Yumurta	3	adet	165	
+64	3	6	Kuru soğan	1	adet	100	
+64	4	90	Ayçiçek yağı	3	yemek kaşığı	42	
+64	5	92	Tuz	1/2	çay kaşığı	3	
+65	1	13	Ispanak	500	g	500	
+65	2	6	Kuru soğan	1	adet	100	
+65	3	40	Yumurta	3	adet	165	
+65	4	90	Ayçiçek yağı	2	yemek kaşığı	28	
+65	5	92	Tuz	1/2	çay kaşığı	3	
+66	1	11	Patlıcan	4	adet	1000	
+66	2	6	Kuru soğan	3	adet	300	
+66	3	1	Domates	2	adet	250	
+66	4	8	Sarımsak	4	diş	20	
+66	5	91	Zeytinyağı	1/2	su bardağı	90	
+66	6		Su	1/2	su bardağı	100	
+66	7	92	Tuz	1	çay kaşığı	6	
+67	1	24	Taze fasulye	750	g	750	
+67	2	6	Kuru soğan	1	adet	100	
+67	3	1	Domates	2	adet	250	
+67	4	91	Zeytinyağı	1/4	su bardağı	45	
+67	5		Su	1/2	su bardağı	100	
+67	6	92	Tuz	1	çay kaşığı	6	
+68	1	11	Patlıcan	1	adet	250	
+68	2	12	Kabak	2	adet	400	
+68	3	9	Patates	2	adet	300	
+68	4	3	Sivri biber	3	adet	60	
+68	5	1	Domates	2	adet	250	
+68	6	6	Kuru soğan	1	adet	100	
+68	7	24	Taze fasulye	250	g	250	
+68	8	76	Domates salçası	1	yemek kaşığı	15	
+68	9	90	Ayçiçek yağı	3	yemek kaşığı	42	
+68	10		Su	1,5	su bardağı	300	
+68	11	92	Tuz	1	çay kaşığı	6	
+69	1	11	Patlıcan	1	adet	250	
+69	2	12	Kabak	2	adet	400	
+69	3	5	Kapya biber	2	adet	300	
+69	4	1	Domates	3	adet	375	
+69	5	8	Sarımsak	3	diş	15	
+69	6	6	Kuru soğan	1	adet	100	
+69	7	91	Zeytinyağı	3	yemek kaşığı	42	
+69	8	97	Kekik	1	çay kaşığı	1	
+69	9	92	Tuz	1	çay kaşığı	6	
+70	1	22	Pırasa	4	sap	1000	
+70	2	10	Havuç	1	adet	80	
+70	3	53	Baldo pirinç	2	yemek kaşığı	24	
+70	4	26	Limon	1	adet	100	
+70	5	91	Zeytinyağı	1/4	su bardağı	45	
+70	6		Su	1	su bardağı	200	
+70	7	92	Tuz	1	çay kaşığı	6	
+71	1	23	Kereviz	2	adet	1000	
+71	2	10	Havuç	1	adet	80	
+71	3	9	Patates	1	adet	150	
+71	4	28	Portakal	1	adet	200	
+71	5	26	Limon	1	adet	100	
+71	6	91	Zeytinyağı	1/4	su bardağı	45	
+71	7		Su	1	su bardağı	200	
+71	8	92	Tuz	1	çay kaşığı	6	
+72	1	9	Patates	5	adet	750	
+72	2	6	Kuru soğan	1	adet	100	
+72	3	76	Domates salçası	1	yemek kaşığı	15	
+72	4	90	Ayçiçek yağı	3	yemek kaşığı	42	
+72	5		Su	2	su bardağı	400	
+72	6	92	Tuz	1	çay kaşığı	6	
+73	1	60	Kuru fasulye	2	su bardağı	360	
+73	2	6	Kuru soğan	1	adet	100	
+73	3	76	Domates salçası	2	yemek kaşığı	30	
+73	4	90	Ayçiçek yağı	3	yemek kaşığı	42	
+73	5		Su	6	su bardağı	1200	
+73	6	92	Tuz	1	çay kaşığı	6	
+74	1	59	Nohut	2	su bardağı	360	
+74	2	6	Kuru soğan	1	adet	100	
+74	3	76	Domates salçası	2	yemek kaşığı	30	
+74	4	90	Ayçiçek yağı	3	yemek kaşığı	42	
+74	5		Su	5	su bardağı	1000	
+74	6	92	Tuz	1	çay kaşığı	6	
+75	1	58	Yeşil mercimek	1,5	su bardağı	270	
+75	2	55	Pilavlık bulgur	2	yemek kaşığı	24	
+75	3	6	Kuru soğan	1	adet	100	
+75	4	76	Domates salçası	1	yemek kaşığı	15	
+75	5	90	Ayçiçek yağı	3	yemek kaşığı	42	
+75	6		Su	5	su bardağı	1000	
+75	7	92	Tuz	1	çay kaşığı	6	
+76	1	60	Kuru fasulye	2	su bardağı	360	
+76	2	10	Havuç	1	adet	80	
+76	3	9	Patates	1	adet	150	
+76	4	6	Kuru soğan	1	adet	100	
+76	5	26	Limon	1	adet	100	
+76	6	91	Zeytinyağı	1/4	su bardağı	45	
+76	7		Su	4	su bardağı	800	
+76	8	92	Tuz	1	çay kaşığı	6	
+77	1	12	Kabak	3	adet	600	
+77	2	40	Yumurta	2	adet	110	
+77	3	66	Buğday unu	1/2	su bardağı	55	
+77	4	44	Beyaz peynir	1/2	su bardağı	60	
+77	5	17	Dereotu	1/2	demet	25	
+77	6	7	Taze soğan	3	sap	45	
+77	7	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+77	8	92	Tuz	1/2	çay kaşığı	3	
+78	1	20	Karnabahar	1000	g	1000	
+78	2	40	Yumurta	2	adet	110	
+78	3	66	Buğday unu	1/2	su bardağı	55	
+78	4	42	Yoğurt	1	su bardağı	210	
+78	5	8	Sarımsak	1	diş	5	
+78	6	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+78	7	92	Tuz	1	çay kaşığı	6	
+79	1	11	Patlıcan	2	adet	500	
+79	2	12	Kabak	2	adet	400	
+79	3	3	Sivri biber	3	adet	60	
+79	4	1	Domates	3	adet	375	
+79	5	8	Sarımsak	2	diş	10	
+79	6	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+79	7	92	Tuz	1	çay kaşığı	6	
+80	1	25	Kültür mantarı	400	g	400	
+80	2	6	Kuru soğan	1	adet	100	
+80	3	3	Sivri biber	2	adet	40	
+80	4	90	Ayçiçek yağı	1	yemek kaşığı	14	
+80	5	92	Tuz	1/2	çay kaşığı	3	
+80	6	93	Karabiber	1/2	çay kaşığı	1	
+81	1	9	Patates	3	adet	450	
+81	2	10	Havuç	2	adet	160	
+81	3	12	Kabak	2	adet	400	
+81	4	21	Brokoli	1	adet	500	
+81	5	91	Zeytinyağı	3	yemek kaşığı	42	
+81	6	97	Kekik	1	çay kaşığı	1	
+81	7	92	Tuz	1	çay kaşığı	6	
+82	1	9	Patates	5	adet	750	
+82	2	41	Süt	1	su bardağı	205	
+82	3	51	Sıvı krema (pişirme kreması)	1	paket	200	
+82	4	45	Kaşar	1	su bardağı	90	
+82	5	8	Sarımsak	2	diş	10	
+82	6	92	Tuz	1	çay kaşığı	6	
+82	7	93	Karabiber	1/2	çay kaşığı	1	
+83	1	59	Nohut	2	su bardağı	360	
+83	2	6	Kuru soğan	1	adet	100	
+83	3	8	Sarımsak	3	diş	15	
+83	4	16	Maydanoz	1	demet	50	
+83	5	96	Kimyon	1	çay kaşığı	2	
+83	6	110	Karbonat	1/2	çay kaşığı	2	
+83	7	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+83	8	92	Tuz	1	çay kaşığı	6	
+149	1	40	Yumurta	2	adet	110	
+149	2	41	Süt	2	yemek kaşığı	30	
+149	3	50	Kase margarin	1	tatlı kaşığı	9	
+149	4	92	Tuz	1/4	çay kaşığı	2	
+149	5	93	Karabiber	1/4	çay kaşığı	1	
+85	1	54	Osmancık pirinç	2	su bardağı	360	
+85	2	63	Arpa şehriye	2	yemek kaşığı	24	
+85	3	50	Kase margarin	2	yemek kaşığı	28	
+85	4		Su	3	su bardağı	600	
+85	5	92	Tuz	1	çay kaşığı	6	
+86	1	55	Pilavlık bulgur	2	su bardağı	350	
+86	2	6	Kuru soğan	1	adet	100	
+86	3	3	Sivri biber	2	adet	40	
+86	4	76	Domates salçası	1	yemek kaşığı	15	
+86	5	90	Ayçiçek yağı	3	yemek kaşığı	42	
+86	6		Su	3	su bardağı	600	
+86	7	92	Tuz	1	çay kaşığı	6	
+86	8	93	Karabiber	1/2	çay kaşığı	1	
+87	1	54	Osmancık pirinç	2	su bardağı	360	
+87	2	59	Nohut	1/2	su bardağı	90	
+87	3	50	Kase margarin	2	yemek kaşığı	28	
+87	4		Su	3	su bardağı	600	
+87	5	92	Tuz	1	çay kaşığı	6	
+88	1	54	Osmancık pirinç	2	su bardağı	360	
+88	2	10	Havuç	1	adet	80	
+88	3	88	Dondurulmuş bezelye / garnitür	1/2	su bardağı	70	
+88	4	78	Mısır konservesi	1/2	su bardağı	80	
+88	5	50	Kase margarin	2	yemek kaşığı	28	
+88	6		Su	3	su bardağı	600	
+88	7	92	Tuz	1	çay kaşığı	6	
+89	1	32	Tavuk göğsü	300	g	300	
+89	2	54	Osmancık pirinç	2	su bardağı	360	
+89	3	50	Kase margarin	2	yemek kaşığı	28	
+89	4	105	Et / tavuk bulyon	1	tablet	10	
+89	5		Su	5	su bardağı	1000	
+89	6	92	Tuz	1	çay kaşığı	6	
+89	7	93	Karabiber	1/2	çay kaşığı	1	
+90	1	54	Osmancık pirinç	2	su bardağı	360	
+90	2	1	Domates	3	adet	375	
+90	3	50	Kase margarin	2	yemek kaşığı	28	
+90	4		Su	2	su bardağı	400	
+90	5	92	Tuz	1	çay kaşığı	6	
+91	1	55	Pilavlık bulgur	2	su bardağı	350	
+91	2	25	Kültür mantarı	250	g	250	
+91	3	6	Kuru soğan	1	adet	100	
+91	4	90	Ayçiçek yağı	3	yemek kaşığı	42	
+91	5		Su	3	su bardağı	600	
+91	6	92	Tuz	1	çay kaşığı	6	
+92	1	54	Osmancık pirinç	1	su bardağı	180	
+92	2		Su	1,5	su bardağı	300	
+92	3	40	Yumurta	2	adet	110	
+92	4	10	Havuç	1	adet	80	
+92	5	88	Dondurulmuş bezelye / garnitür	1/2	su bardağı	70	
+92	6	7	Taze soğan	2	sap	30	
+92	7	90	Ayçiçek yağı	2	yemek kaşığı	28	
+92	8	92	Tuz	1/2	çay kaşığı	3	
+93	1	62	Penne / burgu	1/2	paket	250	
+93	2	76	Domates salçası	1	yemek kaşığı	15	
+93	3	90	Ayçiçek yağı	2	yemek kaşığı	28	
+93	4	92	Tuz	1	çay kaşığı	6	
+94	1	62	Penne / burgu	1/2	paket	250	
+94	2	42	Yoğurt	1	su bardağı	210	
+94	3	8	Sarımsak	1	diş	5	
+94	4	50	Kase margarin	1	yemek kaşığı	14	
+94	5	94	Pul biber	1/2	çay kaşığı	1	
+94	6	92	Tuz	1	çay kaşığı	6	
+95	1	61	Spagetti	1/2	paket	250	
+95	2	30	Dana kıyma	200	g	200	
+95	3	6	Kuru soğan	1	adet	100	
+95	4	10	Havuç	1	adet	80	
+95	5	1	Domates	3	adet	375	
+95	6	91	Zeytinyağı	1	yemek kaşığı	14	
+95	7	92	Tuz	1	çay kaşığı	6	
+95	8	93	Karabiber	1/2	çay kaşığı	1	
+96	1	62	Penne / burgu	1/2	paket	250	
+96	2	80	Ton balığı	1	kutu	150	
+96	3	1	Domates	2	adet	250	
+96	4	8	Sarımsak	2	diş	10	
+96	5	91	Zeytinyağı	1	yemek kaşığı	14	
+96	6	92	Tuz	1	çay kaşığı	6	
+97	1	62	Penne / burgu	1	paket	500	
+97	2	41	Süt	3	su bardağı	615	
+97	3	66	Buğday unu	3	yemek kaşığı	24	
+97	4	49	Kalıp margarin	1/8	paket	31	
+97	5	40	Yumurta	2	adet	110	
+97	6	45	Kaşar	1	su bardağı	90	
+97	7	92	Tuz	1	çay kaşığı	6	
+98	1	61	Spagetti	1/2	paket	250	
+98	2	36	Sucuk	100	g	100	
+98	3	40	Yumurta	2	adet	110	
+98	4	45	Kaşar	1/2	su bardağı	45	
+98	5	92	Tuz	1	çay kaşığı	6	
+98	6	93	Karabiber	1/2	çay kaşığı	1	
+99	1	62	Penne / burgu	1/2	paket	250	
+99	2	25	Kültür mantarı	200	g	200	
+99	3	51	Sıvı krema (pişirme kreması)	1	paket	200	
+99	4	90	Ayçiçek yağı	1	yemek kaşığı	14	
+99	5	92	Tuz	1	çay kaşığı	6	
+99	6	93	Karabiber	1/2	çay kaşığı	1	
+100	1	62	Penne / burgu	1/2	paket	250	
+100	2	32	Tavuk göğsü	200	g	200	
+100	3	25	Kültür mantarı	150	g	150	
+100	4	51	Sıvı krema (pişirme kreması)	1	paket	200	
+100	5	90	Ayçiçek yağı	1	yemek kaşığı	14	
+100	6	92	Tuz	1	çay kaşığı	6	
+100	7	93	Karabiber	1/2	çay kaşığı	1	
+101	1	62	Penne / burgu	1	paket	500	
+101	2	41	Süt	2	su bardağı	410	
+101	3	66	Buğday unu	2	yemek kaşığı	16	
+101	4	49	Kalıp margarin	1/8	paket	31	
+101	5	45	Kaşar	1,5	su bardağı	135	
+101	6	92	Tuz	1	çay kaşığı	6	
+102	1	62	Penne / burgu	1/2	paket	250	
+102	2	1	Domates	3	adet	375	
+102	3	8	Sarımsak	2	diş	10	
+102	4	94	Pul biber	1	çay kaşığı	2	
+102	5	91	Zeytinyağı	2	yemek kaşığı	28	
+102	6	92	Tuz	1	çay kaşığı	6	
+103	1	61	Spagetti	1/2	paket	250	
+103	2	8	Sarımsak	4	diş	20	
+103	3	94	Pul biber	1	çay kaşığı	2	
+103	4	91	Zeytinyağı	4	yemek kaşığı	56	
+103	5	16	Maydanoz	1/2	demet	25	
+103	6	92	Tuz	1	çay kaşığı	6	
+104	1	65	Mantı (kuru veya dondurulmuş)	250	g	250	
+104	2	42	Yoğurt	1	su bardağı	210	
+104	3	8	Sarımsak	1	diş	5	
+104	4	50	Kase margarin	1	yemek kaşığı	14	
+104	5	94	Pul biber	1/2	çay kaşığı	1	
+104	6	92	Tuz	1	çay kaşığı	6	
+152	1	63	Arpa şehriye	2	su bardağı	340	
+152	2	50	Kase margarin	2	yemek kaşığı	28	
+152	3		Su	3	su bardağı	600	
+152	4	92	Tuz	1	çay kaşığı	6	
+84	1	57	Kırmızı mercimek	1	su bardağı	180	
+84	2	56	Köftelik bulgur	1	su bardağı	160	
+84	3	6	Kuru soğan	1	adet	100	
+84	4	76	Domates salçası	1	yemek kaşığı	15	
+84	5	7	Taze soğan	4	sap	60	
+84	6	16	Maydanoz	1	demet	50	
+84	7	91	Zeytinyağı	3	yemek kaşığı	42	
+84	8	14	Marul	1	adet	400	
+84	9	26	Limon	1	adet	100	
+84	10		Su	2,5	su bardağı	500	
+84	11	92	Tuz	1	çay kaşığı	6	
+105	1	1	Domates	2	adet	250	
+105	2	2	Salatalık	1	adet	150	
+105	3	3	Sivri biber	2	adet	40	
+105	4	6	Kuru soğan	1	adet	100	
+105	5	16	Maydanoz	1/2	demet	25	
+105	6	91	Zeytinyağı	2	yemek kaşığı	28	
+105	7	26	Limon	1	adet	100	
+105	8	92	Tuz	1/2	çay kaşığı	3	
+106	1	14	Marul	200	g	200	
+106	2	15	Roka	1/2	demet	50	
+106	3	10	Havuç	1	adet	80	
+106	4	26	Limon	1	adet	100	
+106	5	91	Zeytinyağı	2	yemek kaşığı	28	
+106	6	92	Tuz	1/2	çay kaşığı	3	
+107	1	56	Köftelik bulgur	2	su bardağı	320	
+107	2	76	Domates salçası	1	yemek kaşığı	15	
+107	3	7	Taze soğan	4	sap	60	
+107	4	16	Maydanoz	1	demet	50	
+107	5	18	Taze nane	1/2	demet	20	
+107	6	87	Nar ekşisi	2	yemek kaşığı	36	
+107	7	26	Limon	1	adet	100	
+107	8	91	Zeytinyağı	3	yemek kaşığı	42	
+107	9		Su	1,5	su bardağı	300	
+107	10	92	Tuz	1	çay kaşığı	6	
+108	1	42	Yoğurt	1	su bardağı	210	
+108	2	2	Salatalık	1	adet	150	
+108	3	8	Sarımsak	1	diş	5	
+108	4	98	Kuru nane	1/2	çay kaşığı	0	
+108	5		Su	1/2	su bardağı	100	
+108	6	92	Tuz	1/2	çay kaşığı	3	
+109	1	10	Havuç	3	adet	240	
+109	2	43	Süzme yoğurt	1	su bardağı	230	
+109	3	8	Sarımsak	1	diş	5	
+109	4	91	Zeytinyağı	2	yemek kaşığı	28	
+109	5	92	Tuz	1/2	çay kaşığı	3	
+110	1	9	Patates	5	adet	750	
+110	2	7	Taze soğan	3	sap	45	
+110	3	16	Maydanoz	1	demet	50	
+110	4	26	Limon	1	adet	100	
+110	5	91	Zeytinyağı	3	yemek kaşığı	42	
+110	6	92	Tuz	1	çay kaşığı	6	
+111	1	9	Patates	3	adet	450	
+111	2	10	Havuç	2	adet	160	
+111	3	88	Dondurulmuş bezelye / garnitür	1/2	su bardağı	70	
+111	4	83	Turşu	3	adet	90	
+111	5	85	Mayonez	4	yemek kaşığı	56	
+111	6	42	Yoğurt	4	yemek kaşığı	60	
+111	7	92	Tuz	1/2	çay kaşığı	3	
+112	1	62	Penne / burgu	1/2	paket	250	
+112	2	80	Ton balığı	1	kutu	150	
+112	3	78	Mısır konservesi	1	kutu	200	
+112	4	85	Mayonez	3	yemek kaşığı	42	
+112	5	92	Tuz	1	çay kaşığı	6	
+113	1	59	Nohut	1	su bardağı	180	
+113	2	116	Tahin	3	yemek kaşığı	45	
+113	3	26	Limon	1	adet	100	
+113	4	8	Sarımsak	1	diş	5	
+113	5	96	Kimyon	1/2	çay kaşığı	1	
+113	6	91	Zeytinyağı	2	yemek kaşığı	28	
+113	7	92	Tuz	1/2	çay kaşığı	3	
+114	1	11	Patlıcan	3	adet	750	
+114	2	1	Domates	1	adet	125	
+114	3	3	Sivri biber	2	adet	40	
+114	4	8	Sarımsak	1	diş	5	
+114	5	26	Limon	1	adet	100	
+114	6	91	Zeytinyağı	2	yemek kaşığı	28	
+114	7	92	Tuz	1/2	çay kaşığı	3	
+115	1	43	Süzme yoğurt	1	su bardağı	230	
+115	2	44	Beyaz peynir	1/2	su bardağı	60	
+115	3	8	Sarımsak	1	diş	5	
+115	4	17	Dereotu	1/2	demet	25	
+115	5	91	Zeytinyağı	1	yemek kaşığı	14	
+116	1	60	Kuru fasulye	1,5	su bardağı	270	
+116	2	6	Kuru soğan	1	adet	100	
+116	3	1	Domates	1	adet	125	
+116	4	16	Maydanoz	1	demet	50	
+116	5	99	Sumak	1	çay kaşığı	2	
+116	6	26	Limon	1	adet	100	
+116	7	91	Zeytinyağı	3	yemek kaşığı	42	
+116	8	92	Tuz	1	çay kaşığı	6	
+117	1	1	Domates	2	adet	250	
+117	2	6	Kuru soğan	1	adet	100	
+117	3	3	Sivri biber	2	adet	40	
+117	4	16	Maydanoz	1/2	demet	25	
+117	5	119	Ceviz	1/2	su bardağı	50	
+117	6	87	Nar ekşisi	1	yemek kaşığı	18	
+117	7	91	Zeytinyağı	2	yemek kaşığı	28	
+117	8	92	Tuz	1/2	çay kaşığı	3	
+118	1	58	Yeşil mercimek	1	su bardağı	180	
+118	2	1	Domates	2	adet	250	
+118	3	7	Taze soğan	3	sap	45	
+118	4	16	Maydanoz	1	demet	50	
+118	5	26	Limon	1	adet	100	
+118	6	91	Zeytinyağı	3	yemek kaşığı	42	
+118	7	92	Tuz	1	çay kaşığı	6	
+119	1	19	Beyaz lahana	500	g	500	
+119	2	10	Havuç	1	adet	80	
+119	3	26	Limon	1	adet	100	
+119	4	91	Zeytinyağı	2	yemek kaşığı	28	
+119	5	92	Tuz	1	çay kaşığı	6	
+120	1	32	Tavuk göğsü	250	g	250	
+120	2	14	Marul	200	g	200	
+120	3	78	Mısır konservesi	1/2	su bardağı	80	
+120	4	1	Domates	1	adet	125	
+120	5	91	Zeytinyağı	2	yemek kaşığı	28	
+120	6	26	Limon	1	adet	100	
+120	7	92	Tuz	1/2	çay kaşığı	3	
+121	1	73	Yufka	2	adet	320	
+121	2	44	Beyaz peynir	1	su bardağı	120	
+121	3	16	Maydanoz	1/2	demet	25	
+121	4	90	Ayçiçek yağı	1/2	su bardağı	90	evet
+122	1	73	Yufka	3	adet	480	
+122	2	13	Ispanak	500	g	500	
+122	3	44	Beyaz peynir	1	su bardağı	120	
+122	4	6	Kuru soğan	1	adet	100	
+122	5	41	Süt	1	su bardağı	205	
+122	6	40	Yumurta	2	adet	110	
+122	7	90	Ayçiçek yağı	1/2	su bardağı	90	
+122	8	92	Tuz	1/2	çay kaşığı	3	
+123	1	73	Yufka	3	adet	480	
+123	2	30	Dana kıyma	250	g	250	
+123	3	6	Kuru soğan	1	adet	100	
+123	4	41	Süt	1	su bardağı	205	
+123	5	40	Yumurta	2	adet	110	
+123	6	90	Ayçiçek yağı	1/2	su bardağı	90	
+123	7	92	Tuz	1	çay kaşığı	6	
+123	8	93	Karabiber	1/2	çay kaşığı	1	
+124	1	73	Yufka	3	adet	480	
+124	2	9	Patates	3	adet	450	
+124	3	6	Kuru soğan	1	adet	100	
+124	4	41	Süt	1	su bardağı	205	
+124	5	40	Yumurta	2	adet	110	
+124	6	90	Ayçiçek yağı	1/2	su bardağı	90	
+124	7	94	Pul biber	1	çay kaşığı	2	
+124	8	92	Tuz	1	çay kaşığı	6	
+125	1	73	Yufka	2	adet	320	
+125	2	44	Beyaz peynir	1/2	su bardağı	60	
+125	3	13	Ispanak	200	g	200	
+125	4	50	Kase margarin	1	yemek kaşığı	14	
+126	1	66	Buğday unu	3	su bardağı	330	
+126	2	112	Kuru maya	1	paket	10	
+126	3	41	Süt	1	su bardağı	205	
+126	4		Su	1/2	su bardağı	100	
+126	5	106	Toz şeker	1	çay kaşığı	4	
+126	6	92	Tuz	1	çay kaşığı	6	
+126	7	90	Ayçiçek yağı	1	su bardağı	180	evet
+127	1	66	Buğday unu	3,5	su bardağı	385	
+127	2	42	Yoğurt	1/2	su bardağı	105	
+127	3	49	Kalıp margarin	1/2	paket	125	
+127	4	90	Ayçiçek yağı	1/2	çay bardağı	45	
+127	5	40	Yumurta	1	adet	55	
+127	6	109	Kabartma tozu	1	paket	10	
+127	7	44	Beyaz peynir	1	su bardağı	120	
+127	8	92	Tuz	1	çay kaşığı	6	
+128	1	72	Lavaş	1	adet	60	
+128	2	76	Domates salçası	1	yemek kaşığı	15	
+128	3	45	Kaşar	1/2	su bardağı	45	
+128	4	36	Sucuk	40	g	40	
+128	5	97	Kekik	1/2	çay kaşığı	0	
+129	1	66	Buğday unu	3	su bardağı	330	
+129	2	112	Kuru maya	1	paket	10	
+129	3		Su	1	su bardağı	200	
+129	4	91	Zeytinyağı	2	yemek kaşığı	28	
+129	5	106	Toz şeker	1	çay kaşığı	4	
+129	6	76	Domates salçası	2	yemek kaşığı	30	
+129	7	45	Kaşar	1,5	su bardağı	135	
+129	8	36	Sucuk	100	g	100	
+129	9	25	Kültür mantarı	150	g	150	
+129	10	5	Kapya biber	1	adet	150	
+129	11	92	Tuz	1	çay kaşığı	6	
+130	1	66	Buğday unu	3	su bardağı	330	
+130	2	112	Kuru maya	1	paket	10	
+130	3		Su	1	su bardağı	200	
+130	4	106	Toz şeker	1	çay kaşığı	4	
+130	5	30	Dana kıyma	300	g	300	
+130	6	6	Kuru soğan	1	adet	100	
+130	7	1	Domates	1	adet	125	
+130	8	3	Sivri biber	2	adet	40	
+130	9	90	Ayçiçek yağı	2	yemek kaşığı	28	
+130	10	92	Tuz	1	çay kaşığı	6	
+131	1	74	Dondurulmuş milföy	8	kare	480	
+131	2	44	Beyaz peynir	1	su bardağı	120	
+131	3	40	Yumurta	1	adet	55	
+132	1	71	Tost ekmeği	2	dilim	50	
+132	2	45	Kaşar	1/4	su bardağı	22	
+132	3	36	Sucuk	30	g	30	
+132	4	50	Kase margarin	1	tatlı kaşığı	9	
+133	1	66	Buğday unu	1	su bardağı	110	
+133	2	41	Süt	1,5	su bardağı	308	
+133	3	40	Yumurta	2	adet	110	
+133	4	90	Ayçiçek yağı	1	yemek kaşığı	14	
+133	5	92	Tuz	1/4	çay kaşığı	2	
+134	1	67	Mısır unu	2	su bardağı	280	
+134	2	66	Buğday unu	1/2	su bardağı	55	
+134	3	42	Yoğurt	1	su bardağı	210	
+134	4	40	Yumurta	2	adet	110	
+134	5	90	Ayçiçek yağı	1/2	su bardağı	90	
+134	6	109	Kabartma tozu	1	paket	10	
+134	7	92	Tuz	1	çay kaşığı	6	
+135	1	66	Buğday unu	1	su bardağı	110	
+135	2	41	Süt	3/4	su bardağı	154	
+135	3	40	Yumurta	1	adet	55	
+135	4	106	Toz şeker	1	yemek kaşığı	12	
+135	5	109	Kabartma tozu	1	çay kaşığı	4	
+135	6	90	Ayçiçek yağı	1	yemek kaşığı	14	
+135	7	114	Bal	2	yemek kaşığı	42	
+136	1	53	Baldo pirinç	1/2	çay bardağı	45	
+136	2		Su	1	su bardağı	200	
+136	3	41	Süt	5	su bardağı	1025	
+136	4	106	Toz şeker	1	su bardağı	180	
+136	5	69	Mısır nişastası	2	yemek kaşığı	16	
+137	1	41	Süt	4	su bardağı	820	
+137	2	106	Toz şeker	3/4	su bardağı	135	
+137	3	66	Buğday unu	2	yemek kaşığı	16	
+137	4	69	Mısır nişastası	2	yemek kaşığı	16	
+137	5	111	Vanilin	1	paket	5	
+137	6	101	Tarçın	1	çay kaşığı	2	
+138	1	68	İrmik	1	su bardağı	160	
+138	2	49	Kalıp margarin	1/4	paket	62	
+138	3	41	Süt	1	su bardağı	205	
+138	4		Su	1	su bardağı	200	
+138	5	106	Toz şeker	1	su bardağı	180	
+139	1	66	Buğday unu	1	su bardağı	110	
+139	2	49	Kalıp margarin	1/4	paket	62	
+139	3	41	Süt	1	su bardağı	205	
+139	4		Su	1/2	su bardağı	100	
+139	5	106	Toz şeker	3/4	su bardağı	135	
+140	1	40	Yumurta	3	adet	165	
+140	2	106	Toz şeker	1	su bardağı	180	
+140	3	41	Süt	1	su bardağı	205	
+140	4	90	Ayçiçek yağı	1/2	su bardağı	90	
+140	5	66	Buğday unu	2	su bardağı	220	
+140	6	108	Kakao	3	yemek kaşığı	21	
+140	7	109	Kabartma tozu	1	paket	10	
+140	8	111	Vanilin	1	paket	5	
+141	1	123	Bisküvi (petibör)	1	paket	175	
+141	2	108	Kakao	3	yemek kaşığı	21	
+141	3	41	Süt	1/2	su bardağı	102	
+141	4	49	Kalıp margarin	1/2	paket	125	
+141	5	106	Toz şeker	1/2	su bardağı	90	
+142	1	40	Yumurta	3	adet	165	
+142	2	106	Toz şeker	3	su bardağı	540	
+142	3	42	Yoğurt	1	su bardağı	210	
+142	4	68	İrmik	1	su bardağı	160	
+142	5	66	Buğday unu	1	su bardağı	110	
+142	6	109	Kabartma tozu	1	paket	10	
+142	7		Su	2,5	su bardağı	500	
+143	1	41	Süt	4	su bardağı	820	
+143	2	106	Toz şeker	3/4	su bardağı	135	
+143	3	108	Kakao	2	yemek kaşığı	14	
+143	4	66	Buğday unu	2	yemek kaşığı	16	
+143	5	69	Mısır nişastası	2	yemek kaşığı	16	
+143	6	121	Bitter çikolata	1	tablet	80	
+144	1	49	Kalıp margarin	1/2	paket	125	
+144	2	42	Yoğurt	1/2	su bardağı	105	
+144	3	107	Pudra şekeri	1/2	su bardağı	60	
+144	4	109	Kabartma tozu	1	çay kaşığı	4	
+144	5	66	Buğday unu	3	su bardağı	330	
+144	6	27	Elma	3	adet	540	
+144	7	106	Toz şeker	3	yemek kaşığı	36	
+144	8	101	Tarçın	1	çay kaşığı	2	
+145	1	49	Kalıp margarin	1/2	paket	125	
+145	2	107	Pudra şekeri	1/2	su bardağı	60	
+145	3	66	Buğday unu	2	su bardağı	220	
+145	4	111	Vanilin	1	paket	5	
+146	1	121	Bitter çikolata	2	tablet	160	
+146	2	49	Kalıp margarin	1/2	paket	125	
+146	3	106	Toz şeker	1	su bardağı	180	
+146	4	40	Yumurta	3	adet	165	
+146	5	66	Buğday unu	3/4	su bardağı	82	
+146	6	108	Kakao	2	yemek kaşığı	14	
+147	1	41	Süt	3	su bardağı	615	
+147	2	106	Toz şeker	1/2	su bardağı	90	
+147	3	66	Buğday unu	2	yemek kaşığı	16	
+147	4	69	Mısır nişastası	2	yemek kaşığı	16	
+147	5	123	Bisküvi (petibör)	1	paket	175	
+147	6	29	Muz	2	adet	240	
+148	1	124	Kuru kayısı	20	adet	160	
+148	2	106	Toz şeker	1	su bardağı	180	
+148	3		Su	2	su bardağı	400	
+148	4	119	Ceviz	1/2	su bardağı	50	
+148	5	52	Kaymak	4	yemek kaşığı	60	
+150	1	9	Patates	3	adet	450	
+150	2	90	Ayçiçek yağı	1	su bardağı	180	evet
+150	3	92	Tuz	1/2	çay kaşığı	3	
+151	1	9	Patates	5	adet	750	
+151	2	41	Süt	1	su bardağı	205	
+151	3	50	Kase margarin	2	yemek kaşığı	28	
+151	4	92	Tuz	1	çay kaşığı	6	

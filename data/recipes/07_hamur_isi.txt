@@ -1,0 +1,248 @@
+# 121 Sigara böreği
+süre: 40
+malzemeler:
+- Yufka | 2 adet
+- Beyaz peynir | 1 su bardağı
+- Maydanoz | 1/2 demet
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+yapılışı:
+1. Peyniri ez, maydanozu ince doğrayıp karıştır.
+2. Her yufkayı 8 üçgen dilime kes.
+3. Geniş kenara bir parça harç koy, kenarları içe katlayıp sıkıca sar. Ucunu suyla yapıştır.
+4. Kızgın yağda her yanı kızarana kadar kızart.
+5. Kâğıt havluya alıp servis et.
+
+# 122 Ispanaklı tepsi böreği
+süre: 100
+malzemeler:
+- Yufka | 3 adet
+- Ispanak | 500 g
+- Beyaz peynir | 1 su bardağı
+- Kuru soğan | 1 adet
+- Süt | 1 su bardağı
+- Yumurta | 2 adet
+- Ayçiçek yağı | 1/2 su bardağı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Ispanağı ve soğanı doğra. İki kaşık yağda ıspanak sönene kadar 5 dakika kavur, soğut, peyniri ekle.
+2. Sütü, yumurtaları, kalan yağı ve tuzu çırp.
+3. Tepsiyi yağla. Yufkaları aralarına sos sürerek kat kat diz, ortaya ıspanaklı harcı yay.
+4. Kalan yufkayla kapat, kalan sosu üstüne dök.
+5. Dilimleyip 30 dakika beklet.
+6. 180°C fırında üstü kızarana kadar 40 dakika pişir.
+
+# 123 Kıymalı börek
+süre: 100
+malzemeler:
+- Yufka | 3 adet
+- Dana kıyma | 250 g
+- Kuru soğan | 1 adet
+- Süt | 1 su bardağı
+- Yumurta | 2 adet
+- Ayçiçek yağı | 1/2 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı doğra, iki kaşık yağda kıymayla suyunu çekene kadar kavur. Tuz ve karabiberi ekle, soğut.
+2. Sütü, yumurtaları ve kalan yağı çırp.
+3. Tepsiyi yağla. Yufkaları aralarına sos sürerek kat kat diz, ortaya kıymayı yay.
+4. Kalan yufkayla kapat, kalan sosu üstüne dök.
+5. Dilimleyip 30 dakika beklet.
+6. 180°C fırında üstü kızarana kadar 40 dakika pişir.
+
+# 124 Patatesli börek
+süre: 100
+malzemeler:
+- Yufka | 3 adet
+- Patates | 3 adet
+- Kuru soğan | 1 adet
+- Süt | 1 su bardağı
+- Yumurta | 2 adet
+- Ayçiçek yağı | 1/2 su bardağı
+- Pul biber | 1 çay kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patatesleri haşla, ez. Soğanı doğra, iki kaşık yağda 3 dakika kavur, patatese ekle. Pul biber ve yarım tuzu karıştır.
+2. Sütü, yumurtaları, kalan yağı ve tuzu çırp.
+3. Tepsiyi yağla. Yufkaları aralarına sos sürerek kat kat diz, ortaya patatesli harcı yay.
+4. Kalan yufkayla kapat, kalan sosu üstüne dök.
+5. Dilimleyip 30 dakika beklet.
+6. 180°C fırında üstü kızarana kadar 40 dakika pişir.
+
+# 125 Yufkadan gözleme
+süre: 20
+malzemeler:
+- Yufka | 2 adet
+- Beyaz peynir | 1/2 su bardağı
+- Ispanak | 200 g
+- Kase margarin | 1 yemek kaşığı
+yapılışı:
+1. Ispanağı ince doğra, peynirle karıştır.
+2. Her yufkanın yarısına harç yay, diğer yarısını üstüne kapat, kenarları içe katla.
+3. Tavayı ısıt, gözlemelerin her iki yüzünü kızarana kadar 3-4 dakika pişir.
+4. Sıcakken üstüne margarin sür, dilimleyip servis et.
+
+# 126 Pişi
+süre: 60
+malzemeler:
+- Buğday unu | 3 su bardağı
+- Kuru maya | 1 paket
+- Süt | 1 su bardağı
+- Su | 1/2 su bardağı
+- Toz şeker | 1 çay kaşığı
+- Tuz | 1 çay kaşığı
+- Ayçiçek yağı | 1 su bardağı | kızartma
+yapılışı:
+1. Ilık sütü, ılık suyu, mayayı ve şekeri karıştır.
+2. Unu ve tuzu ekleyip yumuşak bir hamur yoğur.
+3. Üstünü örtüp sıcak bir yerde 40 dakika mayalandır.
+4. Ceviz büyüklüğünde parçalar koparıp elle yassılaştır.
+5. Kızgın yağda iki yüzü kızarana kadar kızart.
+
+# 127 Poğaça
+süre: 60
+malzemeler:
+- Buğday unu | 3,5 su bardağı
+- Yoğurt | 1/2 su bardağı
+- Kalıp margarin | 1/2 paket
+- Ayçiçek yağı | 1/2 çay bardağı
+- Yumurta | 1 adet
+- Kabartma tozu | 1 paket
+- Beyaz peynir | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Eritilmiş margarini, yağı, yoğurdu, yumurtanın beyazını ve tuzu karıştır.
+2. Kabartma tozunu ve unu azar azar ekleyip ele yapışmayan yumuşak bir hamur yoğur.
+3. Ceviz büyüklüğünde parçalar al, ortasını aç, ezilmiş peynirden koyup kapat.
+4. Yağlı kâğıt serili tepsiye diz, üstlerine yumurta sarısı sür.
+5. 180°C fırında 25-30 dakika pişir.
+
+# 128 Lavaş pizza
+süre: 15
+malzemeler:
+- Lavaş | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Kaşar | 1/2 su bardağı
+- Sucuk | 40 g
+- Kekik | 1/2 çay kaşığı
+yapılışı:
+1. Fırını 200°C'ye ısıt.
+2. Salçayı az suyla açıp lavaşa ince sür.
+3. Sucuğu ince dilimle. Lavaşa kaşarı ve sucuğu yay, kekik serp.
+4. Fırında kenarları kızarana kadar 8-10 dakika pişir.
+
+# 129 Ev pizzası
+süre: 90
+malzemeler:
+- Buğday unu | 3 su bardağı
+- Kuru maya | 1 paket
+- Su | 1 su bardağı
+- Zeytinyağı | 2 yemek kaşığı
+- Toz şeker | 1 çay kaşığı
+- Domates salçası | 2 yemek kaşığı
+- Kaşar | 1,5 su bardağı
+- Sucuk | 100 g
+- Kültür mantarı | 150 g
+- Kapya biber | 1 adet
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Ilık suyu, mayayı ve şekeri karıştır. Unu, tuzu ve zeytinyağını ekleyip yumuşak bir hamur yoğur.
+2. Üstünü örtüp 45 dakika mayalandır.
+3. Hamuru yağlı tepsiye elle yay.
+4. Salçayı az suyla açıp hamura sür.
+5. Kaşarı, dilimlenmiş sucuğu, mantarı ve biberi yay.
+6. 220°C fırında 15-20 dakika pişir.
+
+# 130 Kıymalı pide
+süre: 100
+malzemeler:
+- Buğday unu | 3 su bardağı
+- Kuru maya | 1 paket
+- Su | 1 su bardağı
+- Toz şeker | 1 çay kaşığı
+- Dana kıyma | 300 g
+- Kuru soğan | 1 adet
+- Domates | 1 adet
+- Sivri biber | 2 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Ilık suyu, mayayı ve şekeri karıştır. Unu, tuzun yarısını ve yağı ekleyip hamur yoğur, 45 dakika mayalandır.
+2. Soğanı, domatesi ve biberi çok küçük doğra, kıyma ve kalan tuzla karıştır.
+3. Hamuru dört parçaya böl, her birini uzun oval aç.
+4. Ortasına harcı yay, kenarlarını içe katlayıp uçlarını sıkıştır.
+5. 220°C fırında 15-20 dakika pişir.
+
+# 131 Peynirli milföy
+süre: 35
+malzemeler:
+- Dondurulmuş milföy | 8 kare
+- Beyaz peynir | 1 su bardağı
+- Yumurta | 1 adet
+yapılışı:
+1. Milföyleri 10 dakika oda sıcaklığında çözdür.
+2. Peyniri ez, yumurtanın beyazıyla karıştır.
+3. Her karenin ortasına peynir koy, üçgen katlayıp kenarlarını çatalla bastır.
+4. Üstlerine yumurta sarısı sür.
+5. 200°C fırında kabarıp kızarana kadar 20 dakika pişir.
+
+# 132 Sucuklu kaşarlı tost
+süre: 10
+malzemeler:
+- Tost ekmeği | 2 dilim
+- Kaşar | 1/4 su bardağı
+- Sucuk | 30 g
+- Kase margarin | 1 tatlı kaşığı
+yapılışı:
+1. Sucuğu ince dilimle.
+2. Ekmeklerin arasına kaşarı ve sucuğu koy.
+3. Dış yüzlerine az margarin sür.
+4. Tost makinesinde ya da tavada iki yüzü kızarana kadar pişir.
+
+# 133 Krep
+süre: 25
+malzemeler:
+- Buğday unu | 1 su bardağı
+- Süt | 1,5 su bardağı
+- Yumurta | 2 adet
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/4 çay kaşığı
+yapılışı:
+1. Unu, sütü, yumurtaları, yağı ve tuzu pürüzsüz olana kadar çırp.
+2. 10 dakika dinlendir.
+3. Yapışmaz tavayı ısıt, bir kepçe hamur dök, tavayı çevirerek yay.
+4. Kenarları kalkınca çevir, diğer yüzünü 30 saniye pişir.
+5. İstediğin gibi, tatlı ya da tuzlu servis et.
+
+# 134 Mısır ekmeği
+süre: 45
+malzemeler:
+- Mısır unu | 2 su bardağı
+- Buğday unu | 1/2 su bardağı
+- Yoğurt | 1 su bardağı
+- Yumurta | 2 adet
+- Ayçiçek yağı | 1/2 su bardağı
+- Kabartma tozu | 1 paket
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Yumurtaları, yoğurdu, yağı ve tuzu çırp.
+2. Mısır ununu, unu ve kabartma tozunu ekleyip karıştır.
+3. Yağlanmış fırın kabına dök.
+4. 180°C fırında üstü kızarana kadar 35 dakika pişir.
+
+# 135 Pankek
+süre: 20
+malzemeler:
+- Buğday unu | 1 su bardağı
+- Süt | 3/4 su bardağı
+- Yumurta | 1 adet
+- Toz şeker | 1 yemek kaşığı
+- Kabartma tozu | 1 çay kaşığı
+- Ayçiçek yağı | 1 yemek kaşığı
+- Bal | 2 yemek kaşığı
+yapılışı:
+1. Yumurtayı, sütü, şekeri ve yağı çırp.
+2. Unu ve kabartma tozunu ekleyip karıştır; hamur koyu olsun.
+3. Yapışmaz tavayı ısıt, bir kepçe hamur dök.
+4. Üstü kabarcıklanınca çevir, 1 dakika daha pişir.
+5. Balla servis et.

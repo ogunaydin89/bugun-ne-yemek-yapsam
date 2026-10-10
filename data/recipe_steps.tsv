@@ -1,0 +1,751 @@
+dish_id	sira	metin
+1	1	Soğanı, havucu ve patatesi küçük doğra, mercimeği yıka.
+1	2	Yağı tencerede ısıt, soğanı 3 dakika kavur.
+1	3	Havucu, patatesi ve mercimeği ekle, 1 dakika karıştır.
+1	4	Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 30 dakika pişir.
+1	5	Blenderdan geçir. Koyu gelirse biraz sıcak su ekle.
+1	6	Limonla servis et.
+2	1	Soğanı küçük doğra; mercimeği, bulguru ve pirinci yıka.
+2	2	Yağı tencerede ısıt, soğanı 3 dakika kavur.
+2	3	Salçayı ekle, 1 dakika karıştır.
+2	4	Mercimeği, bulguru, pirinci, sıcak suyu ve tuzu ekle.
+2	5	Kaynayınca kısık ateşte, ara ara karıştırarak 35 dakika pişir.
+2	6	Naneyi ve pul biberi ekle, 2 dakika daha pişir.
+3	1	Pirinci yıka, sıcak suyla tencerede 15 dakika haşla.
+3	2	Yoğurdu, yumurtayı ve unu bir kasede pürüzsüz olana kadar çırp.
+3	3	Tencereden bir kepçe sıcak suyu yavaşça yoğurda ekleyip karıştır.
+3	4	Karışımı sürekli karıştırarak tencereye dök, kaynayana kadar karıştırmayı bırakma.
+3	5	Tuzu ekle, kısık ateşte 5 dakika pişir.
+3	6	Margarini küçük tavada erit, naneyi ekle, çorbanın üstüne gezdir.
+4	1	Domatesleri rendele, kaşarı rendele.
+4	2	Margarini tencerede erit, unu ekle, 1-2 dakika kavur.
+4	3	Domatesi ekle, 5 dakika pişir.
+4	4	Sıcak suyu ve tuzu ekle. Kaynayınca 10 dakika pişir.
+4	5	Sütü yavaşça ekle, karıştırarak bir taşım kaynat.
+4	6	Üstüne kaşar serperek servis et.
+5	1	Yağı tencerede ısıt, şehriyeyi 2 dakika kavur.
+5	2	Salçayı ekle, 1 dakika karıştır.
+5	3	Sıcak suyu ve tuzu ekle.
+5	4	Kaynayınca kısık ateşte, şehriye yumuşayana kadar 10 dakika pişir.
+5	5	Limonla servis et.
+6	1	Tavukları suyla tencereye koy. Kaynayınca köpüğünü al, 30 dakika haşla.
+6	2	Tavukları çıkar, kemik ve derisinden ayırıp didikle.
+6	3	Havucu küçük doğra, tavuk suyuna ekle.
+6	4	Şehriyeyi ve tuzu ekle, 10 dakika pişir.
+6	5	Tavuğu ve karabiberi ekle, 2 dakika daha pişir.
+6	6	Limonla servis et.
+7	1	Tavuğu suyla 25 dakika haşla, çıkarıp didikle. Suyunu sakla.
+7	2	Margarini tencerede erit, unu 1-2 dakika kavur.
+7	3	Tavuk suyunu yavaş yavaş, karıştırarak ekle. Tavuğu ve tuzu ekle, 5 dakika kaynat.
+7	4	Yumurtayı limon suyuyla bir kasede çırp.
+7	5	Bir kepçe sıcak çorbayı yavaşça yumurtaya ekleyip karıştır.
+7	6	Karışımı sürekli karıştırarak tencereye dök, bir taşım kaynatıp karabiberle servis et.
+8	1	Mantarları küçük doğra.
+8	2	Margarini tencerede erit, mantarları suyunu çekene kadar 5 dakika sotele.
+8	3	Unu ekle, 1 dakika kavur.
+8	4	Sıcak suyu yavaş yavaş, karıştırarak ekle.
+8	5	Sütü, tuzu ve karabiberi ekle. Kaynayınca kısık ateşte 10 dakika pişir.
+9	1	Brokoliyi küçük parçalara ayır, patatesi ve soğanı doğra.
+9	2	Yağı tencerede ısıt, soğanı 3 dakika kavur.
+9	3	Brokoliyi, patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+9	4	Blenderdan geçir.
+9	5	Sütü ekle, karıştırarak bir taşım kaynat.
+10	1	Bütün sebzeleri küçük küp doğra.
+10	2	Yağı tencerede ısıt, soğanı 3 dakika kavur.
+10	3	Salçayı ekle, 1 dakika karıştır.
+10	4	Havucu ve patatesi ekle, 2 dakika çevir.
+10	5	Sıcak suyu ve tuzu ekle. Kaynayınca 15 dakika pişir.
+10	6	Kabağı ekle, 10 dakika daha pişir.
+11	1	Mercimeği yıka, sıcak suyla 25 dakika haşla.
+11	2	Soğanı küçük doğra, tavada yağla 3 dakika kavur.
+11	3	Salçayı ekle, 1 dakika karıştır.
+11	4	Soğanlı karışımı ve tuzu mercimeğe ekle.
+11	5	Mercimekler yumuşayana kadar 15 dakika daha pişir.
+11	6	Naneyi ekleyip ocaktan al.
+12	1	Pırasayı ince doğra ve iyice yıka. Patatesi küp doğra.
+12	2	Yağı tencerede ısıt, pırasayı 5 dakika kavur.
+12	3	Patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+12	4	Blenderdan geçir.
+12	5	Sütü ekle, karıştırarak bir taşım kaynat.
+13	1	Kabakları, patatesi ve soğanı doğra.
+13	2	Yağı tencerede ısıt, soğanı 3 dakika kavur.
+13	3	Kabağı, patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+13	4	Blenderdan geçir.
+13	5	Sütü ekle, karıştırarak bir taşım kaynat.
+14	1	Karnabaharı küçük parçalara ayır, patatesi ve soğanı doğra.
+14	2	Yağı tencerede ısıt, soğanı 3 dakika kavur.
+14	3	Karnabaharı, patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+14	4	Blenderdan geçir.
+14	5	Sütü ekle, karıştırarak bir taşım kaynat.
+15	1	Eti suyla tencereye koy. Köpüğünü alarak 1 saat, yumuşayana kadar haşla.
+15	2	Eti çıkarıp didikle, suyuna geri koy.
+15	3	Yoğurdu, yumurtayı, unu ve limon suyunu bir kasede çırp.
+15	4	Bir kepçe sıcak suyu yavaşça karışıma ekleyip karıştır.
+15	5	Karışımı sürekli karıştırarak tencereye dök. Tuzu ekle, kaynayınca 5 dakika pişir.
+15	6	Margarini erit, pul biberi ekle, çorbanın üstüne gezdir.
+16	1	Sebzeleri küçük küp doğra, domatesi rendele.
+16	2	Zeytinyağını tencerede ısıt, soğanı 3 dakika kavur.
+16	3	Havucu ve patatesi ekle, 2 dakika çevir. Domatesi ekle.
+16	4	Sıcak suyu ve tuzu ekle. Kaynayınca 15 dakika pişir.
+16	5	Kabağı ve makarnayı ekle, makarna yumuşayana kadar 10 dakika pişir.
+16	6	Karabiberi ekleyip servis et.
+17	1	Patlıcanları alacalı soy, tuzlu suda 15 dakika beklet, kurula.
+17	2	Patlıcanları yağda her yanı kızarana kadar kızart, kâğıt havluya al.
+17	3	Soğanı doğra, kıymayla suyunu çekene kadar kavur. Bir domatesi küp doğrayıp ekle, tuz ve karabiberle 5 dakika pişir.
+17	4	Patlıcanları fırın kabına diz, ortalarını uzunlamasına yar, kıymalı harcı doldur.
+17	5	Üstlerine diğer domatesin dilimlerini ve biberleri koy.
+17	6	Salçayı sıcak suda aç, kaba dök. 180°C fırında 30 dakika pişir.
+18	1	Patlıcanları alacalı soyup halka doğra, tuzlu suda 15 dakika beklet, kurula.
+18	2	Patlıcanları yağda kızart, kâğıt havluya al.
+18	3	Soğanı ve biberleri doğra, kıymayla kavur. Doğranmış domatesi, tuzu ve karabiberi ekle, 5 dakika pişir.
+18	4	Fırın kabına patlıcanları ve kıymayı kat kat diz.
+18	5	Salçayı sıcak suda aç, üstüne dök.
+18	6	180°C fırında 30 dakika pişir.
+19	1	Soğanı doğra, patatesleri küp doğra.
+19	2	Yağda soğanı ve kıymayı suyunu çekene kadar kavur.
+19	3	Salçayı ekle, 1 dakika karıştır.
+19	4	Patatesi, sıcak suyu, tuzu ve karabiberi ekle.
+19	5	Kapağı kapalı, kısık ateşte patatesler yumuşayana kadar 25 dakika pişir.
+20	1	Ekmeği ıslatıp sık, soğanı rendele.
+20	2	Kıymayı ekmek, soğan, baharat ve tuzun yarısıyla yoğur, ceviz büyüklüğünde köfteler yap.
+20	3	Patatesleri elma dilimi doğra, yağ ve kalan tuzla karıştırıp tepsiye yay.
+20	4	Köfteleri, domates dilimlerini ve biberleri patateslerin arasına diz.
+20	5	Suyu tepsiye dök. 200°C fırında 40 dakika pişir.
+21	1	Ekmeği ıslatıp sık, soğanı rendele.
+21	2	Kıymayı ekmek, soğan, baharat ve tuzla 3-4 dakika yoğur.
+21	3	Yassı köfteler şekillendir.
+21	4	Tavada yağı ısıt, köftelerin her iki yüzünü 4-5 dakika pişir.
+22	1	Ekmeği ıslatıp sık, soğanı rendele. Kıymayı ekmek, soğan, baharat ve tuzun yarısıyla yoğur, uzun köfteler yap.
+22	2	Patatesleri elma dilimi doğra. Köfteleri ve patatesleri yağda hafifçe kızart.
+22	3	Fırın kabına köfte, patates, domates dilimi ve biberleri sırayla diz.
+22	4	Salçayı sıcak suda açıp kalan tuzu ekle, kaba dök.
+22	5	180°C fırında 35 dakika pişir.
+23	1	Soğanı rendele. Kıymayı pirinç, soğan ve tuzun yarısıyla yoğur, fındık büyüklüğünde köfteler yap.
+23	2	Köfteleri una bula.
+23	3	Patatesi ve havucu küp doğra, sıcak su ve kalan tuzla tencerede kaynat.
+23	4	Köfteleri ekle, kısık ateşte 25 dakika pişir.
+23	5	Yumurtayı limon suyuyla çırp, bir kepçe sıcak suyu yavaşça ekleyip karıştır.
+23	6	Karışımı karıştırarak tencereye dök, bir taşım kaynatıp ocaktan al.
+24	1	Pirinci 10 dakika haşla, süz.
+24	2	Soğanı ince doğra, kıymanın yarısıyla 5 dakika kavur, soğut.
+24	3	Kavrulan kıymayı çiğ kıyma, pirinç, tuz ve karabiberle yoğur. Yassı, oval köfteler yap.
+24	4	Köfteleri önce una, sonra çırpılmış yumurtaya bula.
+24	5	Kızgın yağda her iki yüzü kızarana kadar pişir.
+25	1	Patatesleri haşla; süt, margarin ve tuzun yarısıyla ezip püre yap.
+25	2	Ekmeği ıslatıp sık, soğanı rendele. Kıymayı ekmek, soğan, baharat ve kalan tuzla yoğur.
+25	3	Kıymadan yassı yuvarlaklar yap, fırın kabına diz, ortalarına parmakla çukur aç.
+25	4	Çukurlara püreyi doldur, üstüne rendelenmiş kaşar serp.
+25	5	Salçayı sıcak suda aç, köftelerin arasına dök.
+25	6	190°C fırında 35 dakika pişir.
+26	1	İki yumurtayı 10 dakika haşla, soy.
+26	2	Havucu küçük küp doğra. Ekmeği ıslatıp sık, soğanı rendele.
+26	3	Kıymayı ekmek, soğan, çiğ yumurta, havuç, bezelye, baharat ve tuzla yoğur.
+26	4	Yağlı kâğıt serili tepsiye harcın yarısını dikdörtgen yay, haşlanmış yumurtaları ortasına diz.
+26	5	Kalan harçla üstünü kapatıp rulo şekli ver.
+26	6	190°C fırında 45 dakika pişir, dilimleyip servis et.
+27	1	Fırını 200°C'ye ısıt.
+27	2	Patatesleri tepsiye yay, yağı gezdir.
+27	3	Köfteleri patateslerin yanına diz.
+27	4	Paketteki süreye göre, genelde 20-25 dakika pişir; arada bir çevir.
+28	1	Ispanağı iyice yıka, iri doğra. Soğanı küçük doğra.
+28	2	Yağda soğanı ve kıymayı kavur.
+28	3	Salçayı ekle, 1 dakika karıştır.
+28	4	Ispanağı, pirinci, sıcak suyu ve tuzu ekle.
+28	5	Kapağı kapalı, kısık ateşte 20 dakika pişir.
+29	1	Pırasayı halka doğra ve iyice yıka. Havucu halka, soğanı küçük doğra.
+29	2	Yağda soğanı ve kıymayı kavur.
+29	3	Pırasayı ve havucu ekle, 5 dakika çevir.
+29	4	Pirinci, sıcak suyu ve tuzu ekle.
+29	5	Kapağı kapalı, kısık ateşte 30 dakika pişir.
+30	1	Kabakları yarım ay doğra, domatesi rendele, soğanı küçük doğra.
+30	2	Yağda soğanı ve kıymayı kavur.
+30	3	Domatesi ekle, 3 dakika pişir.
+30	4	Kabakları, suyu ve tuzu ekle.
+30	5	Kapağı kapalı, kısık ateşte 20 dakika pişir.
+31	1	Karnabaharı küçük parçalara ayır, yıka. Soğanı doğra.
+31	2	Yağda soğanı ve kıymayı kavur.
+31	3	Salçayı ekle, 1 dakika karıştır.
+31	4	Karnabaharı, sıcak suyu ve tuzu ekle.
+31	5	Kapağı kapalı, kısık ateşte 25 dakika pişir.
+32	1	Lahanayı ince doğra, yıka. Soğanı doğra.
+32	2	Yağda soğanı ve kıymayı kavur.
+32	3	Salçayı ve pul biberi ekle, 1 dakika karıştır.
+32	4	Lahanayı ekle, 5 dakika çevir.
+32	5	Pirinci, sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 30 dakika pişir.
+33	1	Lahananın yapraklarını ayır, kaynar tuzlu suda 5 dakika haşla, kalın damarlarını kes.
+33	2	Soğanı rendele. Kıymayı pirinç, soğan, bir kaşık salça, nane, tuz ve karabiberle yoğur.
+33	3	Her yaprağa bir parça harç koyup sar.
+33	4	Sarmaları tencereye sıkıca diz.
+33	5	Kalan salçayı sıcak su ve yağla karıştırıp tencereye dök. Üstüne ters bir tabak kapat.
+33	6	Kaynayınca kısık ateşte 50 dakika pişir.
+34	1	Kabakların sap tarafını kesip içlerini oy.
+34	2	Soğanı ve bir domatesi rendele. Kıymayı pirinç, soğan, domates ve tuzla yoğur.
+34	3	Kabakların içini harçla doldur, diğer domatesin dilimleriyle ağızlarını kapat.
+34	4	Kabakları tencereye dik diz.
+34	5	Salçayı sıcak suda aç, tencereye dök.
+34	6	Kaynayınca kısık ateşte 45 dakika pişir.
+35	1	Fasulyelerin uçlarını kesip ikiye böl. Soğanı doğra, domatesi rendele.
+35	2	Yağda eti suyunu salıp çekene kadar kavur.
+35	3	Soğanı ekle, 3 dakika kavur. Domatesi ekle.
+35	4	Fasulyeyi, sıcak suyu ve tuzu ekle.
+35	5	Kapağı kapalı, kısık ateşte 40 dakika pişir.
+36	1	Fasulyeyi bir gece önceden bol suda ıslat.
+36	2	Fasulyeyi süzüp 15 dakika haşla, suyunu dök.
+36	3	Yağda eti kavur, doğranmış soğanı ekleyip 3 dakika daha kavur.
+36	4	Salçayı ekle, 1 dakika karıştır.
+36	5	Fasulyeyi, sıcak suyu ve tuzu ekle.
+36	6	Kapağı kapalı, kısık ateşte fasulyeler yumuşayana kadar 1,5 saat pişir.
+37	1	Nohudu bir gece önceden bol suda ıslat.
+37	2	Nohudu süzüp 15 dakika haşla, suyunu dök.
+37	3	Yağda eti kavur, doğranmış soğanı ekleyip 3 dakika daha kavur.
+37	4	Salçayı ekle, 1 dakika karıştır.
+37	5	Nohudu, sıcak suyu ve tuzu ekle.
+37	6	Kapağı kapalı, kısık ateşte nohutlar yumuşayana kadar 1 saat 15 dakika pişir.
+38	1	Soğanı, biberleri ve domatesi doğra.
+38	2	Yağda eti yüksek ateşte suyunu salıp çekene kadar kavur.
+38	3	Kapağı kapat, kısık ateşte et yumuşayana kadar 25 dakika pişir.
+38	4	Soğanı ve biberleri ekle, 5 dakika kavur.
+38	5	Domatesi, tuzu ve karabiberi ekle, 5 dakika pişir.
+39	1	Soğanı doğra, domatesi rendele, patatesleri küp doğra.
+39	2	Yağda eti suyunu salıp çekene kadar kavur.
+39	3	Soğanı ekle, 3 dakika kavur. Salçayı ve domatesi ekle, 3 dakika pişir.
+39	4	Sıcak suyu ekle. Kapağı kapalı, kısık ateşte 45 dakika pişir.
+39	5	Patatesi, tuzu ve karabiberi ekle, 25 dakika daha pişir.
+40	1	Soğanı doğra, patatesi ve havucu küp doğra.
+40	2	Yağda eti kavur, soğanı ekleyip 3 dakika daha kavur.
+40	3	Sıcak suyu ekle. Kapağı kapalı, kısık ateşte 45 dakika pişir.
+40	4	Havucu ve patatesi ekle, 20 dakika pişir.
+40	5	Bezelyeyi, tuzu ve karabiberi ekle, 10 dakika daha pişir.
+41	1	Patlıcanı, patatesi ve domatesi küp; soğanı ve biberi iri doğra.
+41	2	Yağda eti 5 dakika kavur.
+41	3	Eti ve bütün sebzeleri geniş bir fırın kabında tuzla karıştır.
+41	4	Suyu ekle, kabın üstünü alüminyum folyoyla kapat.
+41	5	190°C fırında 1 saat pişir, sonra folyoyu açıp 20 dakika daha pişir.
+42	1	Yağda eti kavur, doğranmış soğanı ve rendelenmiş domatesi ekle. Sıcak su ve tuzun yarısıyla, kapağı kapalı 1 saat pişir.
+42	2	Patlıcanları ocakta veya fırında közle, kabuklarını soyup ince doğra.
+42	3	Margarini erit, unu 2 dakika kavur. Sütü yavaşça ekleyip koyulaşana kadar karıştır.
+42	4	Patlıcanı, rendelenmiş kaşarı ve kalan tuzu ekle, 3 dakika karıştır.
+42	5	Beğendiyi tabağa yay, üstüne eti koyarak servis et.
+54	1	Eti ince şeritler halinde doğra. Soğanı ve mantarı doğra.
+54	2	Yağda eti yüksek ateşte suyunu çekene kadar kavur. Kapağı kapat, kısık ateşte 20 dakika pişir.
+54	3	Soğanı ve mantarı ekle, 5 dakika kavur.
+54	4	Kremayı, tuzu ve karabiberi ekle, 5 dakika kaynat.
+54	5	Pilav ya da makarnayla servis et.
+55	1	Soğanı ve kapya biberi doğra, patatesi küp doğra.
+55	2	Yağda soğanı 5 dakika kavur, eti ekle, suyunu çekene kadar kavur.
+55	3	Toz biberi ve salçayı ekle, 1 dakika karıştır.
+55	4	Sıcak suyu ekle. Kapağı kapalı, kısık ateşte 1 saat pişir.
+55	5	Patatesi, kapya biberi ve tuzu ekle, 25 dakika daha pişir.
+56	1	Fasulyeyi bir gece önceden ıslat, 45 dakika haşlayıp süz.
+56	2	Soğanı ve biberi doğra, domatesi rendele.
+56	3	Yağda soğanı ve kıymayı kavur.
+56	4	Biberi, kimyonu ve pul biberi ekle, 2 dakika karıştır.
+56	5	Domatesi, fasulyeyi, sıcak suyu ve tuzu ekle.
+56	6	Kısık ateşte, koyulaşana kadar 40 dakika pişir.
+57	1	Patatesleri haşla; süt, margarin ve tuzun yarısıyla ezip püre yap.
+57	2	Soğanı ve havucu küçük doğra. Yağda soğanı ve kıymayı kavur.
+57	3	Havucu, bezelyeyi, salçayı ve kalan tuzu ekle, 10 dakika pişir.
+57	4	Kıymayı fırın kabına yay, üstünü püreyle kapat.
+57	5	200°C fırında üstü kızarana kadar 25 dakika pişir.
+58	1	Kıymayı tuz ve karabiberle yoğur, iki yassı köfte yap.
+58	2	Köfteleri kızgın tavada her yüzü 4-5 dakika pişir.
+58	3	Ekmekleri kesip tavada hafifçe ısıt.
+58	4	Soğanı halka, domatesi ve turşuyu dilim doğra.
+58	5	Ekmeğe marul, köfte, domates, soğan ve turşuyu koyup kapat.
+59	1	Patatesleri küçük küp, sosisleri halka, biberi küçük doğra.
+59	2	Tavada yağı ısıt, patatesleri kapağı kapalı, ara ara çevirerek 12 dakika pişir.
+59	3	Sosisi ve biberi ekle, 5 dakika kavur.
+59	4	Tuzu ekleyip servis et.
+60	1	Sucuğu ince dilimle.
+60	2	Yağsız tavada sucuğu 2 dakika çevir.
+60	3	Yumurtaları üstüne kır, yumurta pişene kadar 3-4 dakika pişir.
+153	1	Soğanı rendele. Kıymayı soğan, baharat ve tuzla yoğur, uzun ve yassı köfteler yap.
+153	2	Köfteleri ve biberleri kızgın tavada, köftelerin her yüzü 4-5 dakika olacak şekilde pişir.
+153	3	Ekmeği ikiye kes, ortasından yar, tavada hafifçe ısıt.
+153	4	Domatesi dilimle.
+153	5	Ekmeğin içine köfte, domates ve biberi koyup servis et.
+43	1	Tavuğu kuşbaşı doğra; soğanı, biberleri ve domatesi doğra.
+43	2	Yağda tavuğu yüksek ateşte suyunu çekene kadar 6-7 dakika kavur.
+43	3	Soğanı ve biberleri ekle, 4 dakika kavur.
+43	4	Domatesi, tuzu ve karabiberi ekle, 5 dakika pişir.
+44	1	Salçayı yağ, tuz ve karabiberle karıştır.
+44	2	Patatesleri elma dilimi, soğanı iri doğra.
+44	3	Tavukları, patatesi ve soğanı sosla iyice karıştırıp tepsiye yay.
+44	4	200°C fırında, tavuğun içi pişene kadar 50 dakika pişir.
+45	1	Tavuğu küp doğra, sarımsağı ez.
+45	2	Yoğurt, salça, sarımsak, yağ ve tuzu karıştır. Tavuğu bu sosta en az 30 dakika beklet.
+45	3	İstersen tavuk parçalarını şişlere diz.
+45	4	Kızgın tavada her yüzü kızarana kadar, toplam 10-12 dakika pişir.
+46	1	Tavuğu şerit doğra, mantarı ve soğanı doğra.
+46	2	Yağda tavuğu 6-7 dakika kavur.
+46	3	Soğanı ve mantarı ekle, 5 dakika kavur.
+46	4	Kremayı, tuzu ve karabiberi ekle, 5 dakika kaynat.
+47	1	Sarımsağı ez; yağ, limon suyu, tuz ve karabiberle karıştır.
+47	2	Tavuğu yıka, kurula, sosu her yanına sür.
+47	3	Patatesleri iri doğrayıp tepsiye yay, tavuğu ortaya koy.
+47	4	Üstünü folyoyla kapatıp 200°C fırında 1 saat pişir.
+47	5	Folyoyu aç, üstü kızarana kadar 20-30 dakika daha pişir.
+48	1	Tavuğu kuşbaşı; soğanı, havucu ve patatesi küp doğra.
+48	2	Yağda tavuğu ve soğanı 6-7 dakika kavur.
+48	3	Salçayı ekle, 1 dakika karıştır.
+48	4	Havucu, patatesi, sıcak suyu ve tuzu ekle, 15 dakika pişir.
+48	5	Bezelyeyi ekle, 10 dakika daha pişir.
+49	1	Sarımsağı ez; bal, salça, yağ ve tuzla karıştır.
+49	2	Kanatları sosla iyice karıştırıp 15 dakika beklet.
+49	3	Yağlı kâğıt serili tepsiye diz.
+49	4	200°C fırında, arada bir çevirerek 35 dakika pişir.
+50	1	Patatesleri ve domatesi küp; biberi ve mantarı iri doğra.
+50	2	Tavuğu ve bütün sebzeleri geniş bir fırın kabında yağ ve tuzla karıştır.
+50	3	Kabın üstünü folyoyla kapat.
+50	4	200°C fırında 40 dakika pişir, sonra folyoyu açıp 15 dakika daha pişir.
+51	1	Bayat ekmeği rendele ya da robottan geçir.
+51	2	Tavuğu ince dilimle, streç film arasında döverek incelt, tuzla.
+51	3	Dilimleri önce una, sonra çırpılmış yumurtaya, sonra ekmek kırıntısına bula.
+51	4	Tavada yağı ısıt, her yüzü kızarana kadar 3-4 dakika kızart.
+52	1	Tavuğu kuşbaşı, soğanı küçük doğra.
+52	2	Yağda tavuğu 6-7 dakika kavur.
+52	3	Soğanı ekle, 3 dakika kavur.
+52	4	Köriyi ekle, 1 dakika karıştır.
+52	5	Kremayı ve tuzu ekle, 5 dakika kaynat. Pilavla servis et.
+53	1	Tavuğu ince şerit doğra, tuz ve karabiberle tavada yağda 8 dakika pişir.
+53	2	Marulu ince kıy, domatesi doğra.
+53	3	Lavaşları tavada birkaç saniye ısıt.
+53	4	Lavaşa mayonez sür; tavuk, marul ve domatesi koy.
+53	5	Sıkıca sar, ikiye kesip servis et.
+61	1	Biberleri doğra, domatesleri rendele.
+61	2	Tavada yağı ısıt, biberleri 3 dakika kavur.
+61	3	Domatesi ekle, suyunu çekene kadar 5-6 dakika pişir.
+61	4	Yumurtaları kır, tuzu ekle, yavaşça karıştırarak pişene kadar pişir.
+62	1	Soğanı ve biberi doğra, domatesleri rendele.
+62	2	Tavada zeytinyağını ısıt, soğanı ve biberi 5 dakika kavur.
+62	3	Kimyonu ve toz biberi ekle, 1 dakika karıştır.
+62	4	Domatesi ve tuzu ekle, koyulaşana kadar 8 dakika pişir.
+62	5	Sosun içinde dört çukur aç, yumurtaları kır.
+62	6	Kapağı kapalı, yumurtaların beyazı pişene kadar 5-6 dakika pişir.
+63	1	Sarımsağı ez, yoğurt ve tuzla karıştırıp tabağa yay.
+63	2	Bir tencerede suyu kaynat, sirkeyi ekle, ateşi kıs.
+63	3	Yumurtaları tek tek suya kır, 3-4 dakika pişir, kepçeyle alıp yoğurdun üstüne koy.
+63	4	Margarini erit, pul biberi ekle, yumurtaların üstüne gezdir.
+64	1	Patatesleri küçük küp, soğanı ince doğra.
+64	2	Tavada yağı ısıt, patatesleri kapağı kapalı, ara ara çevirerek 12 dakika pişir.
+64	3	Soğanı ekle, 3 dakika kavur.
+64	4	Yumurtaları kır, tuzu ekle, karıştırarak pişene kadar pişir.
+65	1	Ispanağı yıkayıp doğra, soğanı küçük doğra.
+65	2	Tavada yağı ısıt, soğanı 3 dakika kavur.
+65	3	Ispanağı ekle, suyunu çekene kadar 5 dakika pişir.
+65	4	Ispanağın içinde çukurlar açıp yumurtaları kır, tuzu serp.
+65	5	Kapağı kapalı, yumurtalar pişene kadar 4-5 dakika pişir.
+66	1	Patlıcanları alacalı soy, tuzlu suda 15 dakika beklet, kurula.
+66	2	Patlıcanları zeytinyağının yarısında her yanı yumuşayana kadar kızart.
+66	3	Soğanları piyazlık, sarımsağı ince doğra. Kalan yağda 8 dakika kavur.
+66	4	Doğranmış domatesi ve tuzu ekle, 5 dakika pişir.
+66	5	Patlıcanları tencereye diz, ortalarını yarıp harcı doldur.
+66	6	Suyu ekle, kapağı kapalı, kısık ateşte 30 dakika pişir. Soğuk servis et.
+67	1	Fasulyelerin uçlarını kesip ikiye böl. Soğanı doğra, domatesi rendele.
+67	2	Zeytinyağında soğanı 3 dakika kavur.
+67	3	Fasulyeyi ekle, 5 dakika çevir.
+67	4	Domatesi, suyu ve tuzu ekle.
+67	5	Kapağı kapalı, kısık ateşte 40 dakika pişir. Soğuk servis et.
+68	1	Bütün sebzeleri iri küp doğra, fasulyeyi ikiye böl.
+68	2	Yağda soğanı 3 dakika kavur, salçayı ekle, 1 dakika karıştır.
+68	3	Fasulyeyi ve patatesi ekle, 5 dakika çevir.
+68	4	Patlıcanı, kabağı, biberi ve domatesi ekle.
+68	5	Sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 45 dakika pişir.
+69	1	Bütün sebzeleri küp, sarımsağı ince doğra.
+69	2	Zeytinyağında soğanı ve sarımsağı 3 dakika kavur.
+69	3	Patlıcanı ve biberi ekle, 5 dakika kavur.
+69	4	Kabağı, domatesi, kekiği ve tuzu ekle.
+69	5	Kapağı kapalı, kısık ateşte 30 dakika pişir.
+70	1	Pırasayı çapraz doğra ve iyice yıka. Havucu halka doğra.
+70	2	Zeytinyağında havucu 3 dakika kavur.
+70	3	Pırasayı ekle, 5 dakika çevir.
+70	4	Pirinci, sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 30 dakika pişir.
+70	5	Limon suyunu ekle. Soğuk servis et.
+71	1	Kerevizleri soyup iri küp doğra, kararmasın diye limonlu suda beklet.
+71	2	Havucu ve patatesi küp doğra.
+71	3	Zeytinyağında havucu ve patatesi 3 dakika çevir.
+71	4	Kerevizi, portakal suyunu, suyu ve tuzu ekle.
+71	5	Kapağı kapalı, kısık ateşte 35 dakika pişir. Soğuk servis et.
+72	1	Soğanı doğra, patatesleri küp doğra.
+72	2	Yağda soğanı 3 dakika kavur.
+72	3	Salçayı ekle, 1 dakika karıştır.
+72	4	Patatesi, sıcak suyu ve tuzu ekle.
+72	5	Kapağı kapalı, kısık ateşte patatesler yumuşayana kadar 25 dakika pişir.
+73	1	Fasulyeyi bir gece önceden bol suda ıslat.
+73	2	Fasulyeyi süzüp 15 dakika haşla, suyunu dök.
+73	3	Yağda doğranmış soğanı 3 dakika kavur.
+73	4	Salçayı ekle, 1 dakika karıştır.
+73	5	Fasulyeyi, sıcak suyu ve tuzu ekle.
+73	6	Kapağı kapalı, kısık ateşte fasulyeler yumuşayana kadar 1,5 saat pişir.
+74	1	Nohudu bir gece önceden bol suda ıslat.
+74	2	Nohudu süzüp 15 dakika haşla, suyunu dök.
+74	3	Yağda doğranmış soğanı 3 dakika kavur.
+74	4	Salçayı ekle, 1 dakika karıştır.
+74	5	Nohudu, sıcak suyu ve tuzu ekle.
+74	6	Kapağı kapalı, kısık ateşte nohutlar yumuşayana kadar 1 saat 15 dakika pişir.
+75	1	Mercimeği yıka, soğanı doğra.
+75	2	Yağda soğanı 3 dakika kavur, salçayı ekle, 1 dakika karıştır.
+75	3	Mercimeği, sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 25 dakika pişir.
+75	4	Bulguru ekle, 15 dakika daha pişir.
+76	1	Fasulyeyi bir gece önceden ıslat, 45 dakika haşlayıp süz.
+76	2	Soğanı, havucu ve patatesi küp doğra.
+76	3	Zeytinyağında soğanı 3 dakika kavur, havucu ve patatesi ekle, 3 dakika çevir.
+76	4	Fasulyeyi, sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 40 dakika pişir.
+76	5	Limon suyunu ekle. Soğuk servis et.
+77	1	Kabakları rendele, tuzlayıp 10 dakika beklet, suyunu iyice sık.
+77	2	Dereotunu ve taze soğanı ince doğra, peyniri ez.
+77	3	Kabak, yumurta, un, peynir, dereotu ve taze soğanı karıştır.
+77	4	Tavada yağı ısıt, karışımdan kaşıkla dökerek her yüzü kızarana kadar pişir.
+77	5	Kâğıt havluya alıp servis et.
+78	1	Karnabaharı parçalara ayır, tuzlu suda 8 dakika haşla, süz.
+78	2	Yumurtayı tuzla çırp.
+78	3	Karnabaharı önce una, sonra yumurtaya bula.
+78	4	Kızgın yağda her yanı kızarana kadar kızart.
+78	5	Sarımsağı ezip yoğurtla karıştır, yanında servis et.
+79	1	Patlıcanı ve kabağı küp doğra; patlıcanı tuzlu suda 10 dakika beklet, kurula.
+79	2	Patlıcanı, kabağı ve biberi yağda ayrı ayrı kızart, kâğıt havluya al.
+79	3	Domatesi rendele, sarımsağı ez.
+79	4	İki kaşık yağda domatesi, sarımsağı ve tuzu 8 dakika pişir.
+79	5	Kızarmış sebzeleri tabağa al, domates sosunu üstüne dök. Soğuk ya da ılık servis et.
+80	1	Mantarları dilimle, soğanı ve biberi doğra.
+80	2	Tavada yağı ısıt, soğanı 3 dakika kavur.
+80	3	Mantarları ekle, yüksek ateşte suyunu salıp çekene kadar 7-8 dakika kavur.
+80	4	Biberi, tuzu ve karabiberi ekle, 2 dakika daha kavur.
+81	1	Patatesi ve havucu elma dilimi, kabağı kalın halka doğra. Brokoliyi parçalara ayır.
+81	2	Sebzeleri zeytinyağı, kekik ve tuzla karıştır.
+81	3	Tepsiye tek kat yay.
+81	4	200°C fırında, yarısında bir kez çevirerek 40 dakika pişir.
+82	1	Patatesleri ince halka doğra.
+82	2	Sütü, kremayı, ezilmiş sarımsağı, tuzu ve karabiberi karıştır.
+82	3	Patatesleri fırın kabına kat kat diz, sütlü karışımı dök.
+82	4	Üstüne rendelenmiş kaşarı serp.
+82	5	180°C fırında patatesler yumuşayana kadar 45 dakika pişir.
+83	1	Nohudu bir gece önceden bol suda ıslat, süz. Haşlamadan kullan.
+83	2	Nohudu, soğanı, sarımsağı, maydanozu, kimyonu ve tuzu robottan geçirip ufala.
+83	3	Karbonatı ekle, karıştır, 15 dakika beklet.
+83	4	Ceviz büyüklüğünde toplar yapıp hafifçe bastır.
+83	5	Kızgın yağda her yanı kızarana kadar 3-4 dakika kızart.
+149	1	Yumurtaları, sütü, tuzu ve karabiberi çatalla çırp.
+149	2	Tavada margarini orta ateşte erit.
+149	3	Yumurtayı dök, kenarları pişince spatulayla içe doğru çek.
+149	4	Üstü de pişince ikiye katla, tabağa al.
+85	1	Pirinci ılık suda 10 dakika beklet, suyu berraklaşana kadar yıka, süz.
+85	2	Margarini tencerede erit, şehriyeyi pembeleşene kadar kavur.
+85	3	Pirinci ekle, 2 dakika kavur.
+85	4	Sıcak suyu ve tuzu ekle. Kaynayınca kapağı kapat, kısık ateşte suyunu çekene kadar 12 dakika pişir.
+85	5	Ocağı kapat, kapağın altına kâğıt havlu koyup 10 dakika demlendir.
+86	1	Soğanı ve biberleri küçük doğra.
+86	2	Yağı tencerede ısıt, soğanı ve biberleri 4-5 dakika kavur.
+86	3	Salçayı ekle, 1 dakika karıştır.
+86	4	Bulguru ekle, 2 dakika kavur.
+86	5	Sıcak suyu, tuzu ve karabiberi ekle. Kaynayınca kapağı kapat, kısık ateşte 15 dakika pişir.
+86	6	Ocağı kapat, 10 dakika demlendir, karıştırıp servis et.
+87	1	Nohudu bir gece önceden ıslat, yumuşayana kadar 1 saat haşla, süz.
+87	2	Pirinci ılık suda 10 dakika beklet, yıka, süz.
+87	3	Margarini erit, pirinci 2 dakika kavur.
+87	4	Nohudu, sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+87	5	Ocağı kapat, 10 dakika demlendir.
+88	1	Pirinci ılık suda 10 dakika beklet, yıka, süz. Havucu küçük küp doğra.
+88	2	Margarini erit, havucu 3 dakika kavur.
+88	3	Pirinci ekle, 2 dakika kavur.
+88	4	Bezelyeyi, süzülmüş mısırı, sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+88	5	Ocağı kapat, 10 dakika demlendir.
+89	1	Tavuğu suyla 25 dakika haşla, çıkarıp didikle. Suyundan 3 su bardağı ayır.
+89	2	Pirinci ılık suda 10 dakika beklet, yıka, süz.
+89	3	Margarini erit, pirinci 2 dakika kavur.
+89	4	Tavuk suyunu, bulyonu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+89	5	Ocağı kapat, 10 dakika demlendir. Tavuğu ve karabiberi üstüne koyarak servis et.
+90	1	Pirinci ılık suda 10 dakika beklet, yıka, süz. Domatesleri rendele.
+90	2	Margarini erit, domatesi 5 dakika pişir.
+90	3	Pirinci ekle, 2 dakika karıştır.
+90	4	Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 12 dakika pişir.
+90	5	Ocağı kapat, 10 dakika demlendir.
+91	1	Mantarı ve soğanı doğra.
+91	2	Yağda soğanı 3 dakika kavur, mantarı ekleyip suyunu çekene kadar 5 dakika kavur.
+91	3	Bulguru ekle, 2 dakika kavur.
+91	4	Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 15 dakika pişir.
+91	5	Ocağı kapat, 10 dakika demlendir.
+92	1	Pirinci suyla haşla, soğut. Dünden kalan pilav da olur.
+92	2	Havucu küçük küp, taze soğanı ince doğra.
+92	3	Geniş tavada yağı ısıt, havucu ve bezelyeyi 4 dakika kavur.
+92	4	Sebzeleri kenara it, yumurtaları kırıp karıştırarak pişir.
+92	5	Pirinci, taze soğanı ve tuzu ekle, yüksek ateşte 4-5 dakika karıştırarak kavur.
+93	1	Makarnayı tuzlu kaynar suda paketteki süre kadar haşla, süz.
+93	2	Aynı tencerede yağı ısıt, salçayı 1 dakika kavur.
+93	3	Makarnayı ekle, sosla iyice karıştırıp servis et.
+94	1	Makarnayı tuzlu kaynar suda haşla, süz.
+94	2	Sarımsağı ezip yoğurtla karıştır.
+94	3	Makarnayı tabağa al, üstüne yoğurdu dök.
+94	4	Margarini erit, pul biberi ekle, yoğurdun üstüne gezdir.
+95	1	Soğanı ve havucu çok küçük doğra, domatesi rendele.
+95	2	Zeytinyağında soğanı ve havucu 3 dakika, sonra kıymayı suyunu çekene kadar kavur.
+95	3	Domatesi, tuzu ve karabiberi ekle. Kısık ateşte 20 dakika pişir.
+95	4	Spagettiyi tuzlu kaynar suda haşla, süz.
+95	5	Sosu makarnanın üstüne dökerek servis et.
+96	1	Makarnayı tuzlu kaynar suda haşla, süz.
+96	2	Domatesi rendele, sarımsağı ince doğra.
+96	3	Zeytinyağında sarımsağı 1 dakika çevir, domatesi ekleyip 8 dakika pişir.
+96	4	Ton balığının yağını süz, sosa ekle, 2 dakika karıştır.
+96	5	Makarnayı sosa ekleyip karıştır.
+97	1	Makarnayı tuzlu kaynar suda 2 dakika eksik haşla, süz.
+97	2	Margarini erit, unu 2 dakika kavur. Sütü yavaşça ekleyip koyulaşana kadar karıştır.
+97	3	Ocaktan al, biraz ılıyınca yumurtaları ve tuzu ekleyip çırp.
+97	4	Makarnayı sosun yarısıyla karıştır, fırın kabına yay.
+97	5	Kalan sosu üstüne dök, rendelenmiş kaşarı serp.
+97	6	200°C fırında üstü kızarana kadar 25 dakika pişir.
+98	1	Spagettiyi tuzlu kaynar suda haşla. Süzmeden önce yarım su bardağı suyunu ayır.
+98	2	Yumurtaları, rendelenmiş kaşarı ve karabiberi bir kasede çırp.
+98	3	Sucuğu küçük doğra, yağsız tavada 3 dakika kavur.
+98	4	Ocağı kapat, makarnayı tavaya al.
+98	5	Yumurtalı karışımı ve ayırdığın suyu ekleyip hızlıca karıştır; sos kremamsı olsun.
+99	1	Makarnayı tuzlu kaynar suda haşla, süz.
+99	2	Mantarları dilimle, yağda suyunu çekene kadar 6 dakika sotele.
+99	3	Kremayı ve karabiberi ekle, 3 dakika kaynat.
+99	4	Makarnayı sosa ekleyip karıştır.
+100	1	Makarnayı tuzlu kaynar suda haşla, süz.
+100	2	Tavuğu küçük küp, mantarı dilim doğra.
+100	3	Yağda tavuğu 6 dakika, sonra mantarı ekleyip 4 dakika kavur.
+100	4	Kremayı ve karabiberi ekle, 3 dakika kaynat.
+100	5	Makarnayı sosa ekleyip karıştır.
+101	1	Makarnayı tuzlu kaynar suda haşla, süz.
+101	2	Margarini erit, unu 2 dakika kavur.
+101	3	Sütü yavaşça ekle, koyulaşana kadar karıştır.
+101	4	Kaşarın çoğunu ve tuzu ekle, eriyene kadar karıştır.
+101	5	Makarnayı sosla karıştırıp fırın kabına al, kalan kaşarı serp.
+101	6	200°C fırında üstü kızarana kadar 10 dakika pişir.
+102	1	Makarnayı tuzlu kaynar suda haşla, süz.
+102	2	Domatesleri rendele, sarımsağı ince doğra.
+102	3	Zeytinyağında sarımsağı ve pul biberi 1 dakika çevir.
+102	4	Domatesi ekle, koyulaşana kadar 10 dakika pişir.
+102	5	Makarnayı sosa ekleyip karıştır.
+103	1	Spagettiyi tuzlu kaynar suda haşla. Süzmeden önce yarım su bardağı suyunu ayır.
+103	2	Sarımsağı ince dilimle, maydanozu ince doğra.
+103	3	Zeytinyağında sarımsağı kısık ateşte, yakmadan 2 dakika çevir. Pul biberi ekle.
+103	4	Spagettiyi ve ayırdığın suyu tavaya ekle, 1 dakika karıştır.
+103	5	Maydanozu serpip servis et.
+104	1	Mantıyı tuzlu kaynar suda paketteki süre kadar haşla, süz.
+104	2	Sarımsağı ezip yoğurtla karıştır.
+104	3	Mantıyı tabağa al, üstüne yoğurdu dök.
+104	4	Margarini erit, pul biberi ekle, yoğurdun üstüne gezdir.
+152	1	Margarini tencerede erit.
+152	2	Şehriyeyi pembeleşene kadar 3-4 dakika kavur.
+152	3	Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte suyunu çekene kadar 10 dakika pişir.
+152	4	Ocağı kapat, 5 dakika demlendir.
+84	1	Mercimeği yıka, sıcak suyla suyunu çekene kadar 15 dakika pişir.
+84	2	Ocaktan al, bulguru ekleyip karıştır, kapağı kapalı 15 dakika demlendir.
+84	3	Soğanı ince doğra, zeytinyağında 3 dakika kavur, salçayı ekleyip 1 dakika karıştır.
+84	4	Taze soğanı ve maydanozu ince doğra.
+84	5	Hepsini ve tuzu mercimeğe ekleyip 5 dakika yoğur.
+84	6	Avuçta sıkarak şekil ver, marul yaprakları ve limonla servis et.
+105	1	Domatesi, salatalığı ve biberi küçük küp doğra.
+105	2	Soğanı ince doğrayıp tuzla ovala, suyunu sık.
+105	3	Maydanozu ince doğra.
+105	4	Hepsini karıştır, zeytinyağı ve limon suyunu ekle.
+106	1	Marulu ve rokayı yıkayıp ince doğra.
+106	2	Havucu rendele.
+106	3	Zeytinyağı, limon suyu ve tuzu karıştır.
+106	4	Sosu yeşilliklerin üstüne döküp karıştır.
+107	1	Bulguru sıcak suyla ıslat, kapağı kapalı 15 dakika beklet.
+107	2	Salçayı ve zeytinyağını ekleyip elinle yoğur.
+107	3	Taze soğanı, maydanozu ve naneyi ince doğra.
+107	4	Yeşillikleri, nar ekşisini, limon suyunu ve tuzu ekleyip karıştır.
+107	5	Soğuk servis et.
+108	1	Salatalığı küçük doğra ya da rendele.
+108	2	Sarımsağı ez.
+108	3	Yoğurdu su ve tuzla çırp.
+108	4	Salatalığı ve sarımsağı ekle, üstüne nane serp.
+109	1	Havuçları rendele.
+109	2	Zeytinyağında havucu yumuşayana kadar 5 dakika sotele, soğut.
+109	3	Sarımsağı ezip süzme yoğurt ve tuzla karıştır.
+109	4	Havucu yoğurda ekleyip karıştır, soğuk servis et.
+110	1	Patatesleri kabuklarıyla 20 dakika haşla, soyup küp doğra.
+110	2	Taze soğanı ve maydanozu ince doğra.
+110	3	Zeytinyağı, limon suyu ve tuzu karıştır.
+110	4	Hepsini sosla karıştırıp servis et.
+111	1	Patatesi ve havucu küçük küp doğra, 10 dakika haşla.
+111	2	Bezelyeyi ekle, 3 dakika daha haşla, süz, soğut.
+111	3	Turşuları küçük doğra.
+111	4	Mayonezi, yoğurdu ve tuzu karıştır.
+111	5	Hepsini karıştır, buzdolabında soğutup servis et.
+112	1	Makarnayı tuzlu kaynar suda haşla, soğuk sudan geçirip süz.
+112	2	Ton balığının ve mısırın suyunu süz.
+112	3	Makarna, ton, mısır ve mayonezi karıştır.
+112	4	Soğuk servis et.
+113	1	Nohudu bir gece önceden ıslat, yumuşayana kadar 1,5 saat haşla. Haşlama suyundan yarım su bardağı ayır.
+113	2	Nohutların kabuklarını mümkün olduğunca ayıkla.
+113	3	Nohudu, tahini, limon suyunu, sarımsağı, kimyonu ve tuzu robottan geçir.
+113	4	Ayırdığın sudan azar azar ekleyerek pürüzsüz kıvama getir.
+113	5	Tabağa yay, üstüne zeytinyağı gezdir.
+114	1	Patlıcanları ocakta ya da fırında kabukları kararana kadar közle.
+114	2	Kabuklarını soy, ince doğra.
+114	3	Domatesi ve biberi küçük doğra, sarımsağı ez.
+114	4	Hepsini zeytinyağı, limon suyu ve tuzla karıştır.
+115	1	Peyniri çatalla ez.
+115	2	Sarımsağı ez, dereotunu ince doğra.
+115	3	Hepsini süzme yoğurtla karıştır.
+115	4	Üstüne zeytinyağı gezdirip servis et.
+116	1	Fasulyeyi bir gece önceden ıslat, yumuşayana kadar 1 saat haşla, süz, soğut.
+116	2	Soğanı piyazlık doğra, sumak ve tuzla ovala.
+116	3	Domatesi küp, maydanozu ince doğra.
+116	4	Fasulye, soğan, domates ve maydanozu karıştır.
+116	5	Zeytinyağı ve limon suyunu ekleyip karıştır.
+117	1	Domatesi, soğanı ve biberi çok küçük doğra.
+117	2	Maydanozu ince doğra, cevizi iri kır.
+117	3	Hepsini karıştır.
+117	4	Nar ekşisi, zeytinyağı ve tuzu ekleyip karıştır.
+118	1	Mercimeği dağılmadan yumuşayana kadar 25 dakika haşla, süz, soğut.
+118	2	Domatesi küp, taze soğanı ve maydanozu ince doğra.
+118	3	Hepsini karıştır.
+118	4	Zeytinyağı, limon suyu ve tuzu ekleyip karıştır.
+119	1	Lahanayı çok ince doğra, tuzla ovup 5 dakika beklet.
+119	2	Havucu rendele.
+119	3	Lahanayı ve havucu karıştır.
+119	4	Zeytinyağı ve limon suyunu ekleyip karıştır.
+120	1	Tavuğu şerit doğra, tuzla, zeytinyağının yarısında 8 dakika pişir, soğut.
+120	2	Marulu doğra, domatesi dilimle, mısırı süz.
+120	3	Hepsini bir kaseye al.
+120	4	Kalan zeytinyağını ve limon suyunu ekleyip karıştır.
+121	1	Peyniri ez, maydanozu ince doğrayıp karıştır.
+121	2	Her yufkayı 8 üçgen dilime kes.
+121	3	Geniş kenara bir parça harç koy, kenarları içe katlayıp sıkıca sar. Ucunu suyla yapıştır.
+121	4	Kızgın yağda her yanı kızarana kadar kızart.
+121	5	Kâğıt havluya alıp servis et.
+122	1	Ispanağı ve soğanı doğra. İki kaşık yağda ıspanak sönene kadar 5 dakika kavur, soğut, peyniri ekle.
+122	2	Sütü, yumurtaları, kalan yağı ve tuzu çırp.
+122	3	Tepsiyi yağla. Yufkaları aralarına sos sürerek kat kat diz, ortaya ıspanaklı harcı yay.
+122	4	Kalan yufkayla kapat, kalan sosu üstüne dök.
+122	5	Dilimleyip 30 dakika beklet.
+122	6	180°C fırında üstü kızarana kadar 40 dakika pişir.
+123	1	Soğanı doğra, iki kaşık yağda kıymayla suyunu çekene kadar kavur. Tuz ve karabiberi ekle, soğut.
+123	2	Sütü, yumurtaları ve kalan yağı çırp.
+123	3	Tepsiyi yağla. Yufkaları aralarına sos sürerek kat kat diz, ortaya kıymayı yay.
+123	4	Kalan yufkayla kapat, kalan sosu üstüne dök.
+123	5	Dilimleyip 30 dakika beklet.
+123	6	180°C fırında üstü kızarana kadar 40 dakika pişir.
+124	1	Patatesleri haşla, ez. Soğanı doğra, iki kaşık yağda 3 dakika kavur, patatese ekle. Pul biber ve yarım tuzu karıştır.
+124	2	Sütü, yumurtaları, kalan yağı ve tuzu çırp.
+124	3	Tepsiyi yağla. Yufkaları aralarına sos sürerek kat kat diz, ortaya patatesli harcı yay.
+124	4	Kalan yufkayla kapat, kalan sosu üstüne dök.
+124	5	Dilimleyip 30 dakika beklet.
+124	6	180°C fırında üstü kızarana kadar 40 dakika pişir.
+125	1	Ispanağı ince doğra, peynirle karıştır.
+125	2	Her yufkanın yarısına harç yay, diğer yarısını üstüne kapat, kenarları içe katla.
+125	3	Tavayı ısıt, gözlemelerin her iki yüzünü kızarana kadar 3-4 dakika pişir.
+125	4	Sıcakken üstüne margarin sür, dilimleyip servis et.
+126	1	Ilık sütü, ılık suyu, mayayı ve şekeri karıştır.
+126	2	Unu ve tuzu ekleyip yumuşak bir hamur yoğur.
+126	3	Üstünü örtüp sıcak bir yerde 40 dakika mayalandır.
+126	4	Ceviz büyüklüğünde parçalar koparıp elle yassılaştır.
+126	5	Kızgın yağda iki yüzü kızarana kadar kızart.
+127	1	Eritilmiş margarini, yağı, yoğurdu, yumurtanın beyazını ve tuzu karıştır.
+127	2	Kabartma tozunu ve unu azar azar ekleyip ele yapışmayan yumuşak bir hamur yoğur.
+127	3	Ceviz büyüklüğünde parçalar al, ortasını aç, ezilmiş peynirden koyup kapat.
+127	4	Yağlı kâğıt serili tepsiye diz, üstlerine yumurta sarısı sür.
+127	5	180°C fırında 25-30 dakika pişir.
+128	1	Fırını 200°C'ye ısıt.
+128	2	Salçayı az suyla açıp lavaşa ince sür.
+128	3	Sucuğu ince dilimle. Lavaşa kaşarı ve sucuğu yay, kekik serp.
+128	4	Fırında kenarları kızarana kadar 8-10 dakika pişir.
+129	1	Ilık suyu, mayayı ve şekeri karıştır. Unu, tuzu ve zeytinyağını ekleyip yumuşak bir hamur yoğur.
+129	2	Üstünü örtüp 45 dakika mayalandır.
+129	3	Hamuru yağlı tepsiye elle yay.
+129	4	Salçayı az suyla açıp hamura sür.
+129	5	Kaşarı, dilimlenmiş sucuğu, mantarı ve biberi yay.
+129	6	220°C fırında 15-20 dakika pişir.
+130	1	Ilık suyu, mayayı ve şekeri karıştır. Unu, tuzun yarısını ve yağı ekleyip hamur yoğur, 45 dakika mayalandır.
+130	2	Soğanı, domatesi ve biberi çok küçük doğra, kıyma ve kalan tuzla karıştır.
+130	3	Hamuru dört parçaya böl, her birini uzun oval aç.
+130	4	Ortasına harcı yay, kenarlarını içe katlayıp uçlarını sıkıştır.
+130	5	220°C fırında 15-20 dakika pişir.
+131	1	Milföyleri 10 dakika oda sıcaklığında çözdür.
+131	2	Peyniri ez, yumurtanın beyazıyla karıştır.
+131	3	Her karenin ortasına peynir koy, üçgen katlayıp kenarlarını çatalla bastır.
+131	4	Üstlerine yumurta sarısı sür.
+131	5	200°C fırında kabarıp kızarana kadar 20 dakika pişir.
+132	1	Sucuğu ince dilimle.
+132	2	Ekmeklerin arasına kaşarı ve sucuğu koy.
+132	3	Dış yüzlerine az margarin sür.
+132	4	Tost makinesinde ya da tavada iki yüzü kızarana kadar pişir.
+133	1	Unu, sütü, yumurtaları, yağı ve tuzu pürüzsüz olana kadar çırp.
+133	2	10 dakika dinlendir.
+133	3	Yapışmaz tavayı ısıt, bir kepçe hamur dök, tavayı çevirerek yay.
+133	4	Kenarları kalkınca çevir, diğer yüzünü 30 saniye pişir.
+133	5	İstediğin gibi, tatlı ya da tuzlu servis et.
+134	1	Yumurtaları, yoğurdu, yağı ve tuzu çırp.
+134	2	Mısır ununu, unu ve kabartma tozunu ekleyip karıştır.
+134	3	Yağlanmış fırın kabına dök.
+134	4	180°C fırında üstü kızarana kadar 35 dakika pişir.
+135	1	Yumurtayı, sütü, şekeri ve yağı çırp.
+135	2	Unu ve kabartma tozunu ekleyip karıştır; hamur koyu olsun.
+135	3	Yapışmaz tavayı ısıt, bir kepçe hamur dök.
+135	4	Üstü kabarcıklanınca çevir, 1 dakika daha pişir.
+135	5	Balla servis et.
+136	1	Pirinci yıka, suyla yumuşayana kadar 15 dakika haşla.
+136	2	Sütü ekle, kaynayınca 10 dakika pişir.
+136	3	Şekeri ekle, karıştır.
+136	4	Nişastayı yarım çay bardağı soğuk suyla açıp yavaşça ekle.
+136	5	Koyulaşana kadar 5 dakika karıştırarak pişir. Kaselere paylaştır, soğut.
+137	1	Sütü, şekeri, unu ve nişastayı tencerede soğukken çırp.
+137	2	Orta ateşte, sürekli karıştırarak koyulaşana kadar pişir.
+137	3	Vanilini ekle, 1 dakika daha karıştır.
+137	4	Kaselere paylaştır, soğut. Tarçınla servis et.
+138	1	Sütü, suyu ve şekeri ayrı bir tencerede ılıt.
+138	2	Margarini erit, irmiği kısık ateşte sürekli karıştırarak pembeleşene kadar 15 dakika kavur.
+138	3	Şerbeti yavaş yavaş, karıştırarak irmiğe ekle. Sıçrayabilir, dikkat et.
+138	4	Suyunu çekince ocağı kapat, kapağın altına kâğıt havlu koyup 10 dakika demlendir.
+139	1	Sütü, suyu ve şekeri ayrı bir tencerede ılıt.
+139	2	Margarini erit, unu kısık ateşte sürekli karıştırarak rengi dönene kadar 20 dakika kavur.
+139	3	Şerbeti yavaş yavaş, karıştırarak ekle. Sıçrayabilir, dikkat et.
+139	4	Suyunu çekip toparlanınca ocağı kapat, 10 dakika demlendir.
+140	1	Yumurtaları ve şekeri köpük köpük olana kadar çırp.
+140	2	Sütü ve yağı ekleyip çırpmaya devam et.
+140	3	Unu, kakaoyu, kabartma tozunu ve vanilini eleyerek ekle, karıştır.
+140	4	Yağlanmış kek kalıbına dök.
+140	5	170°C fırında 40 dakika pişir. Kürdan kuru çıkınca hazırdır.
+141	1	Margarini, şekeri, kakaoyu ve sütü tencerede şeker eriyene kadar karıştırarak ısıt.
+141	2	Bisküvileri elle iri parçalara kır.
+141	3	Kakaolu karışımı bisküviye döküp karıştır.
+141	4	Streç filme alıp rulo yap.
+141	5	Buzdolabında en az 3 saat beklet, dilimleyip servis et.
+142	1	Şerbet için 2 su bardağı şekeri ve suyu 10 dakika kaynat, soğut.
+142	2	Yumurtaları ve kalan şekeri köpürene kadar çırp, yoğurdu ekle.
+142	3	İrmiği, unu ve kabartma tozunu ekleyip karıştır.
+142	4	Yağlanmış tepsiye dök, 180°C fırında 30 dakika pişir.
+142	5	Sıcak revaniye soğuk şerbeti dök, emmesi için 1 saat beklet.
+143	1	Sütü, şekeri, kakaoyu, unu ve nişastayı tencerede soğukken çırp.
+143	2	Orta ateşte, sürekli karıştırarak koyulaşana kadar pişir.
+143	3	Ocaktan al, doğranmış çikolatayı ekleyip eriyene kadar karıştır.
+143	4	Kaselere paylaştır, soğut.
+144	1	Elmaları rendele, şeker ve tarçınla suyunu çekene kadar 8 dakika pişir, soğut.
+144	2	Oda sıcaklığındaki margarini, yoğurdu ve pudra şekerinin yarısını karıştır.
+144	3	Kabartma tozunu ve unu azar azar ekleyip yumuşak bir hamur yoğur.
+144	4	Ceviz büyüklüğünde parçaları açıp içine elmalı harçtan koy, hilal şeklinde kapat.
+144	5	180°C fırında 25 dakika pişir. Soğuyunca üstüne kalan pudra şekerini serp.
+145	1	Oda sıcaklığındaki margarini ve pudra şekerini krema kıvamına gelene kadar çırp.
+145	2	Vanilini ekle, unu azar azar ekleyerek yumuşak bir hamur yoğur.
+145	3	Ceviz büyüklüğünde toplar yapıp tepsiye diz.
+145	4	170°C fırında renk almadan 18-20 dakika pişir.
+145	5	Soğuyana kadar dokunma; sıcakken kolay dağılır.
+146	1	Çikolatayı ve margarini kısık ateşte ya da benmari usulü erit.
+146	2	Şekeri ekle, karıştır. Biraz ılıyınca yumurtaları tek tek ekleyip çırp.
+146	3	Unu ve kakaoyu eleyerek ekle, karıştır.
+146	4	Yağlı kâğıt serili kare kalıba dök.
+146	5	170°C fırında 25 dakika pişir; içi hafif nemli kalmalı. Soğuyunca kes.
+147	1	Sütü, şekeri, unu ve nişastayı soğukken çırp; orta ateşte koyulaşana kadar karıştırarak pişir. Soğut.
+147	2	Bisküvileri ufala, muzları dilimle.
+147	3	Kaselere sırayla bisküvi, muhallebi ve muz koy.
+147	4	Üstü bisküviyle bitecek şekilde tekrarla.
+147	5	Buzdolabında 2 saat soğutup servis et.
+148	1	Kayısıları sıcak suda 30 dakika beklet, süz.
+148	2	Şekeri ve suyu kaynat, kayısıları ekleyip kısık ateşte 20 dakika pişir, soğut.
+148	3	Cevizi ufala.
+148	4	Her kayısının ortasını aç, içine kaymak koy.
+148	5	Üstüne ceviz serpip biraz şerbet gezdirerek servis et.
+150	1	Patatesleri soyup parmak şeklinde doğra.
+150	2	Soğuk suda 10 dakika beklet, iyice kurula.
+150	3	Yağı ısıt, patatesleri iki parti halinde altın rengi olana kadar 6-8 dakika kızart.
+150	4	Kâğıt havluya al, tuzla.
+151	1	Patatesleri soyup doğra, yumuşayana kadar 20 dakika haşla, süz.
+151	2	Sütü ılıt.
+151	3	Patatesleri ez, margarini ekle.
+151	4	Sütü azar azar ekleyerek pürüzsüz olana kadar karıştır, tuzla.

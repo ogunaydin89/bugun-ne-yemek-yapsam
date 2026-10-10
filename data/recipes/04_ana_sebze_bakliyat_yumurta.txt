@@ -1,0 +1,402 @@
+# 61 Menemen
+süre: 20
+malzemeler:
+- Domates | 3 adet
+- Sivri biber | 3 adet
+- Yumurta | 3 adet
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Biberleri doğra, domatesleri rendele.
+2. Tavada yağı ısıt, biberleri 3 dakika kavur.
+3. Domatesi ekle, suyunu çekene kadar 5-6 dakika pişir.
+4. Yumurtaları kır, tuzu ekle, yavaşça karıştırarak pişene kadar pişir.
+
+# 62 Shakshuka
+süre: 25
+malzemeler:
+- Domates | 3 adet
+- Kapya biber | 1 adet
+- Kuru soğan | 1 adet
+- Yumurta | 4 adet
+- Kimyon | 1/2 çay kaşığı
+- Toz kırmızı biber (tatlı) | 1 çay kaşığı
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı ve biberi doğra, domatesleri rendele.
+2. Tavada zeytinyağını ısıt, soğanı ve biberi 5 dakika kavur.
+3. Kimyonu ve toz biberi ekle, 1 dakika karıştır.
+4. Domatesi ve tuzu ekle, koyulaşana kadar 8 dakika pişir.
+5. Sosun içinde dört çukur aç, yumurtaları kır.
+6. Kapağı kapalı, yumurtaların beyazı pişene kadar 5-6 dakika pişir.
+
+# 63 Çılbır
+süre: 15
+malzemeler:
+- Yumurta | 2 adet
+- Yoğurt | 1/2 su bardağı
+- Sarımsak | 1 diş
+- Kase margarin | 1 yemek kaşığı
+- Pul biber | 1/2 çay kaşığı
+- Üzüm / elma sirkesi | 1 yemek kaşığı
+- Tuz | 1/4 çay kaşığı
+yapılışı:
+1. Sarımsağı ez, yoğurt ve tuzla karıştırıp tabağa yay.
+2. Bir tencerede suyu kaynat, sirkeyi ekle, ateşi kıs.
+3. Yumurtaları tek tek suya kır, 3-4 dakika pişir, kepçeyle alıp yoğurdun üstüne koy.
+4. Margarini erit, pul biberi ekle, yumurtaların üstüne gezdir.
+
+# 64 Patatesli yumurta
+süre: 25
+malzemeler:
+- Patates | 2 adet
+- Yumurta | 3 adet
+- Kuru soğan | 1 adet
+- Ayçiçek yağı | 3 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Patatesleri küçük küp, soğanı ince doğra.
+2. Tavada yağı ısıt, patatesleri kapağı kapalı, ara ara çevirerek 12 dakika pişir.
+3. Soğanı ekle, 3 dakika kavur.
+4. Yumurtaları kır, tuzu ekle, karıştırarak pişene kadar pişir.
+
+# 65 Ispanaklı yumurta
+süre: 20
+malzemeler:
+- Ispanak | 500 g
+- Kuru soğan | 1 adet
+- Yumurta | 3 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Ispanağı yıkayıp doğra, soğanı küçük doğra.
+2. Tavada yağı ısıt, soğanı 3 dakika kavur.
+3. Ispanağı ekle, suyunu çekene kadar 5 dakika pişir.
+4. Ispanağın içinde çukurlar açıp yumurtaları kır, tuzu serp.
+5. Kapağı kapalı, yumurtalar pişene kadar 4-5 dakika pişir.
+
+# 66 İmam bayıldı
+süre: 80
+malzemeler:
+- Patlıcan | 4 adet
+- Kuru soğan | 3 adet
+- Domates | 2 adet
+- Sarımsak | 4 diş
+- Zeytinyağı | 1/2 su bardağı
+- Su | 1/2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patlıcanları alacalı soy, tuzlu suda 15 dakika beklet, kurula.
+2. Patlıcanları zeytinyağının yarısında her yanı yumuşayana kadar kızart.
+3. Soğanları piyazlık, sarımsağı ince doğra. Kalan yağda 8 dakika kavur.
+4. Doğranmış domatesi ve tuzu ekle, 5 dakika pişir.
+5. Patlıcanları tencereye diz, ortalarını yarıp harcı doldur.
+6. Suyu ekle, kapağı kapalı, kısık ateşte 30 dakika pişir. Soğuk servis et.
+
+# 67 Zeytinyağlı taze fasulye
+süre: 60
+malzemeler:
+- Taze fasulye | 750 g
+- Kuru soğan | 1 adet
+- Domates | 2 adet
+- Zeytinyağı | 1/4 su bardağı
+- Su | 1/2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Fasulyelerin uçlarını kesip ikiye böl. Soğanı doğra, domatesi rendele.
+2. Zeytinyağında soğanı 3 dakika kavur.
+3. Fasulyeyi ekle, 5 dakika çevir.
+4. Domatesi, suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 40 dakika pişir. Soğuk servis et.
+
+# 68 Türlü
+süre: 70
+malzemeler:
+- Patlıcan | 1 adet
+- Kabak | 2 adet
+- Patates | 2 adet
+- Sivri biber | 3 adet
+- Domates | 2 adet
+- Kuru soğan | 1 adet
+- Taze fasulye | 250 g
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Bütün sebzeleri iri küp doğra, fasulyeyi ikiye böl.
+2. Yağda soğanı 3 dakika kavur, salçayı ekle, 1 dakika karıştır.
+3. Fasulyeyi ve patatesi ekle, 5 dakika çevir.
+4. Patlıcanı, kabağı, biberi ve domatesi ekle.
+5. Sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 45 dakika pişir.
+
+# 69 Ratatouille
+süre: 55
+malzemeler:
+- Patlıcan | 1 adet
+- Kabak | 2 adet
+- Kapya biber | 2 adet
+- Domates | 3 adet
+- Sarımsak | 3 diş
+- Kuru soğan | 1 adet
+- Zeytinyağı | 3 yemek kaşığı
+- Kekik | 1 çay kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Bütün sebzeleri küp, sarımsağı ince doğra.
+2. Zeytinyağında soğanı ve sarımsağı 3 dakika kavur.
+3. Patlıcanı ve biberi ekle, 5 dakika kavur.
+4. Kabağı, domatesi, kekiği ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 30 dakika pişir.
+
+# 70 Zeytinyağlı pırasa
+süre: 50
+malzemeler:
+- Pırasa | 4 sap
+- Havuç | 1 adet
+- Baldo pirinç | 2 yemek kaşığı
+- Limon | 1 adet
+- Zeytinyağı | 1/4 su bardağı
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Pırasayı çapraz doğra ve iyice yıka. Havucu halka doğra.
+2. Zeytinyağında havucu 3 dakika kavur.
+3. Pırasayı ekle, 5 dakika çevir.
+4. Pirinci, sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 30 dakika pişir.
+5. Limon suyunu ekle. Soğuk servis et.
+
+# 71 Zeytinyağlı kereviz
+süre: 50
+malzemeler:
+- Kereviz | 2 adet
+- Havuç | 1 adet
+- Patates | 1 adet
+- Portakal | 1 adet
+- Limon | 1 adet
+- Zeytinyağı | 1/4 su bardağı
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Kerevizleri soyup iri küp doğra, kararmasın diye limonlu suda beklet.
+2. Havucu ve patatesi küp doğra.
+3. Zeytinyağında havucu ve patatesi 3 dakika çevir.
+4. Kerevizi, portakal suyunu, suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 35 dakika pişir. Soğuk servis et.
+
+# 72 Etsiz patates yemeği
+süre: 40
+malzemeler:
+- Patates | 5 adet
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Soğanı doğra, patatesleri küp doğra.
+2. Yağda soğanı 3 dakika kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Patatesi, sıcak suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte patatesler yumuşayana kadar 25 dakika pişir.
+
+# 73 Kuru fasulye (etsiz)
+süre: 120
+malzemeler:
+- Kuru fasulye | 2 su bardağı
+- Kuru soğan | 1 adet
+- Domates salçası | 2 yemek kaşığı
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 6 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Fasulyeyi bir gece önceden bol suda ıslat.
+2. Fasulyeyi süzüp 15 dakika haşla, suyunu dök.
+3. Yağda doğranmış soğanı 3 dakika kavur.
+4. Salçayı ekle, 1 dakika karıştır.
+5. Fasulyeyi, sıcak suyu ve tuzu ekle.
+6. Kapağı kapalı, kısık ateşte fasulyeler yumuşayana kadar 1,5 saat pişir.
+
+# 74 Nohut yemeği (etsiz)
+süre: 100
+malzemeler:
+- Nohut | 2 su bardağı
+- Kuru soğan | 1 adet
+- Domates salçası | 2 yemek kaşığı
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Nohudu bir gece önceden bol suda ıslat.
+2. Nohudu süzüp 15 dakika haşla, suyunu dök.
+3. Yağda doğranmış soğanı 3 dakika kavur.
+4. Salçayı ekle, 1 dakika karıştır.
+5. Nohudu, sıcak suyu ve tuzu ekle.
+6. Kapağı kapalı, kısık ateşte nohutlar yumuşayana kadar 1 saat 15 dakika pişir.
+
+# 75 Yeşil mercimek yemeği
+süre: 50
+malzemeler:
+- Yeşil mercimek | 1,5 su bardağı
+- Pilavlık bulgur | 2 yemek kaşığı
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Mercimeği yıka, soğanı doğra.
+2. Yağda soğanı 3 dakika kavur, salçayı ekle, 1 dakika karıştır.
+3. Mercimeği, sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 25 dakika pişir.
+4. Bulguru ekle, 15 dakika daha pişir.
+
+# 76 Fasulye pilaki
+süre: 110
+malzemeler:
+- Kuru fasulye | 2 su bardağı
+- Havuç | 1 adet
+- Patates | 1 adet
+- Kuru soğan | 1 adet
+- Limon | 1 adet
+- Zeytinyağı | 1/4 su bardağı
+- Su | 4 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Fasulyeyi bir gece önceden ıslat, 45 dakika haşlayıp süz.
+2. Soğanı, havucu ve patatesi küp doğra.
+3. Zeytinyağında soğanı 3 dakika kavur, havucu ve patatesi ekle, 3 dakika çevir.
+4. Fasulyeyi, sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 40 dakika pişir.
+5. Limon suyunu ekle. Soğuk servis et.
+
+# 77 Mücver
+süre: 40
+malzemeler:
+- Kabak | 3 adet
+- Yumurta | 2 adet
+- Buğday unu | 1/2 su bardağı
+- Beyaz peynir | 1/2 su bardağı
+- Dereotu | 1/2 demet
+- Taze soğan | 3 sap
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Kabakları rendele, tuzlayıp 10 dakika beklet, suyunu iyice sık.
+2. Dereotunu ve taze soğanı ince doğra, peyniri ez.
+3. Kabak, yumurta, un, peynir, dereotu ve taze soğanı karıştır.
+4. Tavada yağı ısıt, karışımdan kaşıkla dökerek her yüzü kızarana kadar pişir.
+5. Kâğıt havluya alıp servis et.
+
+# 78 Karnabahar kızartması
+süre: 40
+malzemeler:
+- Karnabahar | 1000 g
+- Yumurta | 2 adet
+- Buğday unu | 1/2 su bardağı
+- Yoğurt | 1 su bardağı
+- Sarımsak | 1 diş
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Karnabaharı parçalara ayır, tuzlu suda 8 dakika haşla, süz.
+2. Yumurtayı tuzla çırp.
+3. Karnabaharı önce una, sonra yumurtaya bula.
+4. Kızgın yağda her yanı kızarana kadar kızart.
+5. Sarımsağı ezip yoğurtla karıştır, yanında servis et.
+
+# 79 Şakşuka
+süre: 50
+malzemeler:
+- Patlıcan | 2 adet
+- Kabak | 2 adet
+- Sivri biber | 3 adet
+- Domates | 3 adet
+- Sarımsak | 2 diş
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patlıcanı ve kabağı küp doğra; patlıcanı tuzlu suda 10 dakika beklet, kurula.
+2. Patlıcanı, kabağı ve biberi yağda ayrı ayrı kızart, kâğıt havluya al.
+3. Domatesi rendele, sarımsağı ez.
+4. İki kaşık yağda domatesi, sarımsağı ve tuzu 8 dakika pişir.
+5. Kızarmış sebzeleri tabağa al, domates sosunu üstüne dök. Soğuk ya da ılık servis et.
+
+# 80 Mantar sote
+süre: 15
+malzemeler:
+- Kültür mantarı | 400 g
+- Kuru soğan | 1 adet
+- Sivri biber | 2 adet
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Mantarları dilimle, soğanı ve biberi doğra.
+2. Tavada yağı ısıt, soğanı 3 dakika kavur.
+3. Mantarları ekle, yüksek ateşte suyunu salıp çekene kadar 7-8 dakika kavur.
+4. Biberi, tuzu ve karabiberi ekle, 2 dakika daha kavur.
+
+# 81 Fırın sebze
+süre: 50
+malzemeler:
+- Patates | 3 adet
+- Havuç | 2 adet
+- Kabak | 2 adet
+- Brokoli | 1 adet
+- Zeytinyağı | 3 yemek kaşığı
+- Kekik | 1 çay kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patatesi ve havucu elma dilimi, kabağı kalın halka doğra. Brokoliyi parçalara ayır.
+2. Sebzeleri zeytinyağı, kekik ve tuzla karıştır.
+3. Tepsiye tek kat yay.
+4. 200°C fırında, yarısında bir kez çevirerek 40 dakika pişir.
+
+# 82 Patates graten
+süre: 60
+malzemeler:
+- Patates | 5 adet
+- Süt | 1 su bardağı
+- Sıvı krema (pişirme kreması) | 1 paket
+- Kaşar | 1 su bardağı
+- Sarımsak | 2 diş
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Patatesleri ince halka doğra.
+2. Sütü, kremayı, ezilmiş sarımsağı, tuzu ve karabiberi karıştır.
+3. Patatesleri fırın kabına kat kat diz, sütlü karışımı dök.
+4. Üstüne rendelenmiş kaşarı serp.
+5. 180°C fırında patatesler yumuşayana kadar 45 dakika pişir.
+
+# 83 Falafel
+süre: 40
+malzemeler:
+- Nohut | 2 su bardağı
+- Kuru soğan | 1 adet
+- Sarımsak | 3 diş
+- Maydanoz | 1 demet
+- Kimyon | 1 çay kaşığı
+- Karbonat | 1/2 çay kaşığı
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Nohudu bir gece önceden bol suda ıslat, süz. Haşlamadan kullan.
+2. Nohudu, soğanı, sarımsağı, maydanozu, kimyonu ve tuzu robottan geçirip ufala.
+3. Karbonatı ekle, karıştır, 15 dakika beklet.
+4. Ceviz büyüklüğünde toplar yapıp hafifçe bastır.
+5. Kızgın yağda her yanı kızarana kadar 3-4 dakika kızart.
+
+# 149 Omlet
+süre: 10
+malzemeler:
+- Yumurta | 2 adet
+- Süt | 2 yemek kaşığı
+- Kase margarin | 1 tatlı kaşığı
+- Tuz | 1/4 çay kaşığı
+- Karabiber | 1/4 çay kaşığı
+yapılışı:
+1. Yumurtaları, sütü, tuzu ve karabiberi çatalla çırp.
+2. Tavada margarini orta ateşte erit.
+3. Yumurtayı dök, kenarları pişince spatulayla içe doğru çek.
+4. Üstü de pişince ikiye katla, tabağa al.

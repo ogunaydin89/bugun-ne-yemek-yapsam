@@ -1,0 +1,276 @@
+# 84 Mercimek köftesi
+süre: 45
+malzemeler:
+- Kırmızı mercimek | 1 su bardağı
+- Köftelik bulgur | 1 su bardağı
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Taze soğan | 4 sap
+- Maydanoz | 1 demet
+- Zeytinyağı | 3 yemek kaşığı
+- Marul | 1 adet
+- Limon | 1 adet
+- Su | 2,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Mercimeği yıka, sıcak suyla suyunu çekene kadar 15 dakika pişir.
+2. Ocaktan al, bulguru ekleyip karıştır, kapağı kapalı 15 dakika demlendir.
+3. Soğanı ince doğra, zeytinyağında 3 dakika kavur, salçayı ekleyip 1 dakika karıştır.
+4. Taze soğanı ve maydanozu ince doğra.
+5. Hepsini ve tuzu mercimeğe ekleyip 5 dakika yoğur.
+6. Avuçta sıkarak şekil ver, marul yaprakları ve limonla servis et.
+
+# 105 Çoban salata
+süre: 10
+malzemeler:
+- Domates | 2 adet
+- Salatalık | 1 adet
+- Sivri biber | 2 adet
+- Kuru soğan | 1 adet
+- Maydanoz | 1/2 demet
+- Zeytinyağı | 2 yemek kaşığı
+- Limon | 1 adet
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Domatesi, salatalığı ve biberi küçük küp doğra.
+2. Soğanı ince doğrayıp tuzla ovala, suyunu sık.
+3. Maydanozu ince doğra.
+4. Hepsini karıştır, zeytinyağı ve limon suyunu ekle.
+
+# 106 Mevsim salata
+süre: 10
+malzemeler:
+- Marul | 200 g
+- Roka | 1/2 demet
+- Havuç | 1 adet
+- Limon | 1 adet
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Marulu ve rokayı yıkayıp ince doğra.
+2. Havucu rendele.
+3. Zeytinyağı, limon suyu ve tuzu karıştır.
+4. Sosu yeşilliklerin üstüne döküp karıştır.
+
+# 107 Kısır
+süre: 25
+malzemeler:
+- Köftelik bulgur | 2 su bardağı
+- Domates salçası | 1 yemek kaşığı
+- Taze soğan | 4 sap
+- Maydanoz | 1 demet
+- Taze nane | 1/2 demet
+- Nar ekşisi | 2 yemek kaşığı
+- Limon | 1 adet
+- Zeytinyağı | 3 yemek kaşığı
+- Su | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Bulguru sıcak suyla ıslat, kapağı kapalı 15 dakika beklet.
+2. Salçayı ve zeytinyağını ekleyip elinle yoğur.
+3. Taze soğanı, maydanozu ve naneyi ince doğra.
+4. Yeşillikleri, nar ekşisini, limon suyunu ve tuzu ekleyip karıştır.
+5. Soğuk servis et.
+
+# 108 Cacık
+süre: 10
+malzemeler:
+- Yoğurt | 1 su bardağı
+- Salatalık | 1 adet
+- Sarımsak | 1 diş
+- Kuru nane | 1/2 çay kaşığı
+- Su | 1/2 su bardağı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Salatalığı küçük doğra ya da rendele.
+2. Sarımsağı ez.
+3. Yoğurdu su ve tuzla çırp.
+4. Salatalığı ve sarımsağı ekle, üstüne nane serp.
+
+# 109 Havuç tarator
+süre: 20
+malzemeler:
+- Havuç | 3 adet
+- Süzme yoğurt | 1 su bardağı
+- Sarımsak | 1 diş
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Havuçları rendele.
+2. Zeytinyağında havucu yumuşayana kadar 5 dakika sotele, soğut.
+3. Sarımsağı ezip süzme yoğurt ve tuzla karıştır.
+4. Havucu yoğurda ekleyip karıştır, soğuk servis et.
+
+# 110 Patates salatası
+süre: 30
+malzemeler:
+- Patates | 5 adet
+- Taze soğan | 3 sap
+- Maydanoz | 1 demet
+- Limon | 1 adet
+- Zeytinyağı | 3 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patatesleri kabuklarıyla 20 dakika haşla, soyup küp doğra.
+2. Taze soğanı ve maydanozu ince doğra.
+3. Zeytinyağı, limon suyu ve tuzu karıştır.
+4. Hepsini sosla karıştırıp servis et.
+
+# 111 Rus salatası
+süre: 40
+malzemeler:
+- Patates | 3 adet
+- Havuç | 2 adet
+- Dondurulmuş bezelye / garnitür | 1/2 su bardağı
+- Turşu | 3 adet
+- Mayonez | 4 yemek kaşığı
+- Yoğurt | 4 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Patatesi ve havucu küçük küp doğra, 10 dakika haşla.
+2. Bezelyeyi ekle, 3 dakika daha haşla, süz, soğut.
+3. Turşuları küçük doğra.
+4. Mayonezi, yoğurdu ve tuzu karıştır.
+5. Hepsini karıştır, buzdolabında soğutup servis et.
+
+# 112 Ton balıklı makarna salatası
+süre: 25
+malzemeler:
+- Penne / burgu | 1/2 paket
+- Ton balığı | 1 kutu
+- Mısır konservesi | 1 kutu
+- Mayonez | 3 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Makarnayı tuzlu kaynar suda haşla, soğuk sudan geçirip süz.
+2. Ton balığının ve mısırın suyunu süz.
+3. Makarna, ton, mısır ve mayonezi karıştır.
+4. Soğuk servis et.
+
+# 113 Humus
+süre: 120
+malzemeler:
+- Nohut | 1 su bardağı
+- Tahin | 3 yemek kaşığı
+- Limon | 1 adet
+- Sarımsak | 1 diş
+- Kimyon | 1/2 çay kaşığı
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Nohudu bir gece önceden ıslat, yumuşayana kadar 1,5 saat haşla. Haşlama suyundan yarım su bardağı ayır.
+2. Nohutların kabuklarını mümkün olduğunca ayıkla.
+3. Nohudu, tahini, limon suyunu, sarımsağı, kimyonu ve tuzu robottan geçir.
+4. Ayırdığın sudan azar azar ekleyerek pürüzsüz kıvama getir.
+5. Tabağa yay, üstüne zeytinyağı gezdir.
+
+# 114 Patlıcan salatası
+süre: 40
+malzemeler:
+- Patlıcan | 3 adet
+- Domates | 1 adet
+- Sivri biber | 2 adet
+- Sarımsak | 1 diş
+- Limon | 1 adet
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Patlıcanları ocakta ya da fırında kabukları kararana kadar közle.
+2. Kabuklarını soy, ince doğra.
+3. Domatesi ve biberi küçük doğra, sarımsağı ez.
+4. Hepsini zeytinyağı, limon suyu ve tuzla karıştır.
+
+# 115 Haydari
+süre: 10
+malzemeler:
+- Süzme yoğurt | 1 su bardağı
+- Beyaz peynir | 1/2 su bardağı
+- Sarımsak | 1 diş
+- Dereotu | 1/2 demet
+- Zeytinyağı | 1 yemek kaşığı
+yapılışı:
+1. Peyniri çatalla ez.
+2. Sarımsağı ez, dereotunu ince doğra.
+3. Hepsini süzme yoğurtla karıştır.
+4. Üstüne zeytinyağı gezdirip servis et.
+
+# 116 Piyaz
+süre: 100
+malzemeler:
+- Kuru fasulye | 1,5 su bardağı
+- Kuru soğan | 1 adet
+- Domates | 1 adet
+- Maydanoz | 1 demet
+- Sumak | 1 çay kaşığı
+- Limon | 1 adet
+- Zeytinyağı | 3 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Fasulyeyi bir gece önceden ıslat, yumuşayana kadar 1 saat haşla, süz, soğut.
+2. Soğanı piyazlık doğra, sumak ve tuzla ovala.
+3. Domatesi küp, maydanozu ince doğra.
+4. Fasulye, soğan, domates ve maydanozu karıştır.
+5. Zeytinyağı ve limon suyunu ekleyip karıştır.
+
+# 117 Gavurdağı salatası
+süre: 15
+malzemeler:
+- Domates | 2 adet
+- Kuru soğan | 1 adet
+- Sivri biber | 2 adet
+- Maydanoz | 1/2 demet
+- Ceviz | 1/2 su bardağı
+- Nar ekşisi | 1 yemek kaşığı
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Domatesi, soğanı ve biberi çok küçük doğra.
+2. Maydanozu ince doğra, cevizi iri kır.
+3. Hepsini karıştır.
+4. Nar ekşisi, zeytinyağı ve tuzu ekleyip karıştır.
+
+# 118 Yeşil mercimek salatası
+süre: 40
+malzemeler:
+- Yeşil mercimek | 1 su bardağı
+- Domates | 2 adet
+- Taze soğan | 3 sap
+- Maydanoz | 1 demet
+- Limon | 1 adet
+- Zeytinyağı | 3 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Mercimeği dağılmadan yumuşayana kadar 25 dakika haşla, süz, soğut.
+2. Domatesi küp, taze soğanı ve maydanozu ince doğra.
+3. Hepsini karıştır.
+4. Zeytinyağı, limon suyu ve tuzu ekleyip karıştır.
+
+# 119 Lahana salatası
+süre: 15
+malzemeler:
+- Beyaz lahana | 500 g
+- Havuç | 1 adet
+- Limon | 1 adet
+- Zeytinyağı | 2 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Lahanayı çok ince doğra, tuzla ovup 5 dakika beklet.
+2. Havucu rendele.
+3. Lahanayı ve havucu karıştır.
+4. Zeytinyağı ve limon suyunu ekleyip karıştır.
+
+# 120 Tavuklu salata
+süre: 25
+malzemeler:
+- Tavuk göğsü | 250 g
+- Marul | 200 g
+- Mısır konservesi | 1/2 su bardağı
+- Domates | 1 adet
+- Zeytinyağı | 2 yemek kaşığı
+- Limon | 1 adet
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Tavuğu şerit doğra, tuzla, zeytinyağının yarısında 8 dakika pişir, soğut.
+2. Marulu doğra, domatesi dilimle, mısırı süz.
+3. Hepsini bir kaseye al.
+4. Kalan zeytinyağını ve limon suyunu ekleyip karıştır.

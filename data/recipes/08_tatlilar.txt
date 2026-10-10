@@ -1,0 +1,201 @@
+# 136 Sütlaç
+süre: 45
+malzemeler:
+- Baldo pirinç | 1/2 çay bardağı
+- Su | 1 su bardağı
+- Süt | 5 su bardağı
+- Toz şeker | 1 su bardağı
+- Mısır nişastası | 2 yemek kaşığı
+yapılışı:
+1. Pirinci yıka, suyla yumuşayana kadar 15 dakika haşla.
+2. Sütü ekle, kaynayınca 10 dakika pişir.
+3. Şekeri ekle, karıştır.
+4. Nişastayı yarım çay bardağı soğuk suyla açıp yavaşça ekle.
+5. Koyulaşana kadar 5 dakika karıştırarak pişir. Kaselere paylaştır, soğut.
+
+# 137 Muhallebi
+süre: 25
+malzemeler:
+- Süt | 4 su bardağı
+- Toz şeker | 3/4 su bardağı
+- Buğday unu | 2 yemek kaşığı
+- Mısır nişastası | 2 yemek kaşığı
+- Vanilin | 1 paket
+- Tarçın | 1 çay kaşığı
+yapılışı:
+1. Sütü, şekeri, unu ve nişastayı tencerede soğukken çırp.
+2. Orta ateşte, sürekli karıştırarak koyulaşana kadar pişir.
+3. Vanilini ekle, 1 dakika daha karıştır.
+4. Kaselere paylaştır, soğut. Tarçınla servis et.
+
+# 138 İrmik helvası
+süre: 30
+malzemeler:
+- İrmik | 1 su bardağı
+- Kalıp margarin | 1/4 paket
+- Süt | 1 su bardağı
+- Su | 1 su bardağı
+- Toz şeker | 1 su bardağı
+yapılışı:
+1. Sütü, suyu ve şekeri ayrı bir tencerede ılıt.
+2. Margarini erit, irmiği kısık ateşte sürekli karıştırarak pembeleşene kadar 15 dakika kavur.
+3. Şerbeti yavaş yavaş, karıştırarak irmiğe ekle. Sıçrayabilir, dikkat et.
+4. Suyunu çekince ocağı kapat, kapağın altına kâğıt havlu koyup 10 dakika demlendir.
+
+# 139 Un helvası
+süre: 30
+malzemeler:
+- Buğday unu | 1 su bardağı
+- Kalıp margarin | 1/4 paket
+- Süt | 1 su bardağı
+- Su | 1/2 su bardağı
+- Toz şeker | 3/4 su bardağı
+yapılışı:
+1. Sütü, suyu ve şekeri ayrı bir tencerede ılıt.
+2. Margarini erit, unu kısık ateşte sürekli karıştırarak rengi dönene kadar 20 dakika kavur.
+3. Şerbeti yavaş yavaş, karıştırarak ekle. Sıçrayabilir, dikkat et.
+4. Suyunu çekip toparlanınca ocağı kapat, 10 dakika demlendir.
+
+# 140 Kakaolu kek
+süre: 50
+malzemeler:
+- Yumurta | 3 adet
+- Toz şeker | 1 su bardağı
+- Süt | 1 su bardağı
+- Ayçiçek yağı | 1/2 su bardağı
+- Buğday unu | 2 su bardağı
+- Kakao | 3 yemek kaşığı
+- Kabartma tozu | 1 paket
+- Vanilin | 1 paket
+yapılışı:
+1. Yumurtaları ve şekeri köpük köpük olana kadar çırp.
+2. Sütü ve yağı ekleyip çırpmaya devam et.
+3. Unu, kakaoyu, kabartma tozunu ve vanilini eleyerek ekle, karıştır.
+4. Yağlanmış kek kalıbına dök.
+5. 170°C fırında 40 dakika pişir. Kürdan kuru çıkınca hazırdır.
+
+# 141 Mozaik pasta
+süre: 20
+malzemeler:
+- Bisküvi (petibör) | 1 paket
+- Kakao | 3 yemek kaşığı
+- Süt | 1/2 su bardağı
+- Kalıp margarin | 1/2 paket
+- Toz şeker | 1/2 su bardağı
+yapılışı:
+1. Margarini, şekeri, kakaoyu ve sütü tencerede şeker eriyene kadar karıştırarak ısıt.
+2. Bisküvileri elle iri parçalara kır.
+3. Kakaolu karışımı bisküviye döküp karıştır.
+4. Streç filme alıp rulo yap.
+5. Buzdolabında en az 3 saat beklet, dilimleyip servis et.
+
+# 142 Revani
+süre: 60
+malzemeler:
+- Yumurta | 3 adet
+- Toz şeker | 3 su bardağı
+- Yoğurt | 1 su bardağı
+- İrmik | 1 su bardağı
+- Buğday unu | 1 su bardağı
+- Kabartma tozu | 1 paket
+- Su | 2,5 su bardağı
+yapılışı:
+1. Şerbet için 2 su bardağı şekeri ve suyu 10 dakika kaynat, soğut.
+2. Yumurtaları ve kalan şekeri köpürene kadar çırp, yoğurdu ekle.
+3. İrmiği, unu ve kabartma tozunu ekleyip karıştır.
+4. Yağlanmış tepsiye dök, 180°C fırında 30 dakika pişir.
+5. Sıcak revaniye soğuk şerbeti dök, emmesi için 1 saat beklet.
+
+# 143 Supangle
+süre: 25
+malzemeler:
+- Süt | 4 su bardağı
+- Toz şeker | 3/4 su bardağı
+- Kakao | 2 yemek kaşığı
+- Buğday unu | 2 yemek kaşığı
+- Mısır nişastası | 2 yemek kaşığı
+- Bitter çikolata | 1 tablet
+yapılışı:
+1. Sütü, şekeri, kakaoyu, unu ve nişastayı tencerede soğukken çırp.
+2. Orta ateşte, sürekli karıştırarak koyulaşana kadar pişir.
+3. Ocaktan al, doğranmış çikolatayı ekleyip eriyene kadar karıştır.
+4. Kaselere paylaştır, soğut.
+
+# 144 Elmalı kurabiye
+süre: 70
+malzemeler:
+- Kalıp margarin | 1/2 paket
+- Yoğurt | 1/2 su bardağı
+- Pudra şekeri | 1/2 su bardağı
+- Kabartma tozu | 1 çay kaşığı
+- Buğday unu | 3 su bardağı
+- Elma | 3 adet
+- Toz şeker | 3 yemek kaşığı
+- Tarçın | 1 çay kaşığı
+yapılışı:
+1. Elmaları rendele, şeker ve tarçınla suyunu çekene kadar 8 dakika pişir, soğut.
+2. Oda sıcaklığındaki margarini, yoğurdu ve pudra şekerinin yarısını karıştır.
+3. Kabartma tozunu ve unu azar azar ekleyip yumuşak bir hamur yoğur.
+4. Ceviz büyüklüğünde parçaları açıp içine elmalı harçtan koy, hilal şeklinde kapat.
+5. 180°C fırında 25 dakika pişir. Soğuyunca üstüne kalan pudra şekerini serp.
+
+# 145 Un kurabiyesi
+süre: 45
+malzemeler:
+- Kalıp margarin | 1/2 paket
+- Pudra şekeri | 1/2 su bardağı
+- Buğday unu | 2 su bardağı
+- Vanilin | 1 paket
+yapılışı:
+1. Oda sıcaklığındaki margarini ve pudra şekerini krema kıvamına gelene kadar çırp.
+2. Vanilini ekle, unu azar azar ekleyerek yumuşak bir hamur yoğur.
+3. Ceviz büyüklüğünde toplar yapıp tepsiye diz.
+4. 170°C fırında renk almadan 18-20 dakika pişir.
+5. Soğuyana kadar dokunma; sıcakken kolay dağılır.
+
+# 146 Brownie
+süre: 45
+malzemeler:
+- Bitter çikolata | 2 tablet
+- Kalıp margarin | 1/2 paket
+- Toz şeker | 1 su bardağı
+- Yumurta | 3 adet
+- Buğday unu | 3/4 su bardağı
+- Kakao | 2 yemek kaşığı
+yapılışı:
+1. Çikolatayı ve margarini kısık ateşte ya da benmari usulü erit.
+2. Şekeri ekle, karıştır. Biraz ılıyınca yumurtaları tek tek ekleyip çırp.
+3. Unu ve kakaoyu eleyerek ekle, karıştır.
+4. Yağlı kâğıt serili kare kalıba dök.
+5. 170°C fırında 25 dakika pişir; içi hafif nemli kalmalı. Soğuyunca kes.
+
+# 147 Muzlu magnolia
+süre: 25
+malzemeler:
+- Süt | 3 su bardağı
+- Toz şeker | 1/2 su bardağı
+- Buğday unu | 2 yemek kaşığı
+- Mısır nişastası | 2 yemek kaşığı
+- Bisküvi (petibör) | 1 paket
+- Muz | 2 adet
+yapılışı:
+1. Sütü, şekeri, unu ve nişastayı soğukken çırp; orta ateşte koyulaşana kadar karıştırarak pişir. Soğut.
+2. Bisküvileri ufala, muzları dilimle.
+3. Kaselere sırayla bisküvi, muhallebi ve muz koy.
+4. Üstü bisküviyle bitecek şekilde tekrarla.
+5. Buzdolabında 2 saat soğutup servis et.
+
+# 148 Kayısı tatlısı
+süre: 60
+malzemeler:
+- Kuru kayısı | 20 adet
+- Toz şeker | 1 su bardağı
+- Su | 2 su bardağı
+- Ceviz | 1/2 su bardağı
+- Kaymak | 4 yemek kaşığı
+yapılışı:
+1. Kayısıları sıcak suda 30 dakika beklet, süz.
+2. Şekeri ve suyu kaynat, kayısıları ekleyip kısık ateşte 20 dakika pişir, soğut.
+3. Cevizi ufala.
+4. Her kayısının ortasını aç, içine kaymak koy.
+5. Üstüne ceviz serpip biraz şerbet gezdirerek servis et.

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Android build output (for later)
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# Signing secrets
+*.jks
+*.keystore
+keystore.properties
+
+# Local-only handoff notes
+HANDOFF.md

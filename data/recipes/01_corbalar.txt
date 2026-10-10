@@ -1,0 +1,291 @@
+# 1 Mercimek çorbası
+süre: 40
+malzemeler:
+- Kırmızı mercimek | 1 su bardağı
+- Kuru soğan | 1 adet
+- Havuç | 1 adet
+- Patates | 1 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 7 su bardağı
+- Tuz | 1 çay kaşığı
+- Limon | 1 adet
+yapılışı:
+1. Soğanı, havucu ve patatesi küçük doğra, mercimeği yıka.
+2. Yağı tencerede ısıt, soğanı 3 dakika kavur.
+3. Havucu, patatesi ve mercimeği ekle, 1 dakika karıştır.
+4. Sıcak suyu ve tuzu ekle. Kaynayınca kısık ateşte 30 dakika pişir.
+5. Blenderdan geçir. Koyu gelirse biraz sıcak su ekle.
+6. Limonla servis et.
+
+# 2 Ezogelin çorbası
+süre: 45
+malzemeler:
+- Kırmızı mercimek | 1 su bardağı
+- Pilavlık bulgur | 2 yemek kaşığı
+- Baldo pirinç | 2 yemek kaşığı
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Kuru nane | 1 çay kaşığı
+- Pul biber | 1 çay kaşığı
+- Su | 8 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Soğanı küçük doğra; mercimeği, bulguru ve pirinci yıka.
+2. Yağı tencerede ısıt, soğanı 3 dakika kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Mercimeği, bulguru, pirinci, sıcak suyu ve tuzu ekle.
+5. Kaynayınca kısık ateşte, ara ara karıştırarak 35 dakika pişir.
+6. Naneyi ve pul biberi ekle, 2 dakika daha pişir.
+
+# 3 Yayla çorbası
+süre: 35
+malzemeler:
+- Baldo pirinç | 1/2 çay bardağı
+- Yoğurt | 1 su bardağı
+- Yumurta | 1 adet
+- Buğday unu | 1 yemek kaşığı
+- Kase margarin | 1 yemek kaşığı
+- Kuru nane | 1 tatlı kaşığı
+- Su | 6 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Pirinci yıka, sıcak suyla tencerede 15 dakika haşla.
+2. Yoğurdu, yumurtayı ve unu bir kasede pürüzsüz olana kadar çırp.
+3. Tencereden bir kepçe sıcak suyu yavaşça yoğurda ekleyip karıştır.
+4. Karışımı sürekli karıştırarak tencereye dök, kaynayana kadar karıştırmayı bırakma.
+5. Tuzu ekle, kısık ateşte 5 dakika pişir.
+6. Margarini küçük tavada erit, naneyi ekle, çorbanın üstüne gezdir.
+
+# 4 Domates çorbası
+süre: 25
+malzemeler:
+- Domates | 4 adet
+- Buğday unu | 2 yemek kaşığı
+- Kase margarin | 2 yemek kaşığı
+- Süt | 1 su bardağı
+- Su | 4 su bardağı
+- Kaşar | 1/2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Domatesleri rendele, kaşarı rendele.
+2. Margarini tencerede erit, unu ekle, 1-2 dakika kavur.
+3. Domatesi ekle, 5 dakika pişir.
+4. Sıcak suyu ve tuzu ekle. Kaynayınca 10 dakika pişir.
+5. Sütü yavaşça ekle, karıştırarak bir taşım kaynat.
+6. Üstüne kaşar serperek servis et.
+
+# 5 Şehriye çorbası
+süre: 20
+malzemeler:
+- Arpa şehriye | 1/2 su bardağı
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 7 su bardağı
+- Tuz | 1 çay kaşığı
+- Limon | 1 adet
+yapılışı:
+1. Yağı tencerede ısıt, şehriyeyi 2 dakika kavur.
+2. Salçayı ekle, 1 dakika karıştır.
+3. Sıcak suyu ve tuzu ekle.
+4. Kaynayınca kısık ateşte, şehriye yumuşayana kadar 10 dakika pişir.
+5. Limonla servis et.
+
+# 6 Tavuk suyu çorba
+süre: 50
+malzemeler:
+- Tavuk but / baget | 2 adet
+- Arpa şehriye | 1/2 su bardağı
+- Havuç | 1 adet
+- Su | 8 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+- Limon | 1 adet
+yapılışı:
+1. Tavukları suyla tencereye koy. Kaynayınca köpüğünü al, 30 dakika haşla.
+2. Tavukları çıkar, kemik ve derisinden ayırıp didikle.
+3. Havucu küçük doğra, tavuk suyuna ekle.
+4. Şehriyeyi ve tuzu ekle, 10 dakika pişir.
+5. Tavuğu ve karabiberi ekle, 2 dakika daha pişir.
+6. Limonla servis et.
+
+# 7 Terbiyeli tavuk çorbası
+süre: 45
+malzemeler:
+- Tavuk göğsü | 250 g
+- Buğday unu | 2 yemek kaşığı
+- Kase margarin | 1 yemek kaşığı
+- Yumurta | 1 adet
+- Limon | 1 adet
+- Su | 8 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Tavuğu suyla 25 dakika haşla, çıkarıp didikle. Suyunu sakla.
+2. Margarini tencerede erit, unu 1-2 dakika kavur.
+3. Tavuk suyunu yavaş yavaş, karıştırarak ekle. Tavuğu ve tuzu ekle, 5 dakika kaynat.
+4. Yumurtayı limon suyuyla bir kasede çırp.
+5. Bir kepçe sıcak çorbayı yavaşça yumurtaya ekleyip karıştır.
+6. Karışımı sürekli karıştırarak tencereye dök, bir taşım kaynatıp karabiberle servis et.
+
+# 8 Mantar çorbası
+süre: 25
+malzemeler:
+- Kültür mantarı | 250 g
+- Buğday unu | 2 yemek kaşığı
+- Kase margarin | 2 yemek kaşığı
+- Süt | 2 su bardağı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Mantarları küçük doğra.
+2. Margarini tencerede erit, mantarları suyunu çekene kadar 5 dakika sotele.
+3. Unu ekle, 1 dakika kavur.
+4. Sıcak suyu yavaş yavaş, karıştırarak ekle.
+5. Sütü, tuzu ve karabiberi ekle. Kaynayınca kısık ateşte 10 dakika pişir.
+
+# 9 Brokoli çorbası
+süre: 30
+malzemeler:
+- Brokoli | 1 adet
+- Patates | 1 adet
+- Kuru soğan | 1 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Süt | 1 su bardağı
+- Su | 5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Brokoliyi küçük parçalara ayır, patatesi ve soğanı doğra.
+2. Yağı tencerede ısıt, soğanı 3 dakika kavur.
+3. Brokoliyi, patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+4. Blenderdan geçir.
+5. Sütü ekle, karıştırarak bir taşım kaynat.
+
+# 10 Sebze çorbası
+süre: 40
+malzemeler:
+- Havuç | 1 adet
+- Patates | 1 adet
+- Kabak | 1 adet
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 7 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Bütün sebzeleri küçük küp doğra.
+2. Yağı tencerede ısıt, soğanı 3 dakika kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Havucu ve patatesi ekle, 2 dakika çevir.
+5. Sıcak suyu ve tuzu ekle. Kaynayınca 15 dakika pişir.
+6. Kabağı ekle, 10 dakika daha pişir.
+
+# 11 Yeşil mercimek çorbası
+süre: 50
+malzemeler:
+- Yeşil mercimek | 1 su bardağı
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Kuru nane | 1 çay kaşığı
+- Su | 8 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Mercimeği yıka, sıcak suyla 25 dakika haşla.
+2. Soğanı küçük doğra, tavada yağla 3 dakika kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Soğanlı karışımı ve tuzu mercimeğe ekle.
+5. Mercimekler yumuşayana kadar 15 dakika daha pişir.
+6. Naneyi ekleyip ocaktan al.
+
+# 12 Pırasa çorbası
+süre: 35
+malzemeler:
+- Pırasa | 2 sap
+- Patates | 2 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Süt | 1 su bardağı
+- Su | 5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Pırasayı ince doğra ve iyice yıka. Patatesi küp doğra.
+2. Yağı tencerede ısıt, pırasayı 5 dakika kavur.
+3. Patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+4. Blenderdan geçir.
+5. Sütü ekle, karıştırarak bir taşım kaynat.
+
+# 13 Kabak çorbası
+süre: 30
+malzemeler:
+- Kabak | 2 adet
+- Patates | 1 adet
+- Kuru soğan | 1 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Süt | 1 su bardağı
+- Su | 4 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Kabakları, patatesi ve soğanı doğra.
+2. Yağı tencerede ısıt, soğanı 3 dakika kavur.
+3. Kabağı, patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+4. Blenderdan geçir.
+5. Sütü ekle, karıştırarak bir taşım kaynat.
+
+# 14 Karnabahar çorbası
+süre: 30
+malzemeler:
+- Karnabahar | 500 g
+- Patates | 1 adet
+- Kuru soğan | 1 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Süt | 1 su bardağı
+- Su | 5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Karnabaharı küçük parçalara ayır, patatesi ve soğanı doğra.
+2. Yağı tencerede ısıt, soğanı 3 dakika kavur.
+3. Karnabaharı, patatesi, sıcak suyu ve tuzu ekle. 20 dakika pişir.
+4. Blenderdan geçir.
+5. Sütü ekle, karıştırarak bir taşım kaynat.
+
+# 15 Düğün çorbası
+süre: 90
+malzemeler:
+- Dana kuşbaşı | 300 g
+- Yoğurt | 1 su bardağı
+- Yumurta | 1 adet
+- Buğday unu | 2 yemek kaşığı
+- Limon | 1 adet
+- Kase margarin | 1 yemek kaşığı
+- Pul biber | 1 çay kaşığı
+- Su | 8 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Eti suyla tencereye koy. Köpüğünü alarak 1 saat, yumuşayana kadar haşla.
+2. Eti çıkarıp didikle, suyuna geri koy.
+3. Yoğurdu, yumurtayı, unu ve limon suyunu bir kasede çırp.
+4. Bir kepçe sıcak suyu yavaşça karışıma ekleyip karıştır.
+5. Karışımı sürekli karıştırarak tencereye dök. Tuzu ekle, kaynayınca 5 dakika pişir.
+6. Margarini erit, pul biberi ekle, çorbanın üstüne gezdir.
+
+# 16 Minestrone
+süre: 40
+malzemeler:
+- Havuç | 1 adet
+- Kabak | 1 adet
+- Patates | 1 adet
+- Domates | 2 adet
+- Kuru soğan | 1 adet
+- Penne / burgu | 1/2 su bardağı
+- Zeytinyağı | 2 yemek kaşığı
+- Su | 7 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Sebzeleri küçük küp doğra, domatesi rendele.
+2. Zeytinyağını tencerede ısıt, soğanı 3 dakika kavur.
+3. Havucu ve patatesi ekle, 2 dakika çevir. Domatesi ekle.
+4. Sıcak suyu ve tuzu ekle. Kaynayınca 15 dakika pişir.
+5. Kabağı ve makarnayı ekle, makarna yumuşayana kadar 10 dakika pişir.
+6. Karabiberi ekleyip servis et.

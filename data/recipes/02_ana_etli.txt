@@ -1,0 +1,620 @@
+# 17 Karnıyarık
+süre: 75
+malzemeler:
+- Patlıcan | 4 adet
+- Dana kıyma | 250 g
+- Kuru soğan | 1 adet
+- Domates | 2 adet
+- Sivri biber | 4 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Patlıcanları alacalı soy, tuzlu suda 15 dakika beklet, kurula.
+2. Patlıcanları yağda her yanı kızarana kadar kızart, kâğıt havluya al.
+3. Soğanı doğra, kıymayla suyunu çekene kadar kavur. Bir domatesi küp doğrayıp ekle, tuz ve karabiberle 5 dakika pişir.
+4. Patlıcanları fırın kabına diz, ortalarını uzunlamasına yar, kıymalı harcı doldur.
+5. Üstlerine diğer domatesin dilimlerini ve biberleri koy.
+6. Salçayı sıcak suda aç, kaba dök. 180°C fırında 30 dakika pişir.
+
+# 18 Patlıcan musakka
+süre: 70
+malzemeler:
+- Patlıcan | 3 adet
+- Dana kıyma | 250 g
+- Kuru soğan | 1 adet
+- Domates | 2 adet
+- Sivri biber | 2 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Patlıcanları alacalı soyup halka doğra, tuzlu suda 15 dakika beklet, kurula.
+2. Patlıcanları yağda kızart, kâğıt havluya al.
+3. Soğanı ve biberleri doğra, kıymayla kavur. Doğranmış domatesi, tuzu ve karabiberi ekle, 5 dakika pişir.
+4. Fırın kabına patlıcanları ve kıymayı kat kat diz.
+5. Salçayı sıcak suda aç, üstüne dök.
+6. 180°C fırında 30 dakika pişir.
+
+# 19 Kıymalı patates yemeği
+süre: 40
+malzemeler:
+- Patates | 5 adet
+- Dana kıyma | 200 g
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı doğra, patatesleri küp doğra.
+2. Yağda soğanı ve kıymayı suyunu çekene kadar kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Patatesi, sıcak suyu, tuzu ve karabiberi ekle.
+5. Kapağı kapalı, kısık ateşte patatesler yumuşayana kadar 25 dakika pişir.
+
+# 20 Fırında köfte patates
+süre: 60
+malzemeler:
+- Dana kıyma | 500 g
+- Ekmek | 2 dilim
+- Kuru soğan | 1 adet
+- Köftelik baharat | 1 çay kaşığı
+- Patates | 4 adet
+- Domates | 2 adet
+- Sivri biber | 4 adet
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Ekmeği ıslatıp sık, soğanı rendele.
+2. Kıymayı ekmek, soğan, baharat ve tuzun yarısıyla yoğur, ceviz büyüklüğünde köfteler yap.
+3. Patatesleri elma dilimi doğra, yağ ve kalan tuzla karıştırıp tepsiye yay.
+4. Köfteleri, domates dilimlerini ve biberleri patateslerin arasına diz.
+5. Suyu tepsiye dök. 200°C fırında 40 dakika pişir.
+
+# 21 Tava köfte
+süre: 25
+malzemeler:
+- Dana kıyma | 250 g
+- Ekmek | 1 dilim
+- Kuru soğan | 1 adet
+- Köftelik baharat | 1/2 çay kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Ekmeği ıslatıp sık, soğanı rendele.
+2. Kıymayı ekmek, soğan, baharat ve tuzla 3-4 dakika yoğur.
+3. Yassı köfteler şekillendir.
+4. Tavada yağı ısıt, köftelerin her iki yüzünü 4-5 dakika pişir.
+
+# 22 İzmir köfte
+süre: 70
+malzemeler:
+- Dana kıyma | 500 g
+- Ekmek | 2 dilim
+- Kuru soğan | 1 adet
+- Köftelik baharat | 1 çay kaşığı
+- Patates | 3 adet
+- Domates | 2 adet
+- Sivri biber | 4 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Su | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Ekmeği ıslatıp sık, soğanı rendele. Kıymayı ekmek, soğan, baharat ve tuzun yarısıyla yoğur, uzun köfteler yap.
+2. Patatesleri elma dilimi doğra. Köfteleri ve patatesleri yağda hafifçe kızart.
+3. Fırın kabına köfte, patates, domates dilimi ve biberleri sırayla diz.
+4. Salçayı sıcak suda açıp kalan tuzu ekle, kaba dök.
+5. 180°C fırında 35 dakika pişir.
+
+# 23 Sulu köfte
+süre: 50
+malzemeler:
+- Dana kıyma | 300 g
+- Baldo pirinç | 2 yemek kaşığı
+- Kuru soğan | 1 adet
+- Buğday unu | 2 yemek kaşığı
+- Patates | 2 adet
+- Havuç | 1 adet
+- Yumurta | 1 adet
+- Limon | 1 adet
+- Su | 7 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Soğanı rendele. Kıymayı pirinç, soğan ve tuzun yarısıyla yoğur, fındık büyüklüğünde köfteler yap.
+2. Köfteleri una bula.
+3. Patatesi ve havucu küp doğra, sıcak su ve kalan tuzla tencerede kaynat.
+4. Köfteleri ekle, kısık ateşte 25 dakika pişir.
+5. Yumurtayı limon suyuyla çırp, bir kepçe sıcak suyu yavaşça ekleyip karıştır.
+6. Karışımı karıştırarak tencereye dök, bir taşım kaynatıp ocaktan al.
+
+# 24 Kadınbudu köfte
+süre: 70
+malzemeler:
+- Dana kıyma | 400 g
+- Baldo pirinç | 1/2 çay bardağı
+- Kuru soğan | 1 adet
+- Yumurta | 2 adet
+- Buğday unu | 1/2 su bardağı
+- Ayçiçek yağı | 1/2 su bardağı | kızartma
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Pirinci 10 dakika haşla, süz.
+2. Soğanı ince doğra, kıymanın yarısıyla 5 dakika kavur, soğut.
+3. Kavrulan kıymayı çiğ kıyma, pirinç, tuz ve karabiberle yoğur. Yassı, oval köfteler yap.
+4. Köfteleri önce una, sonra çırpılmış yumurtaya bula.
+5. Kızgın yağda her iki yüzü kızarana kadar pişir.
+
+# 25 Hasanpaşa köfte
+süre: 75
+malzemeler:
+- Dana kıyma | 400 g
+- Ekmek | 1 dilim
+- Kuru soğan | 1 adet
+- Köftelik baharat | 1 çay kaşığı
+- Patates | 4 adet
+- Süt | 1/2 su bardağı
+- Kase margarin | 1 yemek kaşığı
+- Kaşar | 1/2 su bardağı
+- Domates salçası | 1 yemek kaşığı
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patatesleri haşla; süt, margarin ve tuzun yarısıyla ezip püre yap.
+2. Ekmeği ıslatıp sık, soğanı rendele. Kıymayı ekmek, soğan, baharat ve kalan tuzla yoğur.
+3. Kıymadan yassı yuvarlaklar yap, fırın kabına diz, ortalarına parmakla çukur aç.
+4. Çukurlara püreyi doldur, üstüne rendelenmiş kaşar serp.
+5. Salçayı sıcak suda aç, köftelerin arasına dök.
+6. 190°C fırında 35 dakika pişir.
+
+# 26 Dalyan köfte
+süre: 75
+malzemeler:
+- Dana kıyma | 500 g
+- Ekmek | 2 dilim
+- Kuru soğan | 1 adet
+- Yumurta | 3 adet
+- Havuç | 1 adet
+- Dondurulmuş bezelye / garnitür | 1/2 su bardağı
+- Köftelik baharat | 1 çay kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. İki yumurtayı 10 dakika haşla, soy.
+2. Havucu küçük küp doğra. Ekmeği ıslatıp sık, soğanı rendele.
+3. Kıymayı ekmek, soğan, çiğ yumurta, havuç, bezelye, baharat ve tuzla yoğur.
+4. Yağlı kâğıt serili tepsiye harcın yarısını dikdörtgen yay, haşlanmış yumurtaları ortasına diz.
+5. Kalan harçla üstünü kapatıp rulo şekli ver.
+6. 190°C fırında 45 dakika pişir, dilimleyip servis et.
+
+# 27 Dondurulmuş köfte + patates
+süre: 25
+malzemeler:
+- Dondurulmuş köfte | 8 adet
+- Dondurulmuş patates | 300 g
+- Ayçiçek yağı | 2 yemek kaşığı
+yapılışı:
+1. Fırını 200°C'ye ısıt.
+2. Patatesleri tepsiye yay, yağı gezdir.
+3. Köfteleri patateslerin yanına diz.
+4. Paketteki süreye göre, genelde 20-25 dakika pişir; arada bir çevir.
+
+# 28 Kıymalı ıspanak
+süre: 30
+malzemeler:
+- Ispanak | 1000 g
+- Dana kıyma | 200 g
+- Kuru soğan | 1 adet
+- Baldo pirinç | 2 yemek kaşığı
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Ispanağı iyice yıka, iri doğra. Soğanı küçük doğra.
+2. Yağda soğanı ve kıymayı kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Ispanağı, pirinci, sıcak suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 20 dakika pişir.
+
+# 29 Kıymalı pırasa
+süre: 45
+malzemeler:
+- Pırasa | 4 sap
+- Dana kıyma | 200 g
+- Kuru soğan | 1 adet
+- Havuç | 1 adet
+- Baldo pirinç | 2 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Pırasayı halka doğra ve iyice yıka. Havucu halka, soğanı küçük doğra.
+2. Yağda soğanı ve kıymayı kavur.
+3. Pırasayı ve havucu ekle, 5 dakika çevir.
+4. Pirinci, sıcak suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 30 dakika pişir.
+
+# 30 Kıymalı kabak
+süre: 35
+malzemeler:
+- Kabak | 5 adet
+- Dana kıyma | 200 g
+- Kuru soğan | 1 adet
+- Domates | 2 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 1/2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Kabakları yarım ay doğra, domatesi rendele, soğanı küçük doğra.
+2. Yağda soğanı ve kıymayı kavur.
+3. Domatesi ekle, 3 dakika pişir.
+4. Kabakları, suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 20 dakika pişir.
+
+# 31 Kıymalı karnabahar
+süre: 40
+malzemeler:
+- Karnabahar | 1000 g
+- Dana kıyma | 200 g
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Karnabaharı küçük parçalara ayır, yıka. Soğanı doğra.
+2. Yağda soğanı ve kıymayı kavur.
+3. Salçayı ekle, 1 dakika karıştır.
+4. Karnabaharı, sıcak suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 25 dakika pişir.
+
+# 32 Kapuska
+süre: 45
+malzemeler:
+- Beyaz lahana | 1000 g
+- Dana kıyma | 200 g
+- Kuru soğan | 1 adet
+- Baldo pirinç | 2 yemek kaşığı
+- Domates salçası | 1 yemek kaşığı
+- Pul biber | 1 çay kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Lahanayı ince doğra, yıka. Soğanı doğra.
+2. Yağda soğanı ve kıymayı kavur.
+3. Salçayı ve pul biberi ekle, 1 dakika karıştır.
+4. Lahanayı ekle, 5 dakika çevir.
+5. Pirinci, sıcak suyu ve tuzu ekle. Kapağı kapalı, kısık ateşte 30 dakika pişir.
+
+# 33 Lahana sarması
+süre: 90
+malzemeler:
+- Beyaz lahana | 1 adet
+- Dana kıyma | 300 g
+- Baldo pirinç | 1 su bardağı
+- Kuru soğan | 1 adet
+- Domates salçası | 2 yemek kaşığı
+- Kuru nane | 1 tatlı kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Lahananın yapraklarını ayır, kaynar tuzlu suda 5 dakika haşla, kalın damarlarını kes.
+2. Soğanı rendele. Kıymayı pirinç, soğan, bir kaşık salça, nane, tuz ve karabiberle yoğur.
+3. Her yaprağa bir parça harç koyup sar.
+4. Sarmaları tencereye sıkıca diz.
+5. Kalan salçayı sıcak su ve yağla karıştırıp tencereye dök. Üstüne ters bir tabak kapat.
+6. Kaynayınca kısık ateşte 50 dakika pişir.
+
+# 34 Kabak dolması
+süre: 75
+malzemeler:
+- Kabak | 6 adet
+- Dana kıyma | 250 g
+- Baldo pirinç | 1/2 su bardağı
+- Domates | 2 adet
+- Kuru soğan | 1 adet
+- Domates salçası | 1 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Kabakların sap tarafını kesip içlerini oy.
+2. Soğanı ve bir domatesi rendele. Kıymayı pirinç, soğan, domates ve tuzla yoğur.
+3. Kabakların içini harçla doldur, diğer domatesin dilimleriyle ağızlarını kapat.
+4. Kabakları tencereye dik diz.
+5. Salçayı sıcak suda aç, tencereye dök.
+6. Kaynayınca kısık ateşte 45 dakika pişir.
+
+# 35 Etli taze fasulye
+süre: 60
+malzemeler:
+- Taze fasulye | 750 g
+- Dana kuşbaşı | 250 g
+- Kuru soğan | 1 adet
+- Domates | 2 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Fasulyelerin uçlarını kesip ikiye böl. Soğanı doğra, domatesi rendele.
+2. Yağda eti suyunu salıp çekene kadar kavur.
+3. Soğanı ekle, 3 dakika kavur. Domatesi ekle.
+4. Fasulyeyi, sıcak suyu ve tuzu ekle.
+5. Kapağı kapalı, kısık ateşte 40 dakika pişir.
+
+# 36 Etli kuru fasulye
+süre: 120
+malzemeler:
+- Kuru fasulye | 2 su bardağı
+- Dana kuşbaşı | 250 g
+- Kuru soğan | 1 adet
+- Domates salçası | 2 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 6 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Fasulyeyi bir gece önceden bol suda ıslat.
+2. Fasulyeyi süzüp 15 dakika haşla, suyunu dök.
+3. Yağda eti kavur, doğranmış soğanı ekleyip 3 dakika daha kavur.
+4. Salçayı ekle, 1 dakika karıştır.
+5. Fasulyeyi, sıcak suyu ve tuzu ekle.
+6. Kapağı kapalı, kısık ateşte fasulyeler yumuşayana kadar 1,5 saat pişir.
+
+# 37 Etli nohut
+süre: 110
+malzemeler:
+- Nohut | 2 su bardağı
+- Dana kuşbaşı | 250 g
+- Kuru soğan | 1 adet
+- Domates salçası | 2 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Nohudu bir gece önceden bol suda ıslat.
+2. Nohudu süzüp 15 dakika haşla, suyunu dök.
+3. Yağda eti kavur, doğranmış soğanı ekleyip 3 dakika daha kavur.
+4. Salçayı ekle, 1 dakika karıştır.
+5. Nohudu, sıcak suyu ve tuzu ekle.
+6. Kapağı kapalı, kısık ateşte nohutlar yumuşayana kadar 1 saat 15 dakika pişir.
+
+# 38 Et sote
+süre: 45
+malzemeler:
+- Dana kuşbaşı | 300 g
+- Kuru soğan | 1 adet
+- Domates | 1 adet
+- Sivri biber | 3 adet
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı, biberleri ve domatesi doğra.
+2. Yağda eti yüksek ateşte suyunu salıp çekene kadar kavur.
+3. Kapağı kapat, kısık ateşte et yumuşayana kadar 25 dakika pişir.
+4. Soğanı ve biberleri ekle, 5 dakika kavur.
+5. Domatesi, tuzu ve karabiberi ekle, 5 dakika pişir.
+
+# 39 Tas kebabı
+süre: 90
+malzemeler:
+- Dana kuşbaşı | 500 g
+- Kuru soğan | 2 adet
+- Patates | 3 adet
+- Domates | 2 adet
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı doğra, domatesi rendele, patatesleri küp doğra.
+2. Yağda eti suyunu salıp çekene kadar kavur.
+3. Soğanı ekle, 3 dakika kavur. Salçayı ve domatesi ekle, 3 dakika pişir.
+4. Sıcak suyu ekle. Kapağı kapalı, kısık ateşte 45 dakika pişir.
+5. Patatesi, tuzu ve karabiberi ekle, 25 dakika daha pişir.
+
+# 40 Orman kebabı
+süre: 90
+malzemeler:
+- Dana kuşbaşı | 500 g
+- Patates | 3 adet
+- Havuç | 2 adet
+- Dondurulmuş bezelye / garnitür | 1 su bardağı
+- Kuru soğan | 1 adet
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 2 su bardağı
+- Tuz | 1 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı doğra, patatesi ve havucu küp doğra.
+2. Yağda eti kavur, soğanı ekleyip 3 dakika daha kavur.
+3. Sıcak suyu ekle. Kapağı kapalı, kısık ateşte 45 dakika pişir.
+4. Havucu ve patatesi ekle, 20 dakika pişir.
+5. Bezelyeyi, tuzu ve karabiberi ekle, 10 dakika daha pişir.
+
+# 41 Güveç
+süre: 100
+malzemeler:
+- Dana kuşbaşı | 500 g
+- Patlıcan | 2 adet
+- Patates | 2 adet
+- Domates | 3 adet
+- Sivri biber | 4 adet
+- Kuru soğan | 1 adet
+- Ayçiçek yağı | 3 yemek kaşığı
+- Su | 1 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patlıcanı, patatesi ve domatesi küp; soğanı ve biberi iri doğra.
+2. Yağda eti 5 dakika kavur.
+3. Eti ve bütün sebzeleri geniş bir fırın kabında tuzla karıştır.
+4. Suyu ekle, kabın üstünü alüminyum folyoyla kapat.
+5. 190°C fırında 1 saat pişir, sonra folyoyu açıp 20 dakika daha pişir.
+
+# 42 Hünkar beğendi
+süre: 100
+malzemeler:
+- Dana kuşbaşı | 500 g
+- Kuru soğan | 1 adet
+- Domates | 2 adet
+- Patlıcan | 4 adet
+- Süt | 1,5 su bardağı
+- Buğday unu | 2 yemek kaşığı
+- Kalıp margarin | 1/8 paket
+- Kaşar | 1/2 su bardağı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 1,5 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Yağda eti kavur, doğranmış soğanı ve rendelenmiş domatesi ekle. Sıcak su ve tuzun yarısıyla, kapağı kapalı 1 saat pişir.
+2. Patlıcanları ocakta veya fırında közle, kabuklarını soyup ince doğra.
+3. Margarini erit, unu 2 dakika kavur. Sütü yavaşça ekleyip koyulaşana kadar karıştır.
+4. Patlıcanı, rendelenmiş kaşarı ve kalan tuzu ekle, 3 dakika karıştır.
+5. Beğendiyi tabağa yay, üstüne eti koyarak servis et.
+
+# 54 Dana stroganoff
+süre: 45
+malzemeler:
+- Dana kuşbaşı | 300 g
+- Kültür mantarı | 200 g
+- Kuru soğan | 1 adet
+- Sıvı krema (pişirme kreması) | 1 paket
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Eti ince şeritler halinde doğra. Soğanı ve mantarı doğra.
+2. Yağda eti yüksek ateşte suyunu çekene kadar kavur. Kapağı kapat, kısık ateşte 20 dakika pişir.
+3. Soğanı ve mantarı ekle, 5 dakika kavur.
+4. Kremayı, tuzu ve karabiberi ekle, 5 dakika kaynat.
+5. Pilav ya da makarnayla servis et.
+
+# 55 Gulaş
+süre: 100
+malzemeler:
+- Dana kuşbaşı | 500 g
+- Kuru soğan | 2 adet
+- Patates | 3 adet
+- Kapya biber | 1 adet
+- Toz kırmızı biber (tatlı) | 1 yemek kaşığı
+- Domates salçası | 1 yemek kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 4 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Soğanı ve kapya biberi doğra, patatesi küp doğra.
+2. Yağda soğanı 5 dakika kavur, eti ekle, suyunu çekene kadar kavur.
+3. Toz biberi ve salçayı ekle, 1 dakika karıştır.
+4. Sıcak suyu ekle. Kapağı kapalı, kısık ateşte 1 saat pişir.
+5. Patatesi, kapya biberi ve tuzu ekle, 25 dakika daha pişir.
+
+# 56 Chili con carne
+süre: 120
+malzemeler:
+- Dana kıyma | 400 g
+- Kuru fasulye | 1 su bardağı
+- Kuru soğan | 1 adet
+- Kapya biber | 1 adet
+- Domates | 3 adet
+- Kimyon | 1 çay kaşığı
+- Pul biber | 1 çay kaşığı
+- Ayçiçek yağı | 2 yemek kaşığı
+- Su | 3 su bardağı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Fasulyeyi bir gece önceden ıslat, 45 dakika haşlayıp süz.
+2. Soğanı ve biberi doğra, domatesi rendele.
+3. Yağda soğanı ve kıymayı kavur.
+4. Biberi, kimyonu ve pul biberi ekle, 2 dakika karıştır.
+5. Domatesi, fasulyeyi, sıcak suyu ve tuzu ekle.
+6. Kısık ateşte, koyulaşana kadar 40 dakika pişir.
+
+# 57 Çoban turtası
+süre: 75
+malzemeler:
+- Dana kıyma | 400 g
+- Kuru soğan | 1 adet
+- Havuç | 1 adet
+- Dondurulmuş bezelye / garnitür | 1/2 su bardağı
+- Domates salçası | 1 yemek kaşığı
+- Patates | 5 adet
+- Süt | 1/2 su bardağı
+- Kase margarin | 1 yemek kaşığı
+- Ayçiçek yağı | 1 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patatesleri haşla; süt, margarin ve tuzun yarısıyla ezip püre yap.
+2. Soğanı ve havucu küçük doğra. Yağda soğanı ve kıymayı kavur.
+3. Havucu, bezelyeyi, salçayı ve kalan tuzu ekle, 10 dakika pişir.
+4. Kıymayı fırın kabına yay, üstünü püreyle kapat.
+5. 200°C fırında üstü kızarana kadar 25 dakika pişir.
+
+# 58 Ev yapımı hamburger
+süre: 30
+malzemeler:
+- Hamburger ekmeği | 2 adet
+- Dana kıyma | 250 g
+- Kuru soğan | 1 adet
+- Marul | 60 g
+- Domates | 1 adet
+- Turşu | 2 adet
+- Tuz | 1/2 çay kaşığı
+- Karabiber | 1/2 çay kaşığı
+yapılışı:
+1. Kıymayı tuz ve karabiberle yoğur, iki yassı köfte yap.
+2. Köfteleri kızgın tavada her yüzü 4-5 dakika pişir.
+3. Ekmekleri kesip tavada hafifçe ısıt.
+4. Soğanı halka, domatesi ve turşuyu dilim doğra.
+5. Ekmeğe marul, köfte, domates, soğan ve turşuyu koyup kapat.
+
+# 59 Sosisli patates sote
+süre: 25
+malzemeler:
+- Sosis | 4 adet
+- Patates | 3 adet
+- Kapya biber | 1 adet
+- Ayçiçek yağı | 3 yemek kaşığı
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Patatesleri küçük küp, sosisleri halka, biberi küçük doğra.
+2. Tavada yağı ısıt, patatesleri kapağı kapalı, ara ara çevirerek 12 dakika pişir.
+3. Sosisi ve biberi ekle, 5 dakika kavur.
+4. Tuzu ekleyip servis et.
+
+# 60 Sucuklu yumurta
+süre: 10
+malzemeler:
+- Sucuk | 60 g
+- Yumurta | 2 adet
+yapılışı:
+1. Sucuğu ince dilimle.
+2. Yağsız tavada sucuğu 2 dakika çevir.
+3. Yumurtaları üstüne kır, yumurta pişene kadar 3-4 dakika pişir.
+
+# 153 Ekmek arası köfte
+süre: 30
+malzemeler:
+- Ekmek | 250 g
+- Dana kıyma | 250 g
+- Kuru soğan | 1 adet
+- Köftelik baharat | 1/2 çay kaşığı
+- Domates | 1 adet
+- Sivri biber | 2 adet
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Soğanı rendele. Kıymayı soğan, baharat ve tuzla yoğur, uzun ve yassı köfteler yap.
+2. Köfteleri ve biberleri kızgın tavada, köftelerin her yüzü 4-5 dakika olacak şekilde pişir.
+3. Ekmeği ikiye kes, ortasından yar, tavada hafifçe ısıt.
+4. Domatesi dilimle.
+5. Ekmeğin içine köfte, domates ve biberi koyup servis et.

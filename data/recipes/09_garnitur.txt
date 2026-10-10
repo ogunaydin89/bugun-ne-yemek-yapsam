@@ -1,0 +1,24 @@
+# 150 Patates kızartması
+süre: 25
+malzemeler:
+- Patates | 3 adet
+- Ayçiçek yağı | 1 su bardağı | kızartma
+- Tuz | 1/2 çay kaşığı
+yapılışı:
+1. Patatesleri soyup parmak şeklinde doğra.
+2. Soğuk suda 10 dakika beklet, iyice kurula.
+3. Yağı ısıt, patatesleri iki parti halinde altın rengi olana kadar 6-8 dakika kızart.
+4. Kâğıt havluya al, tuzla.
+
+# 151 Patates püresi
+süre: 30
+malzemeler:
+- Patates | 5 adet
+- Süt | 1 su bardağı
+- Kase margarin | 2 yemek kaşığı
+- Tuz | 1 çay kaşığı
+yapılışı:
+1. Patatesleri soyup doğra, yumuşayana kadar 20 dakika haşla, süz.
+2. Sütü ılıt.
+3. Patatesleri ez, margarini ekle.
+4. Sütü azar azar ekleyerek pürüzsüz olana kadar karıştır, tuzla.
