@@ -1,12 +1,23 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables & secrets
+.env
+*.env
 
 # Editors and OS
 .vscode/
 .idea/
 *.swp
 .DS_Store
+Thumbs.db
 
 # Android build output (for later)
 build/
