@@ -2,9 +2,9 @@
 
 A Turkish-only app that answers the daily question "what should I cook today?".
 
-**Status:** planning. There is no app code yet. The data is drafted: 124 pantry items, 153 dishes and a recipe for every dish (awaiting the owner's review).
+**Status:** Android app (`v0.1.0-test`) and complete dataset built: 124 pantry items, 153 dishes, recipes, USDA calorie builder (`tools/build_recipes.py`), and JUnit test suite (`android/`).
 
-**Platform:** Android only, modern versions only (no legacy Android support). The app's name, package ID and icon are not decided yet.
+**Platform:** Android (`minSdk 31`, Kotlin + Jetpack Compose, 100% offline with zero permissions).
 
 ---
 
@@ -405,6 +405,6 @@ Agreed with the owner. The allergy groups are a required feature.
 
 ## License
 
-- **Code** (the app and `tools/`): MIT © helinesca. See `LICENSE`.
-- **Content** (everything in `data/`: the dish catalog, recipes, pantry list and conversions): **CC BY-NC 4.0** © helinesca. It may be used and shared with credit, but **not for commercial purposes**. See `data/LICENSE` or <https://creativecommons.org/licenses/by-nc/4.0/>.
+- **Code** (the app and `tools/`): MIT © Ogün Aydın ([ogunaydin89](https://github.com/ogunaydin89)). See `LICENSE`.
+- **Content** (everything in `data/`: the dish catalog, recipes, pantry list and conversions): **CC BY-NC 4.0** © Ogün Aydın ([ogunaydin89](https://github.com/ogunaydin89)). It may be used and shared with credit, but **not for commercial purposes**. See `data/LICENSE` or <https://creativecommons.org/licenses/by-nc/4.0/>.
 - The calorie figures in `pantry.tsv` come from USDA FoodData Central, which is public-domain data.

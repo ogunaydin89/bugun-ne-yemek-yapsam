@@ -12,7 +12,7 @@ object Rules {
 
     /** "Et" in "Et yiyor musunuz?" means red meat only; şarküteri (sucuk, sosis, salam) is not "et". */
     val RED_MEAT = setOf("Dana kıyma", "Dana kuşbaşı", "Dondurulmuş köfte")
-    val CHICKEN = setOf("Tavuk göğsü", "Tavuk but / baget", "Bütün tavuk", "Tavuk kanat", "Sosis")
+    val CHICKEN = setOf("Tavuk göğsü", "Tavuk but / baget", "Bütün tavuk", "Tavuk kanat")
     val LEGUMES = setOf("Kırmızı mercimek", "Yeşil mercimek", "Nohut", "Kuru fasulye")
 
     /** Items that don't make a dish "contain" something for bans of the main-ingredient kind. */
